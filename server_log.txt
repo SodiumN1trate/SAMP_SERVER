@@ -7744,3 +7744,164 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:36:53] [connection] incoming connection: 127.0.0.1:52682 id: 0
 [16:36:53] [join] Lunatikssd has joined the server (0:127.0.0.1)
 [16:36:53] Reìistrçts!
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:02:39] 
+[17:02:39] Server Plugins
+[17:02:39] --------------
+[17:02:39]  Loading plugin: sscanf
+[17:02:39] 
+
+[17:02:39]  ===============================
+
+[17:02:39]       sscanf plugin loaded.     
+
+[17:02:39]          Version:  2.8.3        
+
+[17:02:39]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:02:39]  ===============================
+
+[17:02:39]   Loaded.
+[17:02:39]  Loading plugin: mysql
+[17:02:39]  >> plugin.mysql: R41-4 successfully loaded.
+[17:02:39]   Loaded.
+[17:02:39]  Loaded 2 plugins.
+
+[17:02:39] 
+[17:02:39] Filterscripts
+[17:02:39] ---------------
+[17:02:39]   Loading filterscript 'mapping.amx'...
+[17:02:39] 
+--------------------------------------
+[17:02:39]                 MAPPINGS                
+[17:02:39] --------------------------------------
+
+[17:02:39]   Loaded 1 filterscripts.
+
+[17:02:48] ** [MySQL] Couldn't connect to the database (2002).
+[17:02:48] 
+----------------------------------
+[17:02:48]                 SONI
+[17:02:48] ----------------------------------
+
+[17:02:48] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:04:57] 
+[17:04:57] Server Plugins
+[17:04:57] --------------
+[17:04:57]  Loading plugin: sscanf
+[17:04:57] 
+
+[17:04:57]  ===============================
+
+[17:04:57]       sscanf plugin loaded.     
+
+[17:04:57]          Version:  2.8.3        
+
+[17:04:57]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:04:57]  ===============================
+
+[17:04:57]   Loaded.
+[17:04:57]  Loading plugin: mysql
+[17:04:57]  >> plugin.mysql: R41-4 successfully loaded.
+[17:04:57]   Loaded.
+[17:04:57]  Loaded 2 plugins.
+
+[17:04:57] 
+[17:04:57] Filterscripts
+[17:04:57] ---------------
+[17:04:57]   Loading filterscript 'mapping.amx'...
+[17:04:57] 
+--------------------------------------
+[17:04:57]                 MAPPINGS                
+[17:04:57] --------------------------------------
+
+[17:04:57]   Loaded 1 filterscripts.
+
+[17:04:59] [connection] 127.0.0.1:49935 requests connection cookie.
+[17:05:06] ** [MySQL] Couldn't connect to the database (2002).
+[17:05:06] 
+----------------------------------
+[17:05:06]                 SONI
+[17:05:06] ----------------------------------
+
+[17:05:06] Number of vehicle models: 0
+[17:05:06] [connection] incoming connection: 127.0.0.1:49935 id: 0
+[17:05:06] [join] Antons_Colosimo has joined the server (0:127.0.0.1)
+[17:05:06] Nereìistrçts
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:06:00] 
+[17:06:00] Server Plugins
+[17:06:00] --------------
+[17:06:00]  Loading plugin: sscanf
+[17:06:00] 
+
+[17:06:00]  ===============================
+
+[17:06:00]       sscanf plugin loaded.     
+
+[17:06:00]          Version:  2.8.3        
+
+[17:06:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:06:00]  ===============================
+
+[17:06:00]   Loaded.
+[17:06:00]  Loading plugin: mysql
+[17:06:00]  >> plugin.mysql: R41-4 successfully loaded.
+[17:06:00]   Loaded.
+[17:06:00]  Loaded 2 plugins.
+
+[17:06:00] 
+[17:06:00] Filterscripts
+[17:06:00] ---------------
+[17:06:00]   Loading filterscript 'mapping.amx'...
+[17:06:00] 
+--------------------------------------
+[17:06:00]                 MAPPINGS                
+[17:06:00] --------------------------------------
+
+[17:06:00]   Loading filterscript 'vehicles.amx'...
+[17:06:00] 
+--------------------------------------
+[17:06:00] Vehicle script by initiated.
+[17:06:00] --------------------------------------
+
+[17:06:00]   Loaded 2 filterscripts.
+
+[17:06:09] ** [MySQL] Couldn't connect to the database (2002).
+[17:06:09] 
+----------------------------------
+[17:06:09]                 SONI
+[17:06:09] ----------------------------------
+
+[17:06:09] Number of vehicle models: 1
+[17:06:28] [connection] 127.0.0.1:49750 requests connection cookie.
+[17:06:29] [connection] incoming connection: 127.0.0.1:49750 id: 0
+[17:06:30] [join] Antons_Colosimo has joined the server (0:127.0.0.1)
+[17:06:30] Nereìistrçts

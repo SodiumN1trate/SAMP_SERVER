@@ -11,7 +11,7 @@ new rentInfo[sizeof(vehicles)];
 public OnFilterScriptInit()
 {
 	print("\n--------------------------------------");
-	print("Vehicle script by initiated.");
+	print("Vehicle script initiated.");
 	print("--------------------------------------\n");
     new y = -1902;
 	for(new i = 0; i < 7; i++)
@@ -244,7 +244,7 @@ public OnVehicleStreamOut(vehicleid, forplayerid)
 public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 {
 	if(dialogid == RENT_VEHICLE) {
-	    if(!response) {
+	    if(response == 0) {
 	        RemovePlayerFromVehicle(playerid);
 	    } else {
 	        GivePlayerMoney(playerid, -150);

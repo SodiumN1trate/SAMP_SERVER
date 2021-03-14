@@ -2636,3 +2636,93 @@
 [16:36:58] [DEBUG] cache_get_value_index: return value: '1'
 [16:36:58] [DEBUG] cache_delete(3)
 [16:36:58] [DEBUG] cache_delete: return value: '1'
+[17:02:39] [WARNING] mysql_connect_file: no password specified
+[17:02:41] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:02:44] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:02:46] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:02:48] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:02:48] [INFO] changed log level from 'warning, error' to 'debug, info, warning, error'
+[17:02:48] [DEBUG] mysql_errno(1)
+[17:02:48] [DEBUG] CHandle::GetErrorId(this=0x5b3b70)
+[17:02:48] [DEBUG] CConnection::GetError(this=0x5a05a0, connection=0x577580)
+[17:02:48] [DEBUG] CHandle::GetErrorId - return value: true, error id: '2002', error msg: 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:02:48] [DEBUG] mysql_errno: return value: '2002'
+[17:02:48] [DEBUG] mysql_errno(1)
+[17:02:48] [DEBUG] CHandle::GetErrorId(this=0x5b3b70)
+[17:02:48] [DEBUG] CConnection::GetError(this=0x5a05a0, connection=0x577580)
+[17:02:48] [DEBUG] CHandle::GetErrorId - return value: true, error id: '2002', error msg: 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:02:48] [DEBUG] mysql_errno: return value: '2002'
+[17:04:57] [WARNING] mysql_connect_file: no password specified
+[17:04:59] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:05:01] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:05:03] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:05:06] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:05:06] [INFO] changed log level from 'warning, error' to 'debug, info, warning, error'
+[17:05:06] [DEBUG] mysql_errno(1)
+[17:05:06] [DEBUG] CHandle::GetErrorId(this=0x5d7bc8)
+[17:05:06] [DEBUG] CConnection::GetError(this=0x5cc2f0, connection=0x5d8f30)
+[17:05:06] [DEBUG] CHandle::GetErrorId - return value: true, error id: '2002', error msg: 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:05:06] [DEBUG] mysql_errno: return value: '2002'
+[17:05:06] [DEBUG] mysql_errno(1)
+[17:05:06] [DEBUG] CHandle::GetErrorId(this=0x5d7bc8)
+[17:05:06] [DEBUG] CConnection::GetError(this=0x5cc2f0, connection=0x5d8f30)
+[17:05:06] [DEBUG] CHandle::GetErrorId - return value: true, error id: '2002', error msg: 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:05:06] [DEBUG] mysql_errno: return value: '2002'
+[17:05:06] [DEBUG] mysql_query(1, "SELECT `username` FROM `users` WHERE `username` = 'Antons_Colosimo'", 1)
+[17:05:06] [DEBUG] CHandle::Execute(this=0x5d7bc8, type=3, query=0x5d8a68)
+[17:05:06] [DEBUG] CConnection::Execute(query=0x5d8a68, this=0x5cc2f0, connection=0x5d8f30)
+[17:05:06] [DEBUG] CHandle::Execute - return value: false
+[17:05:06] [DEBUG] mysql_query: return value: '0'
+[17:05:06] [DEBUG] cache_get_row_count(0x02B44D7C)
+[17:05:06] [ERROR] cache_get_row_count: no active cache
+[17:05:06] [DEBUG] mysql_query(1, "SELECT `username` FROM `users` WHERE `username` = 'Antons_Colosimo'", 1)
+[17:05:06] [DEBUG] CHandle::Execute(this=0x5d7bc8, type=3, query=0x5d8180)
+[17:05:06] [DEBUG] CConnection::Execute(query=0x5d8180, this=0x5cc2f0, connection=0x5d8f30)
+[17:05:06] [DEBUG] CHandle::Execute - return value: false
+[17:05:06] [DEBUG] mysql_query: return value: '0'
+[17:05:06] [DEBUG] cache_delete(0)
+[17:05:06] [ERROR] cache_delete: invalid cache id '0'
+[17:05:12] [DEBUG] mysql_format(1, 0x02B44DB8, 120, "INSERT INTO `users` (`username`, `password`, `skin_id`) VALUES ('%s', '%s', '%i')")
+[17:05:12] [DEBUG] mysql_format: return value: '94'
+[17:05:12] [DEBUG] mysql_query(1, "INSERT INTO `users` (`username`, `password`, `skin_id`) VALUES ('Antons_Colosimo', 'nç', '42')", 1)
+[17:05:12] [DEBUG] CHandle::Execute(this=0x5d7bc8, type=3, query=0x5d8478)
+[17:05:12] [DEBUG] CConnection::Execute(query=0x5d8478, this=0x5cc2f0, connection=0x5d8f30)
+[17:05:12] [DEBUG] CHandle::Execute - return value: false
+[17:05:12] [DEBUG] mysql_query: return value: '0'
+[17:06:00] [WARNING] mysql_connect_file: no password specified
+[17:06:02] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:06:04] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:06:07] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:06:09] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:06:09] [INFO] changed log level from 'warning, error' to 'debug, info, warning, error'
+[17:06:09] [DEBUG] mysql_errno(1)
+[17:06:09] [DEBUG] CHandle::GetErrorId(this=0x837508)
+[17:06:09] [DEBUG] CConnection::GetError(this=0x82db70, connection=0x839630)
+[17:06:09] [DEBUG] CHandle::GetErrorId - return value: true, error id: '2002', error msg: 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:06:09] [DEBUG] mysql_errno: return value: '2002'
+[17:06:09] [DEBUG] mysql_errno(1)
+[17:06:09] [DEBUG] CHandle::GetErrorId(this=0x837508)
+[17:06:09] [DEBUG] CConnection::GetError(this=0x82db70, connection=0x839630)
+[17:06:09] [DEBUG] CHandle::GetErrorId - return value: true, error id: '2002', error msg: 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:06:09] [DEBUG] mysql_errno: return value: '2002'
+[17:06:30] [DEBUG] mysql_query(1, "SELECT `username` FROM `users` WHERE `username` = 'Antons_Colosimo'", 1)
+[17:06:30] [DEBUG] CHandle::Execute(this=0x837508, type=3, query=0x801cf8)
+[17:06:30] [DEBUG] CConnection::Execute(query=0x801cf8, this=0x82db70, connection=0x839630)
+[17:06:30] [DEBUG] CHandle::Execute - return value: false
+[17:06:30] [DEBUG] mysql_query: return value: '0'
+[17:06:30] [DEBUG] cache_get_row_count(0x02B3AFE4)
+[17:06:30] [ERROR] cache_get_row_count: no active cache
+[17:06:30] [DEBUG] mysql_query(1, "SELECT `username` FROM `users` WHERE `username` = 'Antons_Colosimo'", 1)
+[17:06:30] [DEBUG] CHandle::Execute(this=0x837508, type=3, query=0x801cf8)
+[17:06:30] [DEBUG] CConnection::Execute(query=0x801cf8, this=0x82db70, connection=0x839630)
+[17:06:30] [DEBUG] CHandle::Execute - return value: false
+[17:06:30] [DEBUG] mysql_query: return value: '0'
+[17:06:30] [DEBUG] cache_delete(0)
+[17:06:30] [ERROR] cache_delete: invalid cache id '0'
+[17:06:31] [DEBUG] mysql_format(1, 0x02B3B020, 120, "INSERT INTO `users` (`username`, `password`, `skin_id`) VALUES ('%s', '%s', '%i')")
+[17:06:31] [DEBUG] mysql_format: return value: '92'
+[17:06:31] [DEBUG] mysql_query(1, "INSERT INTO `users` (`username`, `password`, `skin_id`) VALUES ('Antons_Colosimo', '', '68')", 1)
+[17:06:31] [DEBUG] CHandle::Execute(this=0x837508, type=3, query=0x801cf8)
+[17:06:31] [DEBUG] CConnection::Execute(query=0x801cf8, this=0x82db70, connection=0x839630)
+[17:06:31] [DEBUG] CHandle::Execute - return value: false
+[17:06:31] [DEBUG] mysql_query: return value: '0'

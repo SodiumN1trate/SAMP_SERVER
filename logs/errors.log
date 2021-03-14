@@ -1,0 +1,6 @@
+[17:06:02] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:06:04] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:06:07] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:06:09] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[17:06:30] [plugins/mysql] cache_get_row_count: no active cache
+[17:06:30] [plugins/mysql] cache_delete: invalid cache id '0'
