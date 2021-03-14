@@ -21,6 +21,7 @@ public OnFilterScriptInit()
 	 	rentInfo[i] = -1;
 	 	y -= 4;
 	}
+	CreateVehicle(411, 1800.2991, y, 13.0757, 91.0000, -1, -1, 100);
 	return 1;
 }
 
@@ -100,6 +101,7 @@ public OnPlayerCommandText(playerid, cmdtext[])
 {
 	if (strcmp("/mycommand", cmdtext, true, 10) == 0)
 	{
+		// Yes
 		// Do something here
 		return 1;
 	}
