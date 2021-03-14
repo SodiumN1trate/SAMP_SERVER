@@ -11,7 +11,7 @@ new rentInfo[sizeof(vehicles)];
 public OnFilterScriptInit()
 {
 	print("\n--------------------------------------");
-	print("Vehicle script by initiated.");
+	print("Vehicle script initiated.");
 	print("--------------------------------------\n");
     new y = -1902;
 	for(new i = 0; i < 7; i++)
@@ -21,6 +21,7 @@ public OnFilterScriptInit()
 	 	rentInfo[i] = -1;
 	 	y -= 4;
 	}
+	CreateVehicle(411, 1800.2991, y, 13.0757, 91.0000, -1, -1, 100);
 	return 1;
 }
 
@@ -100,6 +101,7 @@ public OnPlayerCommandText(playerid, cmdtext[])
 {
 	if (strcmp("/mycommand", cmdtext, true, 10) == 0)
 	{
+		// Yes
 		// Do something here
 		return 1;
 	}
@@ -244,7 +246,7 @@ public OnVehicleStreamOut(vehicleid, forplayerid)
 public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 {
 	if(dialogid == RENT_VEHICLE) {
-	    if(!response) {
+	    if(response == 0) {
 	        RemovePlayerFromVehicle(playerid);
 	    } else {
 	        GivePlayerMoney(playerid, -150);

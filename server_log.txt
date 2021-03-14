@@ -4774,7 +4774,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [11:57:13] [connection] incoming connection: 127.0.0.1:60010 id: 0
 [11:57:13] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [11:57:14] 0
-[11:57:14] Reìistrçts!
+[11:57:14] ReÃ¬istrÃ§ts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -4828,7 +4828,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [11:57:57] [connection] incoming connection: 127.0.0.1:53648 id: 0
 [11:57:57] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [11:57:57] 0
-[11:57:57] Nereìistrçts
+[11:57:57] NereÃ¬istrÃ§ts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -4882,13 +4882,13 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [11:59:10] [connection] incoming connection: 127.0.0.1:53217 id: 0
 [11:59:10] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [11:59:10] 0
-[11:59:10] Nereìistrçts
+[11:59:10] NereÃ¬istrÃ§ts
 [11:59:28] [part] James_Colosimo has left the server (0:1)
 [12:00:08] [connection] 127.0.0.1:63256 requests connection cookie.
 [12:00:10] [connection] incoming connection: 127.0.0.1:63256 id: 0
 [12:00:10] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:00:10] 0
-[12:00:10] Nereìistrçts
+[12:00:10] NereÃ¬istrÃ§ts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -4942,7 +4942,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:03:17] [connection] incoming connection: 127.0.0.1:50065 id: 0
 [12:03:17] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:03:17] 0
-[12:03:17] Nereìistrçts
+[12:03:17] NereÃ¬istrÃ§ts
 [12:03:36] --- Server Shutting Down.
 [12:03:36] [part] James_Colosimo has left the server (0:0)
 [12:03:36] 
@@ -5008,13 +5008,13 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:04:23] [connection] incoming connection: 127.0.0.1:57064 id: 0
 [12:04:24] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:04:24] 1
-[12:04:24] Reìistrçts!
+[12:04:24] ReÃ¬istrÃ§ts!
 [12:04:47] [part] James_Colosimo has left the server (0:1)
 [12:05:06] [connection] 127.0.0.1:53288 requests connection cookie.
 [12:05:07] [connection] incoming connection: 127.0.0.1:53288 id: 0
 [12:05:07] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:05:07] 1
-[12:05:07] Reìistrçts!
+[12:05:07] ReÃ¬istrÃ§ts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5068,7 +5068,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:05:57] [connection] incoming connection: 127.0.0.1:59258 id: 0
 [12:05:57] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:05:57] 1
-[12:05:57] Reìistrçts!
+[12:05:57] ReÃ¬istrÃ§ts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5122,7 +5122,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:09:45] [connection] incoming connection: 127.0.0.1:53258 id: 0
 [12:09:46] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:09:46] 1
-[12:09:46] Reìistrçts!
+[12:09:46] ReÃ¬istrÃ§ts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5176,7 +5176,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:12:04] [connection] incoming connection: 127.0.0.1:57803 id: 0
 [12:12:05] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:12:05] 1 1
-[12:12:05] Nereìistrçts
+[12:12:05] NereÃ¬istrÃ§ts
 [12:12:19] [part] James_Colosimo has left the server (0:1)
 
 ----------
@@ -5231,7 +5231,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:12:51] [connection] incoming connection: 127.0.0.1:49293 id: 0
 [12:12:51] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:12:51] 1 1
-[12:12:51] Nereìistrçts
+[12:12:51] NereÃ¬istrÃ§ts
 [12:13:16] [part] James_Colosimo has left the server (0:1)
 
 ----------
@@ -5286,7 +5286,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:14:22] [connection] incoming connection: 127.0.0.1:49561 id: 0
 [12:14:22] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:14:22] 1 1
-[12:14:22] Nereìistrçts
+[12:14:22] NereÃ¬istrÃ§ts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5340,7 +5340,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:25:59] [connection] incoming connection: 127.0.0.1:53319 id: 0
 [12:25:59] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:25:59] 2 1
-[12:25:59] Nereìistrçts
+[12:25:59] NereÃ¬istrÃ§ts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5394,7 +5394,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:26:48] [connection] incoming connection: 127.0.0.1:52830 id: 0
 [12:26:49] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:26:49] 3 1
-[12:26:49] Nereìistrçts
+[12:26:49] NereÃ¬istrÃ§ts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5448,7 +5448,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:27:39] [connection] incoming connection: 127.0.0.1:61619 id: 0
 [12:27:40] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:27:40] 4 1
-[12:27:40] Nereìistrçts
+[12:27:40] NereÃ¬istrÃ§ts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5502,7 +5502,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:28:42] [connection] incoming connection: 127.0.0.1:52872 id: 0
 [12:28:42] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:28:42] 2 1
-[12:28:42] Reìistrçts!
+[12:28:42] ReÃ¬istrÃ§ts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5556,7 +5556,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:30:45] [connection] incoming connection: 127.0.0.1:57561 id: 0
 [12:30:45] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:30:45] 0 0
-[12:30:46] Reìistrçts!
+[12:30:46] ReÃ¬istrÃ§ts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5610,13 +5610,13 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:31:49] [connection] incoming connection: 127.0.0.1:52659 id: 0
 [12:31:49] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:31:49] 0 0
-[12:31:49] Nereìistrçts
+[12:31:49] NereÃ¬istrÃ§ts
 [12:32:11] [part] James_Colosimo has left the server (0:1)
 [12:33:04] [connection] 127.0.0.1:49478 requests connection cookie.
 [12:33:05] [connection] incoming connection: 127.0.0.1:49478 id: 0
 [12:33:05] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:33:06] 0 0
-[12:33:06] Nereìistrçts
+[12:33:06] NereÃ¬istrÃ§ts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5670,7 +5670,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:34:09] [connection] incoming connection: 127.0.0.1:59982 id: 0
 [12:34:09] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:34:09] 0 0
-[12:34:09] Nereìistrçts
+[12:34:09] NereÃ¬istrÃ§ts
 [12:34:14] [part] James_Colosimo has left the server (0:1)
 
 ----------
@@ -5725,13 +5725,13 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:35:03] [connection] incoming connection: 127.0.0.1:60388 id: 0
 [12:35:04] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:35:04] 0 0
-[12:35:04] Reìistrçts!
+[12:35:04] ReÃ¬istrÃ§ts!
 [12:35:27] [part] James_Colosimo has left the server (0:1)
 [12:35:52] [connection] 127.0.0.1:61755 requests connection cookie.
 [12:35:53] [connection] incoming connection: 127.0.0.1:61755 id: 0
 [12:35:54] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:35:54] 0 0
-[12:35:54] Reìistrçts!
+[12:35:54] ReÃ¬istrÃ§ts!
 [12:35:58] [part] James_Colosimo has left the server (0:1)
 
 ----------
@@ -5884,7 +5884,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [13:13:11] [connection] incoming connection: 127.0.0.1:53826 id: 0
 [13:13:11] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:13:12] 0 0
-[13:13:12] Reìistrçts!
+[13:13:12] ReÃ¬istrÃ§ts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5938,13 +5938,13 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [13:14:29] [connection] incoming connection: 127.0.0.1:59289 id: 0
 [13:14:29] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:14:29] 0 0
-[13:14:29] Nereìistrçts
+[13:14:29] NereÃ¬istrÃ§ts
 [13:14:48] [part] James_Colosimo has left the server (0:1)
 [13:15:08] [connection] 127.0.0.1:61372 requests connection cookie.
 [13:15:09] [connection] incoming connection: 127.0.0.1:61372 id: 0
 [13:15:09] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:15:09] 0 0
-[13:15:09] Nereìistrçts
+[13:15:09] NereÃ¬istrÃ§ts
 [13:15:27] [part] James_Colosimo has left the server (0:1)
 
 ----------
@@ -5999,7 +5999,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [13:15:55] [connection] incoming connection: 127.0.0.1:56167 id: 0
 [13:15:55] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:15:55] 0 0
-[13:15:55] Nereìistrçts
+[13:15:55] NereÃ¬istrÃ§ts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6053,19 +6053,19 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [13:16:29] [connection] incoming connection: 127.0.0.1:56111 id: 0
 [13:16:29] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:16:29] 3 SELECT `username` FROM `users` WHERE `username` = 'James_Colosimo'
-[13:16:29] Reìistrçts!
+[13:16:29] ReÃ¬istrÃ§ts!
 [13:17:14] [part] James_Colosimo has left the server (0:1)
 [13:17:36] [connection] 127.0.0.1:58513 requests connection cookie.
 [13:17:37] [connection] incoming connection: 127.0.0.1:58513 id: 0
 [13:17:37] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:17:37] 0 SELECT `username` FROM `users` WHERE `username` = 'James_Colosimo'
-[13:17:37] Nereìistrçts
+[13:17:37] NereÃ¬istrÃ§ts
 [13:17:48] [part] James_Colosimo has left the server (0:1)
 [13:18:07] [connection] 127.0.0.1:62608 requests connection cookie.
 [13:18:08] [connection] incoming connection: 127.0.0.1:62608 id: 0
 [13:18:08] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:18:09] 1 SELECT `username` FROM `users` WHERE `username` = 'James_Colosimo'
-[13:18:09] Reìistrçts!
+[13:18:09] ReÃ¬istrÃ§ts!
 [13:19:02] [part] James_Colosimo has left the server (0:1)
 
 ----------
@@ -6120,7 +6120,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [13:43:36] [connection] incoming connection: 127.0.0.1:59840 id: 0
 [13:43:37] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:43:37] 1 James_Colosimo
-[13:43:37] Reìistrçts!
+[13:43:37] ReÃ¬istrÃ§ts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6174,13 +6174,13 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [13:57:12] [connection] incoming connection: 127.0.0.1:63294 id: 0
 [13:57:12] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:57:12] 1 James_Colosimo
-[13:57:12] Reìistrçts!
+[13:57:12] ReÃ¬istrÃ§ts!
 [13:57:35] [part] James_Colosimo has left the server (0:1)
 [13:57:57] [connection] 127.0.0.1:50009 requests connection cookie.
 [13:57:58] [connection] incoming connection: 127.0.0.1:50009 id: 0
 [13:57:58] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:57:58] 0 
-[13:57:58] Nereìistrçts
+[13:57:58] NereÃ¬istrÃ§ts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6234,8 +6234,8 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [14:02:24] [connection] incoming connection: 127.0.0.1:60396 id: 0
 [14:02:25] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [14:02:25] 1 James_Colosimo
-[14:02:25] Reìistrçts!
-[14:02:25] Ð0
+[14:02:25] ReÃ¬istrÃ§ts!
+[14:02:25] Ã0
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6289,7 +6289,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [14:11:35] [connection] incoming connection: 127.0.0.1:49404 id: 0
 [14:11:35] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [14:11:35] 1 James_Colosimo
-[14:11:35] Reìistrçts!
+[14:11:35] ReÃ¬istrÃ§ts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6342,7 +6342,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [14:41:20] [connection] 127.0.0.1:52499 requests connection cookie.
 [14:41:21] [connection] incoming connection: 127.0.0.1:52499 id: 0
 [14:41:21] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[14:41:21] Nereìistrçts
+[14:41:21] NereÃ¬istrÃ§ts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6395,12 +6395,12 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:00:43] [connection] 127.0.0.1:56316 requests connection cookie.
 [15:00:44] [connection] incoming connection: 127.0.0.1:56316 id: 0
 [15:00:44] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:00:44] Reìistrçts!
+[15:00:44] ReÃ¬istrÃ§ts!
 [15:00:58] [part] James_Colosimo has left the server (0:1)
 [15:01:27] [connection] 127.0.0.1:54133 requests connection cookie.
 [15:01:28] [connection] incoming connection: 127.0.0.1:54133 id: 0
 [15:01:28] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:01:28] Nereìistrçts
+[15:01:28] NereÃ¬istrÃ§ts
 [15:03:23] [part] James_Colosimo has left the server (0:1)
 
 ----------
@@ -6454,7 +6454,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:04:43] [connection] 127.0.0.1:53521 requests connection cookie.
 [15:04:44] [connection] incoming connection: 127.0.0.1:53521 id: 0
 [15:04:44] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:04:44] Nereìistrçts
+[15:04:44] NereÃ¬istrÃ§ts
 [15:05:49] [part] James_Colosimo has left the server (0:1)
 
 ----------
@@ -6508,7 +6508,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:06:15] [connection] 127.0.0.1:52798 requests connection cookie.
 [15:06:16] [connection] incoming connection: 127.0.0.1:52798 id: 0
 [15:06:16] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:06:16] Nereìistrçts
+[15:06:16] NereÃ¬istrÃ§ts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6610,7 +6610,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:08:10] [connection] 127.0.0.1:49889 requests connection cookie.
 [15:08:11] [connection] incoming connection: 127.0.0.1:49889 id: 0
 [15:08:11] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:08:11] Nereìistrçts
+[15:08:11] NereÃ¬istrÃ§ts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6663,7 +6663,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:09:53] [connection] 127.0.0.1:61059 requests connection cookie.
 [15:09:54] [connection] incoming connection: 127.0.0.1:61059 id: 0
 [15:09:54] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:09:54] Nereìistrçts
+[15:09:54] NereÃ¬istrÃ§ts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6716,7 +6716,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:10:59] [connection] 127.0.0.1:50616 requests connection cookie.
 [15:11:00] [connection] incoming connection: 127.0.0.1:50616 id: 0
 [15:11:00] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:11:00] Nereìistrçts
+[15:11:00] NereÃ¬istrÃ§ts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6769,7 +6769,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:13:03] [connection] 127.0.0.1:61186 requests connection cookie.
 [15:13:04] [connection] incoming connection: 127.0.0.1:61186 id: 0
 [15:13:04] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:13:04] Nereìistrçts
+[15:13:04] NereÃ¬istrÃ§ts
 [15:13:07] Iet?
 
 ----------
@@ -6823,7 +6823,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:14:39] [connection] 127.0.0.1:57854 requests connection cookie.
 [15:14:40] [connection] incoming connection: 127.0.0.1:57854 id: 0
 [15:14:40] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:14:40] Nereìistrçts
+[15:14:40] NereÃ¬istrÃ§ts
 [15:14:43] Iet?
 
 ----------
@@ -6877,7 +6877,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:59:07] [connection] 127.0.0.1:61232 requests connection cookie.
 [15:59:08] [connection] incoming connection: 127.0.0.1:61232 id: 0
 [15:59:09] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:59:09] Reìistrçts!
+[15:59:09] ReÃ¬istrÃ§ts!
 [15:59:13] James_Colosimo
 
 ----------
@@ -6931,7 +6931,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:59:45] [connection] 127.0.0.1:51725 requests connection cookie.
 [15:59:46] [connection] incoming connection: 127.0.0.1:51725 id: 0
 [15:59:46] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:59:46] Reìistrçts!
+[15:59:46] ReÃ¬istrÃ§ts!
 [15:59:50] qwerty
 
 ----------
@@ -6985,7 +6985,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:08:18] [connection] 127.0.0.1:65083 requests connection cookie.
 [16:08:19] [connection] incoming connection: 127.0.0.1:65083 id: 0
 [16:08:19] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:08:19] Reìistrçts!
+[16:08:19] ReÃ¬istrÃ§ts!
 [16:08:22] qwerty
 [16:08:29] [part] James_Colosimo has left the server (0:1)
 
@@ -7040,14 +7040,14 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:08:52] [connection] 127.0.0.1:65104 requests connection cookie.
 [16:08:53] [connection] incoming connection: 127.0.0.1:65104 id: 0
 [16:08:53] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:08:53] Reìistrçts!
+[16:08:53] ReÃ¬istrÃ§ts!
 [16:08:56] qwerty
 [16:08:56] qwerty
 [16:09:04] [part] James_Colosimo has left the server (0:1)
 [16:09:24] [connection] 127.0.0.1:58414 requests connection cookie.
 [16:09:25] [connection] incoming connection: 127.0.0.1:58414 id: 0
 [16:09:26] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:09:26] Reìistrçts!
+[16:09:26] ReÃ¬istrÃ§ts!
 [16:09:32] qwerty
 
 ----------
@@ -7101,7 +7101,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:12:08] [connection] 127.0.0.1:53489 requests connection cookie.
 [16:12:09] [connection] incoming connection: 127.0.0.1:53489 id: 0
 [16:12:09] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:12:09] Reìistrçts!
+[16:12:09] ReÃ¬istrÃ§ts!
 [16:12:12] 
 
 ----------
@@ -7155,7 +7155,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:17:54] [connection] 127.0.0.1:50112 requests connection cookie.
 [16:17:55] [connection] incoming connection: 127.0.0.1:50112 id: 0
 [16:17:55] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:17:55] Reìistrçts!
+[16:17:55] ReÃ¬istrÃ§ts!
 [16:17:58] qwerty James_Colosimo
 
 ----------
@@ -7209,7 +7209,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:19:00] [connection] 127.0.0.1:57838 requests connection cookie.
 [16:19:01] [connection] incoming connection: 127.0.0.1:57838 id: 0
 [16:19:01] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:19:01] Reìistrçts!
+[16:19:01] ReÃ¬istrÃ§ts!
 [16:19:04] qwerty James_Colosimo
 [16:19:08] qwerty James_Colosimo
 [16:19:10] qwerty James_Colosimo
@@ -7278,7 +7278,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:20:58] [connection] 127.0.0.1:63136 requests connection cookie.
 [16:20:59] [connection] incoming connection: 127.0.0.1:63136 id: 0
 [16:21:00] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:21:00] Reìistrçts!
+[16:21:00] ReÃ¬istrÃ§ts!
 [16:21:03] qwerty werty erty
 [16:21:11] qwerty werty erty
 
@@ -7333,7 +7333,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:22:24] [connection] 127.0.0.1:63889 requests connection cookie.
 [16:22:25] [connection] incoming connection: 127.0.0.1:63889 id: 0
 [16:22:25] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:22:25] Reìistrçts!
+[16:22:25] ReÃ¬istrÃ§ts!
 [16:22:31] qwerty werty erty
 
 ----------
@@ -7387,7 +7387,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:22:52] [connection] 127.0.0.1:61192 requests connection cookie.
 [16:22:53] [connection] incoming connection: 127.0.0.1:61192 id: 0
 [16:22:53] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:22:53] Reìistrçts!
+[16:22:53] ReÃ¬istrÃ§ts!
 [16:22:56] qwerty werty erty
 
 ----------
@@ -7441,7 +7441,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:23:41] [connection] 127.0.0.1:52732 requests connection cookie.
 [16:23:42] [connection] incoming connection: 127.0.0.1:52732 id: 0
 [16:23:42] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:23:42] Reìistrçts!
+[16:23:42] ReÃ¬istrÃ§ts!
 [16:23:44] qwerty huij 
 
 ----------
@@ -7495,7 +7495,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:24:29] [connection] 127.0.0.1:63302 requests connection cookie.
 [16:24:30] [connection] incoming connection: 127.0.0.1:63302 id: 0
 [16:24:30] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:24:30] Reìistrçts!
+[16:24:30] ReÃ¬istrÃ§ts!
 [16:24:36] qwerty  
 [16:24:41] qwerty  
 
@@ -7550,7 +7550,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:25:42] [connection] 127.0.0.1:54726 requests connection cookie.
 [16:25:43] [connection] incoming connection: 127.0.0.1:54726 id: 0
 [16:25:43] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:25:43] Reìistrçts!
+[16:25:43] ReÃ¬istrÃ§ts!
 [16:25:48] qwerty huij 
 [16:25:50] qwerty huij 
 [16:25:53] qwerty qwerty 
@@ -7558,7 +7558,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:26:22] [connection] 127.0.0.1:59891 requests connection cookie.
 [16:26:23] [connection] incoming connection: 127.0.0.1:59891 id: 0
 [16:26:23] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:26:23] Reìistrçts!
+[16:26:23] ReÃ¬istrÃ§ts!
 [16:26:32] qwerty juceklis123lv 
 [16:26:38] qwerty juceklis gsahbdjkas 
 [16:26:42] qwerty qwerty 
@@ -7566,12 +7566,12 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:27:21] [connection] 127.0.0.1:49917 requests connection cookie.
 [16:27:22] [connection] incoming connection: 127.0.0.1:49917 id: 0
 [16:27:22] [join] James_Colosimos has joined the server (0:127.0.0.1)
-[16:27:22] Nereìistrçts
+[16:27:22] NereÃ¬istrÃ§ts
 [16:27:41] [part] James_Colosimos has left the server (0:1)
 [16:28:00] [connection] 127.0.0.1:60453 requests connection cookie.
 [16:28:01] [connection] incoming connection: 127.0.0.1:60453 id: 0
 [16:28:01] [join] James_Colosimos has joined the server (0:127.0.0.1)
-[16:28:01] Nereìistrçts
+[16:28:01] NereÃ¬istrÃ§ts
 [16:28:38] [part] James_Colosimos has left the server (0:1)
 
 ----------
@@ -7625,12 +7625,12 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:29:06] [connection] 127.0.0.1:58742 requests connection cookie.
 [16:29:07] [connection] incoming connection: 127.0.0.1:58742 id: 0
 [16:29:07] [join] James_Colosimos has joined the server (0:127.0.0.1)
-[16:29:07] Nereìistrçts
+[16:29:07] NereÃ¬istrÃ§ts
 [16:29:19] [part] James_Colosimos has left the server (0:1)
 [16:29:37] [connection] 127.0.0.1:58759 requests connection cookie.
 [16:29:38] [connection] incoming connection: 127.0.0.1:58759 id: 0
 [16:29:38] [join] James_Colosimos has joined the server (0:127.0.0.1)
-[16:29:38] Reìistrçts!
+[16:29:38] ReÃ¬istrÃ§ts!
 [16:29:42] lunis lunis 
 
 ----------
@@ -7684,7 +7684,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:31:20] [connection] 127.0.0.1:50429 requests connection cookie.
 [16:31:21] [connection] incoming connection: 127.0.0.1:50429 id: 0
 [16:31:21] [join] Lunatiks has joined the server (0:127.0.0.1)
-[16:31:21] Nereìistrçts
+[16:31:21] NereÃ¬istrÃ§ts
 [16:35:18] [part] Lunatiks has left the server (0:1)
 
 ----------
@@ -7738,12 +7738,12 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:35:52] [connection] 127.0.0.1:54562 requests connection cookie.
 [16:35:53] [connection] incoming connection: 127.0.0.1:54562 id: 0
 [16:35:53] [join] Lunatikssd has joined the server (0:127.0.0.1)
-[16:35:53] Nereìistrçts
+[16:35:53] NereÃ¬istrÃ§ts
 [16:36:28] [part] Lunatikssd has left the server (0:1)
 [16:36:52] [connection] 127.0.0.1:52682 requests connection cookie.
 [16:36:53] [connection] incoming connection: 127.0.0.1:52682 id: 0
 [16:36:53] [join] Lunatikssd has joined the server (0:127.0.0.1)
-[16:36:53] Reìistrçts!
+[16:36:53] ReÃ¬istrÃ§ts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -7752,203 +7752,3 @@ Loaded log file: "server_log.txt".
 SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[17:03:40] 
-[17:03:40] Server Plugins
-[17:03:40] --------------
-[17:03:40]  Loading plugin: sscanf
-[17:03:40] 
-
-[17:03:40]  ===============================
-
-[17:03:40]       sscanf plugin loaded.     
-
-[17:03:40]          Version:  2.8.3        
-
-[17:03:40]   (c) 2018 Alex "Y_Less" Cole  
-
-[17:03:40]  ===============================
-
-[17:03:40]   Loaded.
-[17:03:40]  Loading plugin: mysql
-[17:03:40]  >> plugin.mysql: R41-4 successfully loaded.
-[17:03:40]   Loaded.
-[17:03:40]  Loaded 2 plugins.
-
-[17:03:40] 
-[17:03:40] Filterscripts
-[17:03:40] ---------------
-[17:03:40]   Loading filterscript 'mapping.amx'...
-[17:03:40] 
---------------------------------------
-[17:03:40]                 MAPPINGS                
-[17:03:40] --------------------------------------
-
-[17:03:40]   Loaded 1 filterscripts.
-
-[17:03:40] ** [MySQL] Connected to the database successfully (1).
-[17:03:40] 
-----------------------------------
-[17:03:40]                 SONI
-[17:03:40] ----------------------------------
-
-[17:03:40] Number of vehicle models: 0
-[17:03:45] [connection] 127.0.0.1:62920 requests connection cookie.
-[17:03:46] [connection] incoming connection: 127.0.0.1:62920 id: 0
-[17:03:46] [join] Lunatikssd has joined the server (0:127.0.0.1)
-[17:03:46] Reìistrçts!
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[17:04:55] 
-[17:04:55] Server Plugins
-[17:04:55] --------------
-[17:04:55]  Loading plugin: sscanf
-[17:04:55] 
-
-[17:04:55]  ===============================
-
-[17:04:55]       sscanf plugin loaded.     
-
-[17:04:55]          Version:  2.8.3        
-
-[17:04:55]   (c) 2018 Alex "Y_Less" Cole  
-
-[17:04:55]  ===============================
-
-[17:04:55]   Loaded.
-[17:04:55]  Loading plugin: mysql
-[17:04:55]  >> plugin.mysql: R41-4 successfully loaded.
-[17:04:55]   Loaded.
-[17:04:55]  Loaded 2 plugins.
-
-[17:04:55] 
-[17:04:55] Filterscripts
-[17:04:55] ---------------
-[17:04:55]   Loading filterscript 'mapping.amx'...
-[17:04:55] 
---------------------------------------
-[17:04:55]                 MAPPINGS                
-[17:04:55] --------------------------------------
-
-[17:04:55]   Loaded 1 filterscripts.
-
-[17:04:55] ** [MySQL] Connected to the database successfully (1).
-[17:04:55] 
-----------------------------------
-[17:04:55]                 SONI
-[17:04:55] ----------------------------------
-
-[17:04:55] Number of vehicle models: 0
-[17:05:03] [connection] 127.0.0.1:49742 requests connection cookie.
-[17:05:04] [connection] incoming connection: 127.0.0.1:49742 id: 0
-[17:05:04] [join] Lunatikssd has joined the server (0:127.0.0.1)
-[17:05:04] Reìistrçts!
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[17:08:42] 
-[17:08:42] Server Plugins
-[17:08:42] --------------
-[17:08:42]  Loading plugin: sscanf
-[17:08:42] 
-
-[17:08:42]  ===============================
-
-[17:08:42]       sscanf plugin loaded.     
-
-[17:08:42]          Version:  2.8.3        
-
-[17:08:42]   (c) 2018 Alex "Y_Less" Cole  
-
-[17:08:42]  ===============================
-
-[17:08:42]   Loaded.
-[17:08:42]  Loading plugin: mysql
-[17:08:42]  >> plugin.mysql: R41-4 successfully loaded.
-[17:08:42]   Loaded.
-[17:08:42]  Loaded 2 plugins.
-
-[17:08:42] 
-[17:08:42] Filterscripts
-[17:08:42] ---------------
-[17:08:42]   Loading filterscript 'mapping.amx'...
-[17:08:42] 
---------------------------------------
-[17:08:42]                 MAPPINGS                
-[17:08:42] --------------------------------------
-
-[17:08:42]   Loaded 1 filterscripts.
-
-[17:08:42] ** [MySQL] Connected to the database successfully (1).
-[17:08:42] 
-----------------------------------
-[17:08:42]                 SONI
-[17:08:42] ----------------------------------
-
-[17:08:42] Number of vehicle models: 0
-[17:08:56] [connection] 127.0.0.1:64048 requests connection cookie.
-[17:08:57] [connection] incoming connection: 127.0.0.1:64048 id: 0
-[17:08:57] [join] Lunatikssd has joined the server (0:127.0.0.1)
-[17:08:57] Reìistrçts!
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[17:26:21] 
-[17:26:21] Server Plugins
-[17:26:21] --------------
-[17:26:21]  Loading plugin: sscanf
-[17:26:21] 
-
-[17:26:21]  ===============================
-
-[17:26:21]       sscanf plugin loaded.     
-
-[17:26:21]          Version:  2.8.3        
-
-[17:26:21]   (c) 2018 Alex "Y_Less" Cole  
-
-[17:26:21]  ===============================
-
-[17:26:21]   Loaded.
-[17:26:21]  Loading plugin: mysql
-[17:26:21]  >> plugin.mysql: R41-4 successfully loaded.
-[17:26:21]   Loaded.
-[17:26:21]  Loaded 2 plugins.
-
-[17:26:21] 
-[17:26:21] Filterscripts
-[17:26:21] ---------------
-[17:26:21]   Loading filterscript 'mapping.amx'...
-[17:26:21] 
---------------------------------------
-[17:26:21]                 MAPPINGS                
-[17:26:21] --------------------------------------
-
-[17:26:21]   Loaded 1 filterscripts.
-
-[17:26:21] ** [MySQL] Connected to the database successfully (1).
-[17:26:21] 
-----------------------------------
-[17:26:21]                 SONI
-[17:26:21] ----------------------------------
-
-[17:26:21] Number of vehicle models: 0
