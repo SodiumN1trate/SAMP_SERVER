@@ -1,9 +1,9 @@
 #define FILTERSCRIPT
 #include <a_samp>
 
-#define RENT_VEHICLE 500
-
 #if defined FILTERSCRIPT
+
+#define RENT_VEHICLE 500
 
 new vehicles[7];
 new rentInfo[sizeof(vehicles)];
@@ -27,6 +27,36 @@ public OnFilterScriptInit()
 
 public OnFilterScriptExit()
 {
+	return 1;
+}
+
+public OnPlayerStateChange(playerid, newstate, oldstate)
+{
+	if(newstate == PLAYER_STATE_DRIVER){
+	    for(new i = 0; i < sizeof(vehicles); i++) {
+	        if(vehicles[i] == GetPlayerVehicleID(playerid)){
+	        	if(rentInfo[GetPlayerVehicleID(playerid)] == playerid) {
+	        	} else {
+	            	ShowPlayerDialog(playerid, RENT_VEHICLE, DIALOG_STYLE_MSGBOX, "Izîrçt auto", "Vai vçlaties izîrçt ðo auto?\nÎres maksa: 150$", "Izîrçt", "Atcelt");
+				}
+			}
+	    }
+	}
+	return 1;
+}
+
+public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
+{
+	printf("%s %s", dialogid, RENT_VEHICLE);
+	if(dialogid == RENT_VEHICLE) {
+	    if(response == 0) {
+	        RemovePlayerFromVehicle(playerid);
+	    } else {
+	        GivePlayerMoney(playerid, -150);
+	        rentInfo[GetPlayerVehicleID(playerid)] = playerid;
+	    }
+		return 1;
+	}
 	return 1;
 }
 
@@ -115,21 +145,6 @@ public OnPlayerEnterVehicle(playerid, vehicleid, ispassenger)
 
 public OnPlayerExitVehicle(playerid, vehicleid)
 {
-	return 1;
-}
-
-public OnPlayerStateChange(playerid, newstate, oldstate)
-{
-	if(newstate == PLAYER_STATE_DRIVER){
-	    for(new i = 0; i < sizeof(vehicles); i++) {
-	        if(vehicles[i] == GetPlayerVehicleID(playerid)){
-	        	if(rentInfo[GetPlayerVehicleID(playerid)] == playerid) {
-	        	} else {
-	            	ShowPlayerDialog(playerid, RENT_VEHICLE, DIALOG_STYLE_MSGBOX, "IzÄ«rÄ“t auto", "Vai vÄ“laties izÄ«rÄ“t Å¡o auto?\nÄªres maksa: 150$", "ÄªrÄ“t", "Atcelt");
-				}
-			}
-	    }
-	}
 	return 1;
 }
 
@@ -240,19 +255,6 @@ public OnVehicleStreamIn(vehicleid, forplayerid)
 
 public OnVehicleStreamOut(vehicleid, forplayerid)
 {
-	return 1;
-}
-
-public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
-{
-	if(dialogid == RENT_VEHICLE) {
-	    if(response == 0) {
-	        RemovePlayerFromVehicle(playerid);
-	    } else {
-	        GivePlayerMoney(playerid, -150);
-	        rentInfo[GetPlayerVehicleID(playerid)] = playerid;
-	    }
-	}
 	return 1;
 }
 
