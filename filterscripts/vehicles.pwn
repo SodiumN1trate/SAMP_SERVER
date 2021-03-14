@@ -1,27 +1,26 @@
-// This is a comment
-// uncomment the line below if you want to write a filterscript
 #define FILTERSCRIPT
-
 #include <a_samp>
+
+#define RENT_VEHICLE 500
 
 #if defined FILTERSCRIPT
 
-new const ARRAY_SIZE = 4;
-
-new rentCarsGM[ARRAY_SIZE];
+new vehicles[7];
+new rentInfo[sizeof(vehicles)];
 
 public OnFilterScriptInit()
 {
 	print("\n--------------------------------------");
-	print(" Blank Filterscript by your name here");
+	print("Vehicle script by initiated.");
 	print("--------------------------------------\n");
-    new rentCars[ARRAY_SIZE] = {
- 		CreateVehicle(411, 1804.1859, -1907.1765, 13.0757, 91.0000, -1, -1, 100),
-		CreateVehicle(411, 1804.1980, -1911.3613, 13.0757, 91.0000, -1, -1, 100),
-		CreateVehicle(411, 1804.2661, -1915.3076, 13.0757, 91.0000, -1, -1, 100),
-		CreateVehicle(411, 1804.2991, -1919.1942, 13.0757, 91.0000, -1, -1, 100)
-	};
-	rentCarsGM = rentCars;
+    new y = -1902;
+	for(new i = 0; i < 7; i++)
+	{
+	 	new veh = CreateVehicle(412, 1804.2991, y, 13.0757, 91.0000, -1, -1, 100);
+	 	vehicles[i] = veh;
+	 	rentInfo[i] = -1;
+	 	y -= 4;
+	}
 	return 1;
 }
 
@@ -119,6 +118,16 @@ public OnPlayerExitVehicle(playerid, vehicleid)
 
 public OnPlayerStateChange(playerid, newstate, oldstate)
 {
+	if(newstate == PLAYER_STATE_DRIVER){
+	    for(new i = 0; i < sizeof(vehicles); i++) {
+	        if(vehicles[i] == GetPlayerVehicleID(playerid)){
+	        	if(rentInfo[GetPlayerVehicleID(playerid)] == playerid) {
+	        	} else {
+	            	ShowPlayerDialog(playerid, RENT_VEHICLE, DIALOG_STYLE_MSGBOX, "Izīrēt auto", "Vai vēlaties izīrēt šo auto?\nĪres maksa: 150$", "Īrēt", "Atcelt");
+				}
+			}
+	    }
+	}
 	return 1;
 }
 
@@ -234,6 +243,14 @@ public OnVehicleStreamOut(vehicleid, forplayerid)
 
 public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 {
+	if(dialogid == RENT_VEHICLE) {
+	    if(!response) {
+	        RemovePlayerFromVehicle(playerid);
+	    } else {
+	        GivePlayerMoney(playerid, -150);
+	        rentInfo[GetPlayerVehicleID(playerid)] = playerid;
+	    }
+	}
 	return 1;
 }
 
