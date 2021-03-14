@@ -7744,3 +7744,56 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:36:53] [connection] incoming connection: 127.0.0.1:52682 id: 0
 [16:36:53] [join] Lunatikssd has joined the server (0:127.0.0.1)
 [16:36:53] Reìistrçts!
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:03:40] 
+[17:03:40] Server Plugins
+[17:03:40] --------------
+[17:03:40]  Loading plugin: sscanf
+[17:03:40] 
+
+[17:03:40]  ===============================
+
+[17:03:40]       sscanf plugin loaded.     
+
+[17:03:40]          Version:  2.8.3        
+
+[17:03:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:03:40]  ===============================
+
+[17:03:40]   Loaded.
+[17:03:40]  Loading plugin: mysql
+[17:03:40]  >> plugin.mysql: R41-4 successfully loaded.
+[17:03:40]   Loaded.
+[17:03:40]  Loaded 2 plugins.
+
+[17:03:40] 
+[17:03:40] Filterscripts
+[17:03:40] ---------------
+[17:03:40]   Loading filterscript 'mapping.amx'...
+[17:03:40] 
+--------------------------------------
+[17:03:40]                 MAPPINGS                
+[17:03:40] --------------------------------------
+
+[17:03:40]   Loaded 1 filterscripts.
+
+[17:03:40] ** [MySQL] Connected to the database successfully (1).
+[17:03:40] 
+----------------------------------
+[17:03:40]                 SONI
+[17:03:40] ----------------------------------
+
+[17:03:40] Number of vehicle models: 0
+[17:03:45] [connection] 127.0.0.1:62920 requests connection cookie.
+[17:03:46] [connection] incoming connection: 127.0.0.1:62920 id: 0
+[17:03:46] [join] Lunatikssd has joined the server (0:127.0.0.1)
+[17:03:46] Reìistrçts!

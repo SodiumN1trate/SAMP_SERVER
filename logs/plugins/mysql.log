@@ -2636,3 +2636,83 @@
 [16:36:58] [DEBUG] cache_get_value_index: return value: '1'
 [16:36:58] [DEBUG] cache_delete(3)
 [16:36:58] [DEBUG] cache_delete: return value: '1'
+[17:03:40] [WARNING] mysql_connect_file: no password specified
+[17:03:40] [INFO] changed log level from 'warning, error' to 'debug, info, warning, error'
+[17:03:40] [DEBUG] mysql_errno(1)
+[17:03:40] [DEBUG] CHandle::GetErrorId(this=0x7f4488)
+[17:03:40] [DEBUG] CConnection::GetError(this=0x7d7950, connection=0x7f45a0)
+[17:03:40] [DEBUG] CHandle::GetErrorId - return value: true, error id: '0', error msg: ''
+[17:03:40] [DEBUG] mysql_errno: return value: '0'
+[17:03:46] [DEBUG] mysql_query(1, "SELECT `username` FROM `users` WHERE `username` = 'Lunatikssd'", 1)
+[17:03:46] [DEBUG] CHandle::Execute(this=0x7f4488, type=3, query=0x7f2b98)
+[17:03:46] [DEBUG] CConnection::Execute(query=0x7f2b98, this=0x7d7950, connection=0x7f45a0)
+[17:03:46] [DEBUG] CQuery::Execute(this=0x7f2b98, connection=0x7f45a0)
+[17:03:46] [INFO] query "SELECT `username` FROM `users` WHERE `username` = 'Lunatikssd'" successfully executed within 0.345 milliseconds
+[17:03:46] [DEBUG] CResultSet::Create(connection=0x7f45a0, query_str='SELECT `username` FROM `users` WHERE `username` = 'Lunatikssd'')
+[17:03:46] [DEBUG] created new resultset '0x7ebdc0'
+[17:03:46] [DEBUG] fetched MySQL result '0x7c1b60'
+[17:03:46] [DEBUG] allocated 28 bytes for PAWN result
+[17:03:46] [DEBUG] CHandle::Execute - return value: true
+[17:03:46] [DEBUG] mysql_query: return value: '1'
+[17:03:46] [DEBUG] cache_get_row_count(0x02E37C24)
+[17:03:46] [DEBUG] cache_get_row_count: return value: '1'
+[17:03:46] [DEBUG] cache_delete(1)
+[17:03:46] [DEBUG] cache_delete: return value: '1'
+[17:03:49] [DEBUG] mysql_format(1, 0x02E37D00, 80, "SELECT * FROM `users` WHERE `username` = '%s';")
+[17:03:49] [DEBUG] mysql_format: return value: '54'
+[17:03:49] [DEBUG] mysql_query(1, "SELECT * FROM `users` WHERE `username` = 'Lunatikssd';", 1)
+[17:03:49] [DEBUG] CHandle::Execute(this=0x7f4488, type=3, query=0x7f33a0)
+[17:03:49] [DEBUG] CConnection::Execute(query=0x7f33a0, this=0x7d7950, connection=0x7f45a0)
+[17:03:49] [DEBUG] CQuery::Execute(this=0x7f33a0, connection=0x7f45a0)
+[17:03:49] [INFO] query "SELECT * FROM `users` WHERE `username` = 'Lunatikssd';" successfully executed within 0.234 milliseconds
+[17:03:49] [DEBUG] CResultSet::Create(connection=0x7f45a0, query_str='SELECT * FROM `users` WHERE `username` = 'Lunatikssd';')
+[17:03:49] [DEBUG] created new resultset '0x7ec028'
+[17:03:49] [DEBUG] fetched MySQL result '0x81e8e8'
+[17:03:49] [DEBUG] allocated 60 bytes for PAWN result
+[17:03:49] [DEBUG] CHandle::Execute - return value: true
+[17:03:49] [DEBUG] mysql_query: return value: '1'
+[17:03:49] [DEBUG] cache_get_value_index(0, 2, 0x02E37C10, 60)
+[17:03:49] [DEBUG] cache_get_value_index: assigned value: 'qwerty'
+[17:03:49] [DEBUG] cache_get_value_index: return value: '1'
+[17:03:49] [DEBUG] cache_delete(1)
+[17:03:49] [DEBUG] cache_delete: return value: '1'
+[17:04:55] [WARNING] mysql_connect_file: no password specified
+[17:04:55] [INFO] changed log level from 'warning, error' to 'debug, info, warning, error'
+[17:04:55] [DEBUG] mysql_errno(1)
+[17:04:55] [DEBUG] CHandle::GetErrorId(this=0x6a9c88)
+[17:04:55] [DEBUG] CConnection::GetError(this=0x69d6d8, connection=0x6aa0c0)
+[17:04:55] [DEBUG] CHandle::GetErrorId - return value: true, error id: '0', error msg: ''
+[17:04:55] [DEBUG] mysql_errno: return value: '0'
+[17:05:04] [DEBUG] mysql_query(1, "SELECT `username` FROM `users` WHERE `username` = 'Lunatikssd'", 1)
+[17:05:04] [DEBUG] CHandle::Execute(this=0x6a9c88, type=3, query=0x6a86b8)
+[17:05:04] [DEBUG] CConnection::Execute(query=0x6a86b8, this=0x69d6d8, connection=0x6aa0c0)
+[17:05:04] [DEBUG] CQuery::Execute(this=0x6a86b8, connection=0x6aa0c0)
+[17:05:04] [INFO] query "SELECT `username` FROM `users` WHERE `username` = 'Lunatikssd'" successfully executed within 0.309 milliseconds
+[17:05:04] [DEBUG] CResultSet::Create(connection=0x6aa0c0, query_str='SELECT `username` FROM `users` WHERE `username` = 'Lunatikssd'')
+[17:05:04] [DEBUG] created new resultset '0x6a54c8'
+[17:05:04] [DEBUG] fetched MySQL result '0x6b1710'
+[17:05:04] [DEBUG] allocated 28 bytes for PAWN result
+[17:05:04] [DEBUG] CHandle::Execute - return value: true
+[17:05:04] [DEBUG] mysql_query: return value: '1'
+[17:05:04] [DEBUG] cache_get_row_count(0x02C57C24)
+[17:05:04] [DEBUG] cache_get_row_count: return value: '1'
+[17:05:04] [DEBUG] cache_delete(1)
+[17:05:04] [DEBUG] cache_delete: return value: '1'
+[17:05:09] [DEBUG] mysql_format(1, 0x02C57D00, 80, "SELECT * FROM `users` WHERE `username` = '%s';")
+[17:05:09] [DEBUG] mysql_format: return value: '54'
+[17:05:09] [DEBUG] mysql_query(1, "SELECT * FROM `users` WHERE `username` = 'Lunatikssd';", 1)
+[17:05:09] [DEBUG] CHandle::Execute(this=0x6a9c88, type=3, query=0x6a86b8)
+[17:05:09] [DEBUG] CConnection::Execute(query=0x6a86b8, this=0x69d6d8, connection=0x6aa0c0)
+[17:05:09] [DEBUG] CQuery::Execute(this=0x6a86b8, connection=0x6aa0c0)
+[17:05:09] [INFO] query "SELECT * FROM `users` WHERE `username` = 'Lunatikssd';" successfully executed within 0.250 milliseconds
+[17:05:09] [DEBUG] CResultSet::Create(connection=0x6aa0c0, query_str='SELECT * FROM `users` WHERE `username` = 'Lunatikssd';')
+[17:05:09] [DEBUG] created new resultset '0x6a5688'
+[17:05:09] [DEBUG] fetched MySQL result '0x671fb0'
+[17:05:09] [DEBUG] allocated 60 bytes for PAWN result
+[17:05:09] [DEBUG] CHandle::Execute - return value: true
+[17:05:09] [DEBUG] mysql_query: return value: '1'
+[17:05:09] [DEBUG] cache_get_value_index(0, 2, 0x02C57C10, 60)
+[17:05:09] [DEBUG] cache_get_value_index: assigned value: 'qwerty'
+[17:05:09] [DEBUG] cache_get_value_index: return value: '1'
+[17:05:09] [DEBUG] cache_delete(1)
+[17:05:09] [DEBUG] cache_delete: return value: '1'
