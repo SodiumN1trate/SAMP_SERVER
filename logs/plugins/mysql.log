@@ -2756,3 +2756,10 @@
 [17:09:00] [DEBUG] cache_get_value_index: return value: '1'
 [17:09:00] [DEBUG] cache_delete(1)
 [17:09:00] [DEBUG] cache_delete: return value: '1'
+[17:26:21] [WARNING] mysql_connect_file: no password specified
+[17:26:21] [INFO] changed log level from 'warning, error' to 'debug, info, warning, error'
+[17:26:21] [DEBUG] mysql_errno(1)
+[17:26:21] [DEBUG] CHandle::GetErrorId(this=0x788c00)
+[17:26:21] [DEBUG] CConnection::GetError(this=0x77c788, connection=0x788c98)
+[17:26:21] [DEBUG] CHandle::GetErrorId - return value: true, error id: '0', error msg: ''
+[17:26:21] [DEBUG] mysql_errno: return value: '0'
