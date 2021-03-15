@@ -8,6 +8,11 @@
 new vehicles[7];
 new rentInfo[sizeof(vehicles)];
 
+enum delay {
+	vehUpdate
+};
+new pTimer[MAX_PLAYERS][delay];
+
 public OnFilterScriptInit()
 {
 	print("\n--------------------------------------");
@@ -30,12 +35,26 @@ public OnFilterScriptExit()
 	return 1;
 }
 
+forward VehicleUpdate(playerid);
+
+public VehicleUpdate(playerid) 
+{
+	
+}
+
+public OnVehicleDeath(vehicleid, killerid)
+{
+	
+	return 1;
+}
+
 public OnPlayerStateChange(playerid, newstate, oldstate)
 {
 	if(newstate == PLAYER_STATE_DRIVER){
 	    for(new i = 0; i < sizeof(vehicles); i++) {
 	        if(vehicles[i] == GetPlayerVehicleID(playerid)){
 	        	if(rentInfo[GetPlayerVehicleID(playerid)] == playerid) {
+					pTimer[playerid][vehUpdate] = SetTimerEx("VehicleUpdate", 100, true, "i", playerid);
 	        	} else {
 	            	ShowPlayerDialog(playerid, RENT_VEHICLE, DIALOG_STYLE_MSGBOX, "Izîrçt auto", "Vai vçlaties izîrçt ðo auto?\nÎres maksa: 150$", "Izîrçt", "Atcelt");
 				}
@@ -49,15 +68,16 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 {
 	printf("%s %s", dialogid, RENT_VEHICLE);
 	if(dialogid == RENT_VEHICLE) {
-	    if(response == 0) {
+	    if(!response) {
 	        RemovePlayerFromVehicle(playerid);
 	    } else {
 	        GivePlayerMoney(playerid, -150);
 	        rentInfo[GetPlayerVehicleID(playerid)] = playerid;
+			pTimer[playerid][vehUpdate] = SetTimerEx("VehicleUpdate", 100, true, "i", playerid);
 	    }
 		return 1;
 	}
-	return 1;
+	return 0;
 }
 
 #else
@@ -113,11 +133,6 @@ public OnPlayerDeath(playerid, killerid, reason)
 }
 
 public OnVehicleSpawn(vehicleid)
-{
-	return 1;
-}
-
-public OnVehicleDeath(vehicleid, killerid)
 {
 	return 1;
 }
