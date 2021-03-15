@@ -37,6 +37,9 @@ public OnGameModeInit()
 	//   Fences next to cars in Ls station
     CreateObject(970, 1804.34155, -1922.06921, 12.88510,   0.00000, 0.00000, 0.00000);
 	CreateObject(970, 1804.38196, -1904.38708, 12.88510,   0.00000, 0.00000, 0.00000);
+	
+	// Welcome screen objects
+	CreateObject(1708, 1823.52808, -1316.71631, 119.26380,   0.00000, 0.00000, 33.00000);
 	return 1;
 }
 
@@ -217,7 +220,7 @@ public OnVehicleStreamOut(vehicleid, forplayerid)
 
 public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 {
-	return 1;
+	return 0;
 }
 
 public OnPlayerClickPlayer(playerid, clickedplayerid, source)

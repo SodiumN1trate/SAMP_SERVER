@@ -4774,7 +4774,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [11:57:13] [connection] incoming connection: 127.0.0.1:60010 id: 0
 [11:57:13] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [11:57:14] 0
-[11:57:14] ReÏistrÁts!
+[11:57:14] Re√¨istr√ßts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -4828,7 +4828,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [11:57:57] [connection] incoming connection: 127.0.0.1:53648 id: 0
 [11:57:57] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [11:57:57] 0
-[11:57:57] NereÏistrÁts
+[11:57:57] Nere√¨istr√ßts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -4882,13 +4882,13 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [11:59:10] [connection] incoming connection: 127.0.0.1:53217 id: 0
 [11:59:10] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [11:59:10] 0
-[11:59:10] NereÏistrÁts
+[11:59:10] Nere√¨istr√ßts
 [11:59:28] [part] James_Colosimo has left the server (0:1)
 [12:00:08] [connection] 127.0.0.1:63256 requests connection cookie.
 [12:00:10] [connection] incoming connection: 127.0.0.1:63256 id: 0
 [12:00:10] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:00:10] 0
-[12:00:10] NereÏistrÁts
+[12:00:10] Nere√¨istr√ßts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -4942,7 +4942,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:03:17] [connection] incoming connection: 127.0.0.1:50065 id: 0
 [12:03:17] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:03:17] 0
-[12:03:17] NereÏistrÁts
+[12:03:17] Nere√¨istr√ßts
 [12:03:36] --- Server Shutting Down.
 [12:03:36] [part] James_Colosimo has left the server (0:0)
 [12:03:36] 
@@ -5008,13 +5008,13 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:04:23] [connection] incoming connection: 127.0.0.1:57064 id: 0
 [12:04:24] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:04:24] 1
-[12:04:24] ReÏistrÁts!
+[12:04:24] Re√¨istr√ßts!
 [12:04:47] [part] James_Colosimo has left the server (0:1)
 [12:05:06] [connection] 127.0.0.1:53288 requests connection cookie.
 [12:05:07] [connection] incoming connection: 127.0.0.1:53288 id: 0
 [12:05:07] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:05:07] 1
-[12:05:07] ReÏistrÁts!
+[12:05:07] Re√¨istr√ßts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5068,7 +5068,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:05:57] [connection] incoming connection: 127.0.0.1:59258 id: 0
 [12:05:57] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:05:57] 1
-[12:05:57] ReÏistrÁts!
+[12:05:57] Re√¨istr√ßts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5122,7 +5122,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:09:45] [connection] incoming connection: 127.0.0.1:53258 id: 0
 [12:09:46] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:09:46] 1
-[12:09:46] ReÏistrÁts!
+[12:09:46] Re√¨istr√ßts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5176,7 +5176,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:12:04] [connection] incoming connection: 127.0.0.1:57803 id: 0
 [12:12:05] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:12:05] 1 1
-[12:12:05] NereÏistrÁts
+[12:12:05] Nere√¨istr√ßts
 [12:12:19] [part] James_Colosimo has left the server (0:1)
 
 ----------
@@ -5231,7 +5231,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:12:51] [connection] incoming connection: 127.0.0.1:49293 id: 0
 [12:12:51] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:12:51] 1 1
-[12:12:51] NereÏistrÁts
+[12:12:51] Nere√¨istr√ßts
 [12:13:16] [part] James_Colosimo has left the server (0:1)
 
 ----------
@@ -5286,7 +5286,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:14:22] [connection] incoming connection: 127.0.0.1:49561 id: 0
 [12:14:22] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:14:22] 1 1
-[12:14:22] NereÏistrÁts
+[12:14:22] Nere√¨istr√ßts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5340,7 +5340,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:25:59] [connection] incoming connection: 127.0.0.1:53319 id: 0
 [12:25:59] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:25:59] 2 1
-[12:25:59] NereÏistrÁts
+[12:25:59] Nere√¨istr√ßts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5394,7 +5394,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:26:48] [connection] incoming connection: 127.0.0.1:52830 id: 0
 [12:26:49] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:26:49] 3 1
-[12:26:49] NereÏistrÁts
+[12:26:49] Nere√¨istr√ßts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5448,7 +5448,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:27:39] [connection] incoming connection: 127.0.0.1:61619 id: 0
 [12:27:40] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:27:40] 4 1
-[12:27:40] NereÏistrÁts
+[12:27:40] Nere√¨istr√ßts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5502,7 +5502,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:28:42] [connection] incoming connection: 127.0.0.1:52872 id: 0
 [12:28:42] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:28:42] 2 1
-[12:28:42] ReÏistrÁts!
+[12:28:42] Re√¨istr√ßts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5556,7 +5556,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:30:45] [connection] incoming connection: 127.0.0.1:57561 id: 0
 [12:30:45] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:30:45] 0 0
-[12:30:46] ReÏistrÁts!
+[12:30:46] Re√¨istr√ßts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5610,13 +5610,13 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:31:49] [connection] incoming connection: 127.0.0.1:52659 id: 0
 [12:31:49] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:31:49] 0 0
-[12:31:49] NereÏistrÁts
+[12:31:49] Nere√¨istr√ßts
 [12:32:11] [part] James_Colosimo has left the server (0:1)
 [12:33:04] [connection] 127.0.0.1:49478 requests connection cookie.
 [12:33:05] [connection] incoming connection: 127.0.0.1:49478 id: 0
 [12:33:05] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:33:06] 0 0
-[12:33:06] NereÏistrÁts
+[12:33:06] Nere√¨istr√ßts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5670,7 +5670,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:34:09] [connection] incoming connection: 127.0.0.1:59982 id: 0
 [12:34:09] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:34:09] 0 0
-[12:34:09] NereÏistrÁts
+[12:34:09] Nere√¨istr√ßts
 [12:34:14] [part] James_Colosimo has left the server (0:1)
 
 ----------
@@ -5725,13 +5725,13 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [12:35:03] [connection] incoming connection: 127.0.0.1:60388 id: 0
 [12:35:04] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:35:04] 0 0
-[12:35:04] ReÏistrÁts!
+[12:35:04] Re√¨istr√ßts!
 [12:35:27] [part] James_Colosimo has left the server (0:1)
 [12:35:52] [connection] 127.0.0.1:61755 requests connection cookie.
 [12:35:53] [connection] incoming connection: 127.0.0.1:61755 id: 0
 [12:35:54] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [12:35:54] 0 0
-[12:35:54] ReÏistrÁts!
+[12:35:54] Re√¨istr√ßts!
 [12:35:58] [part] James_Colosimo has left the server (0:1)
 
 ----------
@@ -5884,7 +5884,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [13:13:11] [connection] incoming connection: 127.0.0.1:53826 id: 0
 [13:13:11] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:13:12] 0 0
-[13:13:12] ReÏistrÁts!
+[13:13:12] Re√¨istr√ßts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -5938,13 +5938,13 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [13:14:29] [connection] incoming connection: 127.0.0.1:59289 id: 0
 [13:14:29] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:14:29] 0 0
-[13:14:29] NereÏistrÁts
+[13:14:29] Nere√¨istr√ßts
 [13:14:48] [part] James_Colosimo has left the server (0:1)
 [13:15:08] [connection] 127.0.0.1:61372 requests connection cookie.
 [13:15:09] [connection] incoming connection: 127.0.0.1:61372 id: 0
 [13:15:09] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:15:09] 0 0
-[13:15:09] NereÏistrÁts
+[13:15:09] Nere√¨istr√ßts
 [13:15:27] [part] James_Colosimo has left the server (0:1)
 
 ----------
@@ -5999,7 +5999,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [13:15:55] [connection] incoming connection: 127.0.0.1:56167 id: 0
 [13:15:55] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:15:55] 0 0
-[13:15:55] NereÏistrÁts
+[13:15:55] Nere√¨istr√ßts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6053,19 +6053,19 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [13:16:29] [connection] incoming connection: 127.0.0.1:56111 id: 0
 [13:16:29] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:16:29] 3 SELECT `username` FROM `users` WHERE `username` = 'James_Colosimo'
-[13:16:29] ReÏistrÁts!
+[13:16:29] Re√¨istr√ßts!
 [13:17:14] [part] James_Colosimo has left the server (0:1)
 [13:17:36] [connection] 127.0.0.1:58513 requests connection cookie.
 [13:17:37] [connection] incoming connection: 127.0.0.1:58513 id: 0
 [13:17:37] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:17:37] 0 SELECT `username` FROM `users` WHERE `username` = 'James_Colosimo'
-[13:17:37] NereÏistrÁts
+[13:17:37] Nere√¨istr√ßts
 [13:17:48] [part] James_Colosimo has left the server (0:1)
 [13:18:07] [connection] 127.0.0.1:62608 requests connection cookie.
 [13:18:08] [connection] incoming connection: 127.0.0.1:62608 id: 0
 [13:18:08] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:18:09] 1 SELECT `username` FROM `users` WHERE `username` = 'James_Colosimo'
-[13:18:09] ReÏistrÁts!
+[13:18:09] Re√¨istr√ßts!
 [13:19:02] [part] James_Colosimo has left the server (0:1)
 
 ----------
@@ -6120,7 +6120,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [13:43:36] [connection] incoming connection: 127.0.0.1:59840 id: 0
 [13:43:37] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:43:37] 1 James_Colosimo
-[13:43:37] ReÏistrÁts!
+[13:43:37] Re√¨istr√ßts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6174,13 +6174,13 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [13:57:12] [connection] incoming connection: 127.0.0.1:63294 id: 0
 [13:57:12] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:57:12] 1 James_Colosimo
-[13:57:12] ReÏistrÁts!
+[13:57:12] Re√¨istr√ßts!
 [13:57:35] [part] James_Colosimo has left the server (0:1)
 [13:57:57] [connection] 127.0.0.1:50009 requests connection cookie.
 [13:57:58] [connection] incoming connection: 127.0.0.1:50009 id: 0
 [13:57:58] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [13:57:58] 0 
-[13:57:58] NereÏistrÁts
+[13:57:58] Nere√¨istr√ßts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6234,8 +6234,8 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [14:02:24] [connection] incoming connection: 127.0.0.1:60396 id: 0
 [14:02:25] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [14:02:25] 1 James_Colosimo
-[14:02:25] ReÏistrÁts!
-[14:02:25] –0
+[14:02:25] Re√¨istr√ßts!
+[14:02:25] √ê0
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6289,7 +6289,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [14:11:35] [connection] incoming connection: 127.0.0.1:49404 id: 0
 [14:11:35] [join] James_Colosimo has joined the server (0:127.0.0.1)
 [14:11:35] 1 James_Colosimo
-[14:11:35] ReÏistrÁts!
+[14:11:35] Re√¨istr√ßts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6342,7 +6342,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [14:41:20] [connection] 127.0.0.1:52499 requests connection cookie.
 [14:41:21] [connection] incoming connection: 127.0.0.1:52499 id: 0
 [14:41:21] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[14:41:21] NereÏistrÁts
+[14:41:21] Nere√¨istr√ßts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6395,12 +6395,12 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:00:43] [connection] 127.0.0.1:56316 requests connection cookie.
 [15:00:44] [connection] incoming connection: 127.0.0.1:56316 id: 0
 [15:00:44] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:00:44] ReÏistrÁts!
+[15:00:44] Re√¨istr√ßts!
 [15:00:58] [part] James_Colosimo has left the server (0:1)
 [15:01:27] [connection] 127.0.0.1:54133 requests connection cookie.
 [15:01:28] [connection] incoming connection: 127.0.0.1:54133 id: 0
 [15:01:28] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:01:28] NereÏistrÁts
+[15:01:28] Nere√¨istr√ßts
 [15:03:23] [part] James_Colosimo has left the server (0:1)
 
 ----------
@@ -6454,7 +6454,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:04:43] [connection] 127.0.0.1:53521 requests connection cookie.
 [15:04:44] [connection] incoming connection: 127.0.0.1:53521 id: 0
 [15:04:44] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:04:44] NereÏistrÁts
+[15:04:44] Nere√¨istr√ßts
 [15:05:49] [part] James_Colosimo has left the server (0:1)
 
 ----------
@@ -6508,7 +6508,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:06:15] [connection] 127.0.0.1:52798 requests connection cookie.
 [15:06:16] [connection] incoming connection: 127.0.0.1:52798 id: 0
 [15:06:16] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:06:16] NereÏistrÁts
+[15:06:16] Nere√¨istr√ßts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6610,7 +6610,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:08:10] [connection] 127.0.0.1:49889 requests connection cookie.
 [15:08:11] [connection] incoming connection: 127.0.0.1:49889 id: 0
 [15:08:11] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:08:11] NereÏistrÁts
+[15:08:11] Nere√¨istr√ßts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6663,7 +6663,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:09:53] [connection] 127.0.0.1:61059 requests connection cookie.
 [15:09:54] [connection] incoming connection: 127.0.0.1:61059 id: 0
 [15:09:54] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:09:54] NereÏistrÁts
+[15:09:54] Nere√¨istr√ßts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6716,7 +6716,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:10:59] [connection] 127.0.0.1:50616 requests connection cookie.
 [15:11:00] [connection] incoming connection: 127.0.0.1:50616 id: 0
 [15:11:00] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:11:00] NereÏistrÁts
+[15:11:00] Nere√¨istr√ßts
 
 ----------
 Loaded log file: "server_log.txt".
@@ -6769,7 +6769,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:13:03] [connection] 127.0.0.1:61186 requests connection cookie.
 [15:13:04] [connection] incoming connection: 127.0.0.1:61186 id: 0
 [15:13:04] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:13:04] NereÏistrÁts
+[15:13:04] Nere√¨istr√ßts
 [15:13:07] Iet?
 
 ----------
@@ -6823,7 +6823,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:14:39] [connection] 127.0.0.1:57854 requests connection cookie.
 [15:14:40] [connection] incoming connection: 127.0.0.1:57854 id: 0
 [15:14:40] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:14:40] NereÏistrÁts
+[15:14:40] Nere√¨istr√ßts
 [15:14:43] Iet?
 
 ----------
@@ -6877,7 +6877,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:59:07] [connection] 127.0.0.1:61232 requests connection cookie.
 [15:59:08] [connection] incoming connection: 127.0.0.1:61232 id: 0
 [15:59:09] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:59:09] ReÏistrÁts!
+[15:59:09] Re√¨istr√ßts!
 [15:59:13] James_Colosimo
 
 ----------
@@ -6931,7 +6931,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [15:59:45] [connection] 127.0.0.1:51725 requests connection cookie.
 [15:59:46] [connection] incoming connection: 127.0.0.1:51725 id: 0
 [15:59:46] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[15:59:46] ReÏistrÁts!
+[15:59:46] Re√¨istr√ßts!
 [15:59:50] qwerty
 
 ----------
@@ -6985,7 +6985,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:08:18] [connection] 127.0.0.1:65083 requests connection cookie.
 [16:08:19] [connection] incoming connection: 127.0.0.1:65083 id: 0
 [16:08:19] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:08:19] ReÏistrÁts!
+[16:08:19] Re√¨istr√ßts!
 [16:08:22] qwerty
 [16:08:29] [part] James_Colosimo has left the server (0:1)
 
@@ -7040,14 +7040,14 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:08:52] [connection] 127.0.0.1:65104 requests connection cookie.
 [16:08:53] [connection] incoming connection: 127.0.0.1:65104 id: 0
 [16:08:53] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:08:53] ReÏistrÁts!
+[16:08:53] Re√¨istr√ßts!
 [16:08:56] qwerty
 [16:08:56] qwerty
 [16:09:04] [part] James_Colosimo has left the server (0:1)
 [16:09:24] [connection] 127.0.0.1:58414 requests connection cookie.
 [16:09:25] [connection] incoming connection: 127.0.0.1:58414 id: 0
 [16:09:26] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:09:26] ReÏistrÁts!
+[16:09:26] Re√¨istr√ßts!
 [16:09:32] qwerty
 
 ----------
@@ -7101,7 +7101,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:12:08] [connection] 127.0.0.1:53489 requests connection cookie.
 [16:12:09] [connection] incoming connection: 127.0.0.1:53489 id: 0
 [16:12:09] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:12:09] ReÏistrÁts!
+[16:12:09] Re√¨istr√ßts!
 [16:12:12] 
 
 ----------
@@ -7155,7 +7155,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:17:54] [connection] 127.0.0.1:50112 requests connection cookie.
 [16:17:55] [connection] incoming connection: 127.0.0.1:50112 id: 0
 [16:17:55] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:17:55] ReÏistrÁts!
+[16:17:55] Re√¨istr√ßts!
 [16:17:58] qwerty James_Colosimo
 
 ----------
@@ -7209,7 +7209,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:19:00] [connection] 127.0.0.1:57838 requests connection cookie.
 [16:19:01] [connection] incoming connection: 127.0.0.1:57838 id: 0
 [16:19:01] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:19:01] ReÏistrÁts!
+[16:19:01] Re√¨istr√ßts!
 [16:19:04] qwerty James_Colosimo
 [16:19:08] qwerty James_Colosimo
 [16:19:10] qwerty James_Colosimo
@@ -7278,7 +7278,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:20:58] [connection] 127.0.0.1:63136 requests connection cookie.
 [16:20:59] [connection] incoming connection: 127.0.0.1:63136 id: 0
 [16:21:00] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:21:00] ReÏistrÁts!
+[16:21:00] Re√¨istr√ßts!
 [16:21:03] qwerty werty erty
 [16:21:11] qwerty werty erty
 
@@ -7333,7 +7333,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:22:24] [connection] 127.0.0.1:63889 requests connection cookie.
 [16:22:25] [connection] incoming connection: 127.0.0.1:63889 id: 0
 [16:22:25] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:22:25] ReÏistrÁts!
+[16:22:25] Re√¨istr√ßts!
 [16:22:31] qwerty werty erty
 
 ----------
@@ -7387,7 +7387,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:22:52] [connection] 127.0.0.1:61192 requests connection cookie.
 [16:22:53] [connection] incoming connection: 127.0.0.1:61192 id: 0
 [16:22:53] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:22:53] ReÏistrÁts!
+[16:22:53] Re√¨istr√ßts!
 [16:22:56] qwerty werty erty
 
 ----------
@@ -7441,7 +7441,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:23:41] [connection] 127.0.0.1:52732 requests connection cookie.
 [16:23:42] [connection] incoming connection: 127.0.0.1:52732 id: 0
 [16:23:42] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:23:42] ReÏistrÁts!
+[16:23:42] Re√¨istr√ßts!
 [16:23:44] qwerty huij 
 
 ----------
@@ -7495,7 +7495,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:24:29] [connection] 127.0.0.1:63302 requests connection cookie.
 [16:24:30] [connection] incoming connection: 127.0.0.1:63302 id: 0
 [16:24:30] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:24:30] ReÏistrÁts!
+[16:24:30] Re√¨istr√ßts!
 [16:24:36] qwerty  
 [16:24:41] qwerty  
 
@@ -7550,7 +7550,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:25:42] [connection] 127.0.0.1:54726 requests connection cookie.
 [16:25:43] [connection] incoming connection: 127.0.0.1:54726 id: 0
 [16:25:43] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:25:43] ReÏistrÁts!
+[16:25:43] Re√¨istr√ßts!
 [16:25:48] qwerty huij 
 [16:25:50] qwerty huij 
 [16:25:53] qwerty qwerty 
@@ -7558,7 +7558,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:26:22] [connection] 127.0.0.1:59891 requests connection cookie.
 [16:26:23] [connection] incoming connection: 127.0.0.1:59891 id: 0
 [16:26:23] [join] James_Colosimo has joined the server (0:127.0.0.1)
-[16:26:23] ReÏistrÁts!
+[16:26:23] Re√¨istr√ßts!
 [16:26:32] qwerty juceklis123lv 
 [16:26:38] qwerty juceklis gsahbdjkas 
 [16:26:42] qwerty qwerty 
@@ -7566,12 +7566,12 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:27:21] [connection] 127.0.0.1:49917 requests connection cookie.
 [16:27:22] [connection] incoming connection: 127.0.0.1:49917 id: 0
 [16:27:22] [join] James_Colosimos has joined the server (0:127.0.0.1)
-[16:27:22] NereÏistrÁts
+[16:27:22] Nere√¨istr√ßts
 [16:27:41] [part] James_Colosimos has left the server (0:1)
 [16:28:00] [connection] 127.0.0.1:60453 requests connection cookie.
 [16:28:01] [connection] incoming connection: 127.0.0.1:60453 id: 0
 [16:28:01] [join] James_Colosimos has joined the server (0:127.0.0.1)
-[16:28:01] NereÏistrÁts
+[16:28:01] Nere√¨istr√ßts
 [16:28:38] [part] James_Colosimos has left the server (0:1)
 
 ----------
@@ -7625,12 +7625,12 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:29:06] [connection] 127.0.0.1:58742 requests connection cookie.
 [16:29:07] [connection] incoming connection: 127.0.0.1:58742 id: 0
 [16:29:07] [join] James_Colosimos has joined the server (0:127.0.0.1)
-[16:29:07] NereÏistrÁts
+[16:29:07] Nere√¨istr√ßts
 [16:29:19] [part] James_Colosimos has left the server (0:1)
 [16:29:37] [connection] 127.0.0.1:58759 requests connection cookie.
 [16:29:38] [connection] incoming connection: 127.0.0.1:58759 id: 0
 [16:29:38] [join] James_Colosimos has joined the server (0:127.0.0.1)
-[16:29:38] ReÏistrÁts!
+[16:29:38] Re√¨istr√ßts!
 [16:29:42] lunis lunis 
 
 ----------
@@ -7684,7 +7684,7 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:31:20] [connection] 127.0.0.1:50429 requests connection cookie.
 [16:31:21] [connection] incoming connection: 127.0.0.1:50429 id: 0
 [16:31:21] [join] Lunatiks has joined the server (0:127.0.0.1)
-[16:31:21] NereÏistrÁts
+[16:31:21] Nere√¨istr√ßts
 [16:35:18] [part] Lunatiks has left the server (0:1)
 
 ----------
@@ -7738,12 +7738,12 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:35:52] [connection] 127.0.0.1:54562 requests connection cookie.
 [16:35:53] [connection] incoming connection: 127.0.0.1:54562 id: 0
 [16:35:53] [join] Lunatikssd has joined the server (0:127.0.0.1)
-[16:35:53] NereÏistrÁts
+[16:35:53] Nere√¨istr√ßts
 [16:36:28] [part] Lunatikssd has left the server (0:1)
 [16:36:52] [connection] 127.0.0.1:52682 requests connection cookie.
 [16:36:53] [connection] incoming connection: 127.0.0.1:52682 id: 0
 [16:36:53] [join] Lunatikssd has joined the server (0:127.0.0.1)
-[16:36:53] ReÏistrÁts!
+[16:36:53] Re√¨istr√ßts!
 
 ----------
 Loaded log file: "server_log.txt".
@@ -7751,6 +7751,7 @@ Loaded log file: "server_log.txt".
 
 SA-MP Dedicated Server
 ----------------------
+<<<<<<< HEAD
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
 [17:03:40] 
@@ -8238,3 +8239,4940 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [18:57:37] [connection] incoming connection: 127.0.0.1:61932 id: 0
 [18:57:37] [join] Lunatikssdsdasa has joined the server (0:127.0.0.1)
 [18:57:37] ReÏistrÁts!
+=======
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+>>>>>>> a89e727750b8ecb6f8647abdcbaf466b295a4827
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:01:55] 
+[19:01:55] Server Plugins
+[19:01:55] --------------
+[19:01:55]  Loading plugin: sscanf
+[19:01:55] 
+
+[19:01:55]  ===============================
+
+[19:01:55]       sscanf plugin loaded.     
+
+[19:01:55]          Version:  2.8.3        
+
+[19:01:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:01:55]  ===============================
+
+[19:01:55]   Loaded.
+[19:01:55]  Loading plugin: mysql
+[19:01:55]  >> plugin.mysql: R41-4 successfully loaded.
+[19:01:55]   Loaded.
+[19:01:55]  Loaded 2 plugins.
+
+[19:01:55] 
+[19:01:55] Filterscripts
+[19:01:55] ---------------
+[19:01:55]   Loading filterscript 'mapping.amx'...
+[19:01:55] 
+--------------------------------------
+[19:01:55]                 MAPPINGS                
+[19:01:55] --------------------------------------
+
+[19:01:55]   Loading filterscript 'vehicles.amx'...
+[19:01:55] 
+--------------------------------------
+[19:01:55] Vehicle script initiated.
+[19:01:55] --------------------------------------
+
+[19:01:55]   Loaded 2 filterscripts.
+
+[19:01:55] ** [MySQL] Connected to the database successfully (1).
+[19:01:55] 
+----------------------------------
+[19:01:55]                 SONI
+[19:01:55] ----------------------------------
+
+[19:01:55] Number of vehicle models: 2
+[19:02:00] [connection] 127.0.0.1:51185 requests connection cookie.
+[19:02:01] [connection] incoming connection: 127.0.0.1:51185 id: 0
+[19:02:01] [join] Lunatikssdsdasa has joined the server (0:127.0.0.1)
+[19:02:01] ReÏistrÁts!
+[19:02:07]  Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:03:24] 
+[19:03:24] Server Plugins
+[19:03:24] --------------
+[19:03:24]  Loading plugin: sscanf
+[19:03:24] 
+
+[19:03:24]  ===============================
+
+[19:03:24]       sscanf plugin loaded.     
+
+[19:03:24]          Version:  2.8.3        
+
+[19:03:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:03:24]  ===============================
+
+[19:03:24]   Loaded.
+[19:03:24]  Loading plugin: mysql
+[19:03:24]  >> plugin.mysql: R41-4 successfully loaded.
+[19:03:24]   Loaded.
+[19:03:24]  Loaded 2 plugins.
+
+[19:03:24] 
+[19:03:24] Filterscripts
+[19:03:24] ---------------
+[19:03:24]   Loading filterscript 'mapping.amx'...
+[19:03:24] 
+--------------------------------------
+[19:03:24]                 MAPPINGS                
+[19:03:24] --------------------------------------
+
+[19:03:24]   Loading filterscript 'vehicles.amx'...
+[19:03:24] 
+--------------------------------------
+[19:03:24] Vehicle script initiated.
+[19:03:24] --------------------------------------
+
+[19:03:24]   Loaded 2 filterscripts.
+
+[19:03:24] ** [MySQL] Connected to the database successfully (1).
+[19:03:24] 
+----------------------------------
+[19:03:24]                 SONI
+[19:03:24] ----------------------------------
+
+[19:03:24] Number of vehicle models: 2
+[19:03:28] [connection] 127.0.0.1:54246 requests connection cookie.
+[19:03:29] [connection] incoming connection: 127.0.0.1:54246 id: 0
+[19:03:30] [join] Lunatikssdsdasa has joined the server (0:127.0.0.1)
+[19:03:30] ReÏistrÁts!
+[19:03:34]  Ù
+[19:04:50] Ùˇx Ù0Gbhdd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:14:17] 
+[19:14:17] Server Plugins
+[19:14:17] --------------
+[19:14:17]  Loading plugin: sscanf
+[19:14:17] 
+
+[19:14:17]  ===============================
+
+[19:14:17]       sscanf plugin loaded.     
+
+[19:14:17]          Version:  2.8.3        
+
+[19:14:17]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:14:17]  ===============================
+
+[19:14:17]   Loaded.
+[19:14:17]  Loading plugin: mysql
+[19:14:17]  >> plugin.mysql: R41-4 successfully loaded.
+[19:14:17]   Loaded.
+[19:14:17]  Loaded 2 plugins.
+
+[19:14:17] 
+[19:14:17] Filterscripts
+[19:14:17] ---------------
+[19:14:17]   Loading filterscript 'mapping.amx'...
+[19:14:17] 
+--------------------------------------
+[19:14:17]                 MAPPINGS                
+[19:14:17] --------------------------------------
+
+[19:14:17]   Loading filterscript 'vehicles.amx'...
+[19:14:17] 
+--------------------------------------
+[19:14:17] Vehicle script initiated.
+[19:14:17] --------------------------------------
+
+[19:14:17]   Loaded 2 filterscripts.
+
+[19:14:17] ** [MySQL] Couldn't connect to the database (1130).
+[19:14:17] 
+----------------------------------
+[19:14:17]                 SONI
+[19:14:17] ----------------------------------
+
+[19:14:17] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:23:43] 
+[19:23:43] Server Plugins
+[19:23:43] --------------
+[19:23:43]  Loading plugin: sscanf
+[19:23:43] 
+
+[19:23:43]  ===============================
+
+[19:23:43]       sscanf plugin loaded.     
+
+[19:23:43]          Version:  2.8.3        
+
+[19:23:43]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:23:43]  ===============================
+
+[19:23:43]   Loaded.
+[19:23:43]  Loading plugin: mysql
+[19:23:43]  >> plugin.mysql: R41-4 successfully loaded.
+[19:23:43]   Loaded.
+[19:23:43]  Loaded 2 plugins.
+
+[19:23:43] 
+[19:23:43] Filterscripts
+[19:23:43] ---------------
+[19:23:43]   Loading filterscript 'mapping.amx'...
+[19:23:43] 
+--------------------------------------
+[19:23:43]                 MAPPINGS                
+[19:23:43] --------------------------------------
+
+[19:23:43]   Loading filterscript 'vehicles.amx'...
+[19:23:43] 
+--------------------------------------
+[19:23:43] Vehicle script initiated.
+[19:23:43] --------------------------------------
+
+[19:23:43]   Loaded 2 filterscripts.
+
+[19:23:43] ** [MySQL] Couldn't connect to the database (1130).
+[19:23:43] 
+----------------------------------
+[19:23:43]                 SONI
+[19:23:43] ----------------------------------
+
+[19:23:43] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:11:22] 
+[20:11:22] Server Plugins
+[20:11:22] --------------
+[20:11:22]  Loading plugin: sscanf
+[20:11:22] 
+
+[20:11:22]  ===============================
+
+[20:11:22]       sscanf plugin loaded.     
+
+[20:11:22]          Version:  2.8.3        
+
+[20:11:22]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:11:22]  ===============================
+
+[20:11:22]   Loaded.
+[20:11:22]  Loading plugin: mysql
+[20:11:22]  >> plugin.mysql: R41-4 successfully loaded.
+[20:11:22]   Loaded.
+[20:11:22]  Loaded 2 plugins.
+
+[20:11:22] 
+[20:11:22] Filterscripts
+[20:11:22] ---------------
+[20:11:22]   Loading filterscript 'mapping.amx'...
+[20:11:22] 
+--------------------------------------
+[20:11:22]                 MAPPINGS                
+[20:11:22] --------------------------------------
+
+[20:11:22]   Loading filterscript 'vehicles.amx'...
+[20:11:22] 
+--------------------------------------
+[20:11:22] Vehicle script initiated.
+[20:11:22] --------------------------------------
+
+[20:11:22]   Loaded 2 filterscripts.
+
+[20:11:30] ** [MySQL] Couldn't connect to the database (2002).
+[20:11:30] 
+----------------------------------
+[20:11:30]                 SONI
+[20:11:30] ----------------------------------
+
+[20:11:30] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:11:44] 
+[20:11:44] Server Plugins
+[20:11:44] --------------
+[20:11:44]  Loading plugin: sscanf
+[20:11:44] 
+
+[20:11:44]  ===============================
+
+[20:11:44]       sscanf plugin loaded.     
+
+[20:11:44]          Version:  2.8.3        
+
+[20:11:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:11:44]  ===============================
+
+[20:11:44]   Loaded.
+[20:11:44]  Loading plugin: mysql
+[20:11:44]  >> plugin.mysql: R41-4 successfully loaded.
+[20:11:44]   Loaded.
+[20:11:44]  Loaded 2 plugins.
+
+[20:11:44] 
+[20:11:44] Filterscripts
+[20:11:44] ---------------
+[20:11:44]   Loading filterscript 'mapping.amx'...
+[20:11:44] 
+--------------------------------------
+[20:11:44]                 MAPPINGS                
+[20:11:44] --------------------------------------
+
+[20:11:44]   Loading filterscript 'vehicles.amx'...
+[20:11:44] 
+--------------------------------------
+[20:11:44] Vehicle script initiated.
+[20:11:44] --------------------------------------
+
+[20:11:44]   Loaded 2 filterscripts.
+
+[20:11:44] ** [MySQL] Connected to the database successfully (1).
+[20:11:44] 
+----------------------------------
+[20:11:44]                 SONI
+[20:11:44] ----------------------------------
+
+[20:11:44] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:12:33] 
+[20:12:33] Server Plugins
+[20:12:33] --------------
+[20:12:33]  Loading plugin: sscanf
+[20:12:33] 
+
+[20:12:33]  ===============================
+
+[20:12:33]       sscanf plugin loaded.     
+
+[20:12:33]          Version:  2.8.3        
+
+[20:12:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:12:33]  ===============================
+
+[20:12:33]   Loaded.
+[20:12:33]  Loading plugin: mysql
+[20:12:33]  >> plugin.mysql: R41-4 successfully loaded.
+[20:12:33]   Loaded.
+[20:12:33]  Loaded 2 plugins.
+
+[20:12:33] 
+[20:12:33] Filterscripts
+[20:12:33] ---------------
+[20:12:33]   Loading filterscript 'mapping.amx'...
+[20:12:33] 
+--------------------------------------
+[20:12:33]                 MAPPINGS                
+[20:12:33] --------------------------------------
+
+[20:12:33]   Loading filterscript 'vehicles.amx'...
+[20:12:33] 
+--------------------------------------
+[20:12:33] Vehicle script initiated.
+[20:12:33] --------------------------------------
+
+[20:12:33]   Loaded 2 filterscripts.
+
+[20:12:33] ** [MySQL] Connected to the database successfully (1).
+[20:12:33] 
+----------------------------------
+[20:12:33]                 SONI
+[20:12:33] ----------------------------------
+
+[20:12:33] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:12:40] 
+[20:12:40] Server Plugins
+[20:12:40] --------------
+[20:12:40]  Loading plugin: sscanf
+[20:12:40] 
+
+[20:12:40]  ===============================
+
+[20:12:40]       sscanf plugin loaded.     
+
+[20:12:40]          Version:  2.8.3        
+
+[20:12:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:12:40]  ===============================
+
+[20:12:40]   Loaded.
+[20:12:40]  Loading plugin: mysql
+[20:12:40]  >> plugin.mysql: R41-4 successfully loaded.
+[20:12:40]   Loaded.
+[20:12:40]  Loaded 2 plugins.
+
+[20:12:40] 
+[20:12:40] Filterscripts
+[20:12:40] ---------------
+[20:12:40]   Loading filterscript 'mapping.amx'...
+[20:12:40] 
+--------------------------------------
+[20:12:40]                 MAPPINGS                
+[20:12:40] --------------------------------------
+
+[20:12:40]   Loading filterscript 'vehicles.amx'...
+[20:12:40] 
+--------------------------------------
+[20:12:40] Vehicle script initiated.
+[20:12:40] --------------------------------------
+
+[20:12:40]   Loaded 2 filterscripts.
+
+[20:12:40] ** [MySQL] Connected to the database successfully (1).
+[20:12:40] 
+----------------------------------
+[20:12:40]                 SONI
+[20:12:40] ----------------------------------
+
+[20:12:40] Number of vehicle models: 2
+[20:12:59] [connection] 127.0.0.1:54293 requests connection cookie.
+[20:13:00] [connection] incoming connection: 127.0.0.1:54293 id: 0
+[20:13:00] [join] Lunatikssdsdasa has joined the server (0:127.0.0.1)
+[20:13:00] ReÏistrÁts!
+[20:13:03]  Ù
+[20:13:07]  Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:18:10] 
+[20:18:10] Server Plugins
+[20:18:10] --------------
+[20:18:10]  Loading plugin: sscanf
+[20:18:10] 
+
+[20:18:10]  ===============================
+
+[20:18:10]       sscanf plugin loaded.     
+
+[20:18:10]          Version:  2.8.3        
+
+[20:18:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:18:10]  ===============================
+
+[20:18:10]   Loaded.
+[20:18:10]  Loading plugin: mysql
+[20:18:10]  >> plugin.mysql: R41-4 successfully loaded.
+[20:18:10]   Loaded.
+[20:18:10]  Loaded 2 plugins.
+
+[20:18:10] 
+[20:18:10] Filterscripts
+[20:18:10] ---------------
+[20:18:10]   Loading filterscript 'mapping.amx'...
+[20:18:10] 
+--------------------------------------
+[20:18:10]                 MAPPINGS                
+[20:18:10] --------------------------------------
+
+[20:18:10]   Loading filterscript 'vehicles.amx'...
+[20:18:10] 
+--------------------------------------
+[20:18:10] Vehicle script initiated.
+[20:18:10] --------------------------------------
+
+[20:18:10]   Loaded 2 filterscripts.
+
+[20:18:10] ** [MySQL] Connected to the database successfully (1).
+[20:18:10] 
+----------------------------------
+[20:18:10]                 SONI
+[20:18:10] ----------------------------------
+
+[20:18:10] Number of vehicle models: 2
+[20:18:14] [connection] 127.0.0.1:51429 requests connection cookie.
+[20:18:15] [connection] incoming connection: 127.0.0.1:51429 id: 0
+[20:18:15] [join] Lunatikssdsdasa has joined the server (0:127.0.0.1)
+[20:18:15] ReÏistrÁts!
+[20:18:17]  Ù
+[20:18:20]  Ùkdmqw
+[20:18:20] Tev ir: 5000
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:19:49] 
+[20:19:49] Server Plugins
+[20:19:49] --------------
+[20:19:49]  Loading plugin: sscanf
+[20:19:49] 
+
+[20:19:49]  ===============================
+
+[20:19:49]       sscanf plugin loaded.     
+
+[20:19:49]          Version:  2.8.3        
+
+[20:19:49]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:19:49]  ===============================
+
+[20:19:49]   Loaded.
+[20:19:49]  Loading plugin: mysql
+[20:19:49]  >> plugin.mysql: R41-4 successfully loaded.
+[20:19:49]   Loaded.
+[20:19:49]  Loaded 2 plugins.
+
+[20:19:49] 
+[20:19:49] Filterscripts
+[20:19:49] ---------------
+[20:19:49]   Loading filterscript 'mapping.amx'...
+[20:19:49] 
+--------------------------------------
+[20:19:49]                 MAPPINGS                
+[20:19:49] --------------------------------------
+
+[20:19:49]   Loading filterscript 'vehicles.amx'...
+[20:19:49] 
+--------------------------------------
+[20:19:49] Vehicle script initiated.
+[20:19:49] --------------------------------------
+
+[20:19:49]   Loaded 2 filterscripts.
+
+[20:19:49] ** [MySQL] Connected to the database successfully (1).
+[20:19:49] 
+----------------------------------
+[20:19:49]                 SONI
+[20:19:49] ----------------------------------
+
+[20:19:49] Number of vehicle models: 2
+[20:20:07] [connection] 127.0.0.1:58305 requests connection cookie.
+[20:20:08] [connection] incoming connection: 127.0.0.1:58305 id: 0
+[20:20:08] [join] Lunatikssdsdasa has joined the server (0:127.0.0.1)
+[20:20:08] ReÏistrÁts!
+[20:20:10]  Ù
+[20:20:13]  Ù
+[20:20:13] Tev ir: 5000
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:21:14] 
+[20:21:14] Server Plugins
+[20:21:14] --------------
+[20:21:14]  Loading plugin: sscanf
+[20:21:14] 
+
+[20:21:14]  ===============================
+
+[20:21:14]       sscanf plugin loaded.     
+
+[20:21:14]          Version:  2.8.3        
+
+[20:21:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:21:14]  ===============================
+
+[20:21:14]   Loaded.
+[20:21:14]  Loading plugin: mysql
+[20:21:14]  >> plugin.mysql: R41-4 successfully loaded.
+[20:21:14]   Loaded.
+[20:21:14]  Loaded 2 plugins.
+
+[20:21:14] 
+[20:21:14] Filterscripts
+[20:21:14] ---------------
+[20:21:14]   Loading filterscript 'mapping.amx'...
+[20:21:14] 
+--------------------------------------
+[20:21:14]                 MAPPINGS                
+[20:21:14] --------------------------------------
+
+[20:21:14]   Loading filterscript 'vehicles.amx'...
+[20:21:14] 
+--------------------------------------
+[20:21:14] Vehicle script initiated.
+[20:21:14] --------------------------------------
+
+[20:21:14]   Loaded 2 filterscripts.
+
+[20:21:14] ** [MySQL] Connected to the database successfully (1).
+[20:21:14] 
+----------------------------------
+[20:21:14]                 SONI
+[20:21:14] ----------------------------------
+
+[20:21:14] Number of vehicle models: 2
+[20:21:30] [connection] 127.0.0.1:58931 requests connection cookie.
+[20:21:31] [connection] incoming connection: 127.0.0.1:58931 id: 0
+[20:21:31] [join] Lunatikssdsdasa has joined the server (0:127.0.0.1)
+[20:21:31] ReÏistrÁts!
+[20:21:35]  Ù
+[20:21:55] Ùˇx Ù0gbhdd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:05:54] 
+[21:05:54] Server Plugins
+[21:05:54] --------------
+[21:05:54]  Loading plugin: sscanf
+[21:05:54] 
+
+[21:05:54]  ===============================
+
+[21:05:54]       sscanf plugin loaded.     
+
+[21:05:54]          Version:  2.8.3        
+
+[21:05:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:05:54]  ===============================
+
+[21:05:54]   Loaded.
+[21:05:54]  Loading plugin: mysql
+[21:05:54]  >> plugin.mysql: R41-4 successfully loaded.
+[21:05:54]   Loaded.
+[21:05:54]  Loaded 2 plugins.
+
+[21:05:54] 
+[21:05:54] Filterscripts
+[21:05:54] ---------------
+[21:05:54]   Loading filterscript 'mapping.amx'...
+[21:05:54] 
+--------------------------------------
+[21:05:54]                 MAPPINGS                
+[21:05:54] --------------------------------------
+
+[21:05:54]   Loading filterscript 'vehicles.amx'...
+[21:05:54] 
+--------------------------------------
+[21:05:54] Vehicle script initiated.
+[21:05:54] --------------------------------------
+
+[21:05:54]   Loaded 2 filterscripts.
+
+[21:05:55] ** [MySQL] Couldn't connect to the database (1130).
+[21:05:55] 
+----------------------------------
+[21:05:55]                 SONI
+[21:05:55] ----------------------------------
+
+[21:05:55] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:06:33] 
+[21:06:33] Server Plugins
+[21:06:33] --------------
+[21:06:33]  Loading plugin: sscanf
+[21:06:33] 
+
+[21:06:33]  ===============================
+
+[21:06:33]       sscanf plugin loaded.     
+
+[21:06:33]          Version:  2.8.3        
+
+[21:06:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:06:33]  ===============================
+
+[21:06:33]   Loaded.
+[21:06:33]  Loading plugin: mysql
+[21:06:33]  >> plugin.mysql: R41-4 successfully loaded.
+[21:06:33]   Loaded.
+[21:06:33]  Loaded 2 plugins.
+
+[21:06:33] 
+[21:06:33] Filterscripts
+[21:06:33] ---------------
+[21:06:33]   Loading filterscript 'mapping.amx'...
+[21:06:33] 
+--------------------------------------
+[21:06:33]                 MAPPINGS                
+[21:06:33] --------------------------------------
+
+[21:06:33]   Loading filterscript 'vehicles.amx'...
+[21:06:33] 
+--------------------------------------
+[21:06:33] Vehicle script initiated.
+[21:06:33] --------------------------------------
+
+[21:06:33]   Loaded 2 filterscripts.
+
+[21:06:33] ** [MySQL] Couldn't connect to the database (1130).
+[21:06:33] 
+----------------------------------
+[21:06:33]                 SONI
+[21:06:33] ----------------------------------
+
+[21:06:33] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:07:39] 
+[21:07:39] Server Plugins
+[21:07:39] --------------
+[21:07:39]  Loading plugin: sscanf
+[21:07:39] 
+
+[21:07:39]  ===============================
+
+[21:07:39]       sscanf plugin loaded.     
+
+[21:07:39]          Version:  2.8.3        
+
+[21:07:39]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:07:39]  ===============================
+
+[21:07:39]   Loaded.
+[21:07:39]  Loading plugin: mysql
+[21:07:39]  >> plugin.mysql: R41-4 successfully loaded.
+[21:07:39]   Loaded.
+[21:07:39]  Loaded 2 plugins.
+
+[21:07:39] 
+[21:07:39] Filterscripts
+[21:07:39] ---------------
+[21:07:39]   Loading filterscript 'mapping.amx'...
+[21:07:39] 
+--------------------------------------
+[21:07:39]                 MAPPINGS                
+[21:07:39] --------------------------------------
+
+[21:07:39]   Loading filterscript 'vehicles.amx'...
+[21:07:39] 
+--------------------------------------
+[21:07:39] Vehicle script initiated.
+[21:07:39] --------------------------------------
+
+[21:07:39]   Loaded 2 filterscripts.
+
+[21:07:39] ** [MySQL] Couldn't connect to the database (1130).
+[21:07:39] 
+----------------------------------
+[21:07:39]                 SONI
+[21:07:39] ----------------------------------
+
+[21:07:39] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:27:01] 
+[21:27:01] Server Plugins
+[21:27:01] --------------
+[21:27:01]  Loading plugin: sscanf
+[21:27:01] 
+
+[21:27:01]  ===============================
+
+[21:27:01]       sscanf plugin loaded.     
+
+[21:27:01]          Version:  2.8.3        
+
+[21:27:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:27:01]  ===============================
+
+[21:27:01]   Loaded.
+[21:27:01]  Loading plugin: mysql
+[21:27:01]  >> plugin.mysql: R41-4 successfully loaded.
+[21:27:01]   Loaded.
+[21:27:01]  Loaded 2 plugins.
+
+[21:27:01] 
+[21:27:01] Filterscripts
+[21:27:01] ---------------
+[21:27:01]   Loading filterscript 'mapping.amx'...
+[21:27:01] 
+--------------------------------------
+[21:27:01]                 MAPPINGS                
+[21:27:01] --------------------------------------
+
+[21:27:01]   Loading filterscript 'vehicles.amx'...
+[21:27:01] 
+--------------------------------------
+[21:27:01] Vehicle script initiated.
+[21:27:01] --------------------------------------
+
+[21:27:01]   Loaded 2 filterscripts.
+
+[21:27:02] ** [MySQL] Couldn't connect to the database (1130).
+[21:27:02] 
+----------------------------------
+[21:27:02]                 SONI
+[21:27:02] ----------------------------------
+
+[21:27:02] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:27:40] 
+[21:27:40] Server Plugins
+[21:27:40] --------------
+[21:27:40]  Loading plugin: sscanf
+[21:27:40] 
+
+[21:27:40]  ===============================
+
+[21:27:40]       sscanf plugin loaded.     
+
+[21:27:40]          Version:  2.8.3        
+
+[21:27:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:27:40]  ===============================
+
+[21:27:40]   Loaded.
+[21:27:40]  Loading plugin: mysql
+[21:27:40]  >> plugin.mysql: R41-4 successfully loaded.
+[21:27:40]   Loaded.
+[21:27:40]  Loaded 2 plugins.
+
+[21:27:40] 
+[21:27:40] Filterscripts
+[21:27:40] ---------------
+[21:27:40]   Loading filterscript 'mapping.amx'...
+[21:27:40] 
+--------------------------------------
+[21:27:40]                 MAPPINGS                
+[21:27:40] --------------------------------------
+
+[21:27:40]   Loading filterscript 'vehicles.amx'...
+[21:27:40] 
+--------------------------------------
+[21:27:40] Vehicle script initiated.
+[21:27:40] --------------------------------------
+
+[21:27:40]   Loaded 2 filterscripts.
+
+[21:27:40] ** [MySQL] Couldn't connect to the database (1130).
+[21:27:40] 
+----------------------------------
+[21:27:40]                 SONI
+[21:27:40] ----------------------------------
+
+[21:27:40] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:31:48] 
+[21:31:48] Server Plugins
+[21:31:48] --------------
+[21:31:48]  Loading plugin: sscanf
+[21:31:48] 
+
+[21:31:48]  ===============================
+
+[21:31:48]       sscanf plugin loaded.     
+
+[21:31:48]          Version:  2.8.3        
+
+[21:31:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:31:48]  ===============================
+
+[21:31:48]   Loaded.
+[21:31:48]  Loading plugin: mysql
+[21:31:48]  >> plugin.mysql: R41-4 successfully loaded.
+[21:31:48]   Loaded.
+[21:31:48]  Loaded 2 plugins.
+
+[21:31:48] 
+[21:31:48] Filterscripts
+[21:31:48] ---------------
+[21:31:48]   Loading filterscript 'mapping.amx'...
+[21:31:48] 
+--------------------------------------
+[21:31:48]                 MAPPINGS                
+[21:31:48] --------------------------------------
+
+[21:31:48]   Loading filterscript 'vehicles.amx'...
+[21:31:48] 
+--------------------------------------
+[21:31:48] Vehicle script initiated.
+[21:31:48] --------------------------------------
+
+[21:31:48]   Loaded 2 filterscripts.
+
+[21:31:48] ** [MySQL] Couldn't connect to the database (1130).
+[21:31:48] 
+----------------------------------
+[21:31:48]                 SONI
+[21:31:48] ----------------------------------
+
+[21:31:48] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:35:37] 
+[21:35:37] Server Plugins
+[21:35:37] --------------
+[21:35:37]  Loading plugin: sscanf
+[21:35:37] 
+
+[21:35:37]  ===============================
+
+[21:35:37]       sscanf plugin loaded.     
+
+[21:35:37]          Version:  2.8.3        
+
+[21:35:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:35:37]  ===============================
+
+[21:35:37]   Loaded.
+[21:35:37]  Loading plugin: mysql
+[21:35:37]  >> plugin.mysql: R41-4 successfully loaded.
+[21:35:37]   Loaded.
+[21:35:37]  Loaded 2 plugins.
+
+[21:35:37] 
+[21:35:37] Filterscripts
+[21:35:37] ---------------
+[21:35:37]   Loading filterscript 'mapping.amx'...
+[21:35:37] 
+--------------------------------------
+[21:35:37]                 MAPPINGS                
+[21:35:37] --------------------------------------
+
+[21:35:37]   Loading filterscript 'vehicles.amx'...
+[21:35:37] 
+--------------------------------------
+[21:35:37] Vehicle script initiated.
+[21:35:37] --------------------------------------
+
+[21:35:37]   Loaded 2 filterscripts.
+
+[21:35:37] ** [MySQL] Couldn't connect to the database (1130).
+[21:35:37] 
+----------------------------------
+[21:35:37]                 SONI
+[21:35:37] ----------------------------------
+
+[21:35:37] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:37:18] 
+[21:37:18] Server Plugins
+[21:37:18] --------------
+[21:37:18]  Loading plugin: sscanf
+[21:37:18] 
+
+[21:37:18]  ===============================
+
+[21:37:18]       sscanf plugin loaded.     
+
+[21:37:18]          Version:  2.8.3        
+
+[21:37:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:37:18]  ===============================
+
+[21:37:18]   Loaded.
+[21:37:18]  Loading plugin: mysql
+[21:37:18]  >> plugin.mysql: R41-4 successfully loaded.
+[21:37:18]   Loaded.
+[21:37:18]  Loaded 2 plugins.
+
+[21:37:18] 
+[21:37:18] Filterscripts
+[21:37:18] ---------------
+[21:37:18]   Loading filterscript 'mapping.amx'...
+[21:37:18] 
+--------------------------------------
+[21:37:18]                 MAPPINGS                
+[21:37:18] --------------------------------------
+
+[21:37:18]   Loading filterscript 'vehicles.amx'...
+[21:37:18] 
+--------------------------------------
+[21:37:18] Vehicle script initiated.
+[21:37:18] --------------------------------------
+
+[21:37:18]   Loaded 2 filterscripts.
+
+[21:37:18] ** [MySQL] Couldn't connect to the database (1045).
+[21:37:18] 
+----------------------------------
+[21:37:18]                 SONI
+[21:37:18] ----------------------------------
+
+[21:37:18] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:38:59] 
+[21:38:59] Server Plugins
+[21:38:59] --------------
+[21:38:59]  Loading plugin: sscanf
+[21:38:59] 
+
+[21:38:59]  ===============================
+
+[21:38:59]       sscanf plugin loaded.     
+
+[21:38:59]          Version:  2.8.3        
+
+[21:38:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:38:59]  ===============================
+
+[21:38:59]   Loaded.
+[21:38:59]  Loading plugin: mysql
+[21:38:59]  >> plugin.mysql: R41-4 successfully loaded.
+[21:38:59]   Loaded.
+[21:38:59]  Loaded 2 plugins.
+
+[21:38:59] 
+[21:38:59] Filterscripts
+[21:38:59] ---------------
+[21:38:59]   Loading filterscript 'mapping.amx'...
+[21:38:59] 
+--------------------------------------
+[21:38:59]                 MAPPINGS                
+[21:38:59] --------------------------------------
+
+[21:38:59]   Loading filterscript 'vehicles.amx'...
+[21:38:59] 
+--------------------------------------
+[21:38:59] Vehicle script initiated.
+[21:38:59] --------------------------------------
+
+[21:38:59]   Loaded 2 filterscripts.
+
+[21:38:59] ** [MySQL] Couldn't connect to the database (1045).
+[21:38:59] 
+----------------------------------
+[21:38:59]                 SONI
+[21:38:59] ----------------------------------
+
+[21:38:59] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:41:15] 
+[21:41:15] Server Plugins
+[21:41:15] --------------
+[21:41:15]  Loading plugin: sscanf
+[21:41:15] 
+
+[21:41:15]  ===============================
+
+[21:41:15]       sscanf plugin loaded.     
+
+[21:41:15]          Version:  2.8.3        
+
+[21:41:15]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:41:15]  ===============================
+
+[21:41:15]   Loaded.
+[21:41:15]  Loading plugin: mysql
+[21:41:15]  >> plugin.mysql: R41-4 successfully loaded.
+[21:41:15]   Loaded.
+[21:41:15]  Loaded 2 plugins.
+
+[21:41:15] 
+[21:41:15] Filterscripts
+[21:41:15] ---------------
+[21:41:15]   Loading filterscript 'mapping.amx'...
+[21:41:15] 
+--------------------------------------
+[21:41:15]                 MAPPINGS                
+[21:41:15] --------------------------------------
+
+[21:41:15]   Loading filterscript 'vehicles.amx'...
+[21:41:15] 
+--------------------------------------
+[21:41:15] Vehicle script initiated.
+[21:41:15] --------------------------------------
+
+[21:41:15]   Loaded 2 filterscripts.
+
+[21:41:15] ** [MySQL] Connected to the database successfully (1).
+[21:41:15] 
+----------------------------------
+[21:41:15]                 SONI
+[21:41:15] ----------------------------------
+
+[21:41:15] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:54:52] 
+[21:54:52] Server Plugins
+[21:54:52] --------------
+[21:54:52]  Loading plugin: sscanf
+[21:54:52] 
+
+[21:54:52]  ===============================
+
+[21:54:52]       sscanf plugin loaded.     
+
+[21:54:52]          Version:  2.8.3        
+
+[21:54:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:54:52]  ===============================
+
+[21:54:52]   Loaded.
+[21:54:52]  Loading plugin: mysql
+[21:54:52]  >> plugin.mysql: R41-4 successfully loaded.
+[21:54:52]   Loaded.
+[21:54:52]  Loaded 2 plugins.
+
+[21:54:52] 
+[21:54:52] Filterscripts
+[21:54:52] ---------------
+[21:54:52]   Loading filterscript 'mapping.amx'...
+[21:54:52] 
+--------------------------------------
+[21:54:52]                 MAPPINGS                
+[21:54:52] --------------------------------------
+
+[21:54:52]   Loading filterscript 'vehicles.amx'...
+[21:54:52] 
+--------------------------------------
+[21:54:52] Vehicle script initiated.
+[21:54:52] --------------------------------------
+
+[21:54:52]   Loaded 2 filterscripts.
+
+[21:54:52] ** [MySQL] Couldn't connect to the database (1045).
+[21:54:52] 
+----------------------------------
+[21:54:52]                 SONI
+[21:54:52] ----------------------------------
+
+[21:54:52] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:55:06] 
+[21:55:06] Server Plugins
+[21:55:06] --------------
+[21:55:06]  Loading plugin: sscanf
+[21:55:06] 
+
+[21:55:06]  ===============================
+
+[21:55:06]       sscanf plugin loaded.     
+
+[21:55:06]          Version:  2.8.3        
+
+[21:55:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:55:06]  ===============================
+
+[21:55:06]   Loaded.
+[21:55:06]  Loading plugin: mysql
+[21:55:06]  >> plugin.mysql: R41-4 successfully loaded.
+[21:55:06]   Loaded.
+[21:55:06]  Loaded 2 plugins.
+
+[21:55:06] 
+[21:55:06] Filterscripts
+[21:55:06] ---------------
+[21:55:06]   Loading filterscript 'mapping.amx'...
+[21:55:06] 
+--------------------------------------
+[21:55:06]                 MAPPINGS                
+[21:55:06] --------------------------------------
+
+[21:55:06]   Loading filterscript 'vehicles.amx'...
+[21:55:06] 
+--------------------------------------
+[21:55:06] Vehicle script initiated.
+[21:55:06] --------------------------------------
+
+[21:55:06]   Loaded 2 filterscripts.
+
+[21:55:06] ** [MySQL] Couldn't connect to the database (1045).
+[21:55:06] 
+----------------------------------
+[21:55:06]                 SONI
+[21:55:06] ----------------------------------
+
+[21:55:06] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:55:42] 
+[21:55:42] Server Plugins
+[21:55:42] --------------
+[21:55:42]  Loading plugin: sscanf
+[21:55:42] 
+
+[21:55:42]  ===============================
+
+[21:55:42]       sscanf plugin loaded.     
+
+[21:55:42]          Version:  2.8.3        
+
+[21:55:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:55:42]  ===============================
+
+[21:55:42]   Loaded.
+[21:55:42]  Loading plugin: mysql
+[21:55:42]  >> plugin.mysql: R41-4 successfully loaded.
+[21:55:42]   Loaded.
+[21:55:42]  Loaded 2 plugins.
+
+[21:55:42] 
+[21:55:42] Filterscripts
+[21:55:42] ---------------
+[21:55:42]   Loading filterscript 'mapping.amx'...
+[21:55:42] 
+--------------------------------------
+[21:55:42]                 MAPPINGS                
+[21:55:42] --------------------------------------
+
+[21:55:42]   Loading filterscript 'vehicles.amx'...
+[21:55:42] 
+--------------------------------------
+[21:55:42] Vehicle script initiated.
+[21:55:42] --------------------------------------
+
+[21:55:42]   Loaded 2 filterscripts.
+
+[21:55:42] ** [MySQL] Couldn't connect to the database (1045).
+[21:55:42] 
+----------------------------------
+[21:55:42]                 SONI
+[21:55:42] ----------------------------------
+
+[21:55:42] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:00:12] 
+[22:00:12] Server Plugins
+[22:00:12] --------------
+[22:00:12]  Loading plugin: sscanf
+[22:00:12] 
+
+[22:00:12]  ===============================
+
+[22:00:12]       sscanf plugin loaded.     
+
+[22:00:12]          Version:  2.8.3        
+
+[22:00:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:00:12]  ===============================
+
+[22:00:12]   Loaded.
+[22:00:12]  Loading plugin: mysql
+[22:00:12]  >> plugin.mysql: R41-4 successfully loaded.
+[22:00:12]   Loaded.
+[22:00:12]  Loaded 2 plugins.
+
+[22:00:12] 
+[22:00:12] Filterscripts
+[22:00:12] ---------------
+[22:00:12]   Loading filterscript 'mapping.amx'...
+[22:00:12] 
+--------------------------------------
+[22:00:12]                 MAPPINGS                
+[22:00:12] --------------------------------------
+
+[22:00:12]   Loading filterscript 'vehicles.amx'...
+[22:00:12] 
+--------------------------------------
+[22:00:12] Vehicle script initiated.
+[22:00:12] --------------------------------------
+
+[22:00:12]   Loaded 2 filterscripts.
+
+[22:00:12] ** [MySQL] Couldn't connect to the database (1045).
+[22:00:12] 
+----------------------------------
+[22:00:12]                 SONI
+[22:00:12] ----------------------------------
+
+[22:00:12] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:00:57] 
+[22:00:57] Server Plugins
+[22:00:57] --------------
+[22:00:57]  Loading plugin: sscanf
+[22:00:57] 
+
+[22:00:57]  ===============================
+
+[22:00:57]       sscanf plugin loaded.     
+
+[22:00:57]          Version:  2.8.3        
+
+[22:00:57]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:00:57]  ===============================
+
+[22:00:57]   Loaded.
+[22:00:57]  Loading plugin: mysql
+[22:00:57]  >> plugin.mysql: R41-4 successfully loaded.
+[22:00:57]   Loaded.
+[22:00:57]  Loaded 2 plugins.
+
+[22:00:57] 
+[22:00:57] Filterscripts
+[22:00:57] ---------------
+[22:00:57]   Loading filterscript 'mapping.amx'...
+[22:00:57] 
+--------------------------------------
+[22:00:57]                 MAPPINGS                
+[22:00:57] --------------------------------------
+
+[22:00:57]   Loading filterscript 'vehicles.amx'...
+[22:00:57] 
+--------------------------------------
+[22:00:57] Vehicle script initiated.
+[22:00:57] --------------------------------------
+
+[22:00:57]   Loaded 2 filterscripts.
+
+[22:00:57] ** [MySQL] Couldn't connect to the database (1045).
+[22:00:57] 
+----------------------------------
+[22:00:57]                 SONI
+[22:00:57] ----------------------------------
+
+[22:00:57] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:03:58] 
+[22:03:58] Server Plugins
+[22:03:58] --------------
+[22:03:58]  Loading plugin: sscanf
+[22:03:58] 
+
+[22:03:58]  ===============================
+
+[22:03:58]       sscanf plugin loaded.     
+
+[22:03:58]          Version:  2.8.3        
+
+[22:03:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:03:58]  ===============================
+
+[22:03:58]   Loaded.
+[22:03:58]  Loading plugin: mysql
+[22:03:58]  >> plugin.mysql: R41-4 successfully loaded.
+[22:03:58]   Loaded.
+[22:03:58]  Loaded 2 plugins.
+
+[22:03:58] 
+[22:03:58] Filterscripts
+[22:03:58] ---------------
+[22:03:58]   Loading filterscript 'mapping.amx'...
+[22:03:58] 
+--------------------------------------
+[22:03:58]                 MAPPINGS                
+[22:03:58] --------------------------------------
+
+[22:03:58]   Loading filterscript 'vehicles.amx'...
+[22:03:58] 
+--------------------------------------
+[22:03:58] Vehicle script initiated.
+[22:03:58] --------------------------------------
+
+[22:03:58]   Loaded 2 filterscripts.
+
+[22:03:58] ** [MySQL] Connected to the database successfully (1).
+[22:03:58] 
+----------------------------------
+[22:03:58]                 SONI
+[22:03:58] ----------------------------------
+
+[22:03:58] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:46:22] 
+[22:46:22] Server Plugins
+[22:46:22] --------------
+[22:46:22]  Loading plugin: sscanf
+[22:46:22] 
+
+[22:46:22]  ===============================
+
+[22:46:22]       sscanf plugin loaded.     
+
+[22:46:22]          Version:  2.8.3        
+
+[22:46:22]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:46:22]  ===============================
+
+[22:46:22]   Loaded.
+[22:46:22]  Loading plugin: mysql
+[22:46:22]  >> plugin.mysql: R41-4 successfully loaded.
+[22:46:22]   Loaded.
+[22:46:22]  Loaded 2 plugins.
+
+[22:46:22] 
+[22:46:22] Filterscripts
+[22:46:22] ---------------
+[22:46:22]   Loading filterscript 'mapping.amx'...
+[22:46:22] 
+--------------------------------------
+[22:46:22]                 MAPPINGS                
+[22:46:22] --------------------------------------
+
+[22:46:22]   Loading filterscript 'vehicles.amx'...
+[22:46:22] 
+--------------------------------------
+[22:46:22] Vehicle script initiated.
+[22:46:22] --------------------------------------
+
+[22:46:22]   Loaded 2 filterscripts.
+
+[22:46:22] ** [MySQL] Couldn't connect to the database (1130).
+[22:46:22] 
+----------------------------------
+[22:46:22]                 SONI
+[22:46:22] ----------------------------------
+
+[22:46:22] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:49:26] 
+[22:49:26] Server Plugins
+[22:49:26] --------------
+[22:49:26]  Loading plugin: sscanf
+[22:49:26] 
+
+[22:49:26]  ===============================
+
+[22:49:26]       sscanf plugin loaded.     
+
+[22:49:26]          Version:  2.8.3        
+
+[22:49:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:49:26]  ===============================
+
+[22:49:26]   Loaded.
+[22:49:26]  Loading plugin: mysql
+[22:49:26]  >> plugin.mysql: R41-4 successfully loaded.
+[22:49:26]   Loaded.
+[22:49:26]  Loaded 2 plugins.
+
+[22:49:26] 
+[22:49:26] Filterscripts
+[22:49:26] ---------------
+[22:49:26]   Loading filterscript 'mapping.amx'...
+[22:49:26] 
+--------------------------------------
+[22:49:26]                 MAPPINGS                
+[22:49:26] --------------------------------------
+
+[22:49:26]   Loading filterscript 'vehicles.amx'...
+[22:49:26] 
+--------------------------------------
+[22:49:26] Vehicle script initiated.
+[22:49:26] --------------------------------------
+
+[22:49:26]   Loaded 2 filterscripts.
+
+[22:49:26] ** [MySQL] Connected to the database successfully (1).
+[22:49:26] 
+----------------------------------
+[22:49:26]                 SONI
+[22:49:26] ----------------------------------
+
+[22:49:26] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:49:46] 
+[22:49:46] Server Plugins
+[22:49:46] --------------
+[22:49:46]  Loading plugin: sscanf
+[22:49:46] 
+
+[22:49:46]  ===============================
+
+[22:49:46]       sscanf plugin loaded.     
+
+[22:49:46]          Version:  2.8.3        
+
+[22:49:46]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:49:46]  ===============================
+
+[22:49:46]   Loaded.
+[22:49:46]  Loading plugin: mysql
+[22:49:46]  >> plugin.mysql: R41-4 successfully loaded.
+[22:49:46]   Loaded.
+[22:49:46]  Loaded 2 plugins.
+
+[22:49:46] 
+[22:49:46] Filterscripts
+[22:49:46] ---------------
+[22:49:46]   Loading filterscript 'mapping.amx'...
+[22:49:46] 
+--------------------------------------
+[22:49:46]                 MAPPINGS                
+[22:49:46] --------------------------------------
+
+[22:49:46]   Loading filterscript 'vehicles.amx'...
+[22:49:46] 
+--------------------------------------
+[22:49:46] Vehicle script initiated.
+[22:49:46] --------------------------------------
+
+[22:49:46]   Loaded 2 filterscripts.
+
+[22:49:46] ** [MySQL] Connected to the database successfully (1).
+[22:49:46] 
+----------------------------------
+[22:49:46]                 SONI
+[22:49:46] ----------------------------------
+
+[22:49:46] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:52:25] 
+[22:52:25] Server Plugins
+[22:52:25] --------------
+[22:52:25]  Loading plugin: sscanf
+[22:52:25] 
+
+[22:52:25]  ===============================
+
+[22:52:25]       sscanf plugin loaded.     
+
+[22:52:25]          Version:  2.8.3        
+
+[22:52:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:52:25]  ===============================
+
+[22:52:25]   Loaded.
+[22:52:25]  Loading plugin: mysql
+[22:52:25]  >> plugin.mysql: R41-4 successfully loaded.
+[22:52:25]   Loaded.
+[22:52:25]  Loaded 2 plugins.
+
+[22:52:25] 
+[22:52:25] Filterscripts
+[22:52:25] ---------------
+[22:52:25]   Loading filterscript 'mapping.amx'...
+[22:52:25] 
+--------------------------------------
+[22:52:25]                 MAPPINGS                
+[22:52:25] --------------------------------------
+
+[22:52:25]   Loading filterscript 'vehicles.amx'...
+[22:52:25] 
+--------------------------------------
+[22:52:25] Vehicle script initiated.
+[22:52:25] --------------------------------------
+
+[22:52:25]   Loaded 2 filterscripts.
+
+[22:52:25] ** [MySQL] Connected to the database successfully (1).
+[22:52:25] 
+----------------------------------
+[22:52:25]                 SONI
+[22:52:25] ----------------------------------
+
+[22:52:25] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:00:39] 
+[23:00:39] Server Plugins
+[23:00:39] --------------
+[23:00:39]  Loading plugin: sscanf
+[23:00:39] 
+
+[23:00:39]  ===============================
+
+[23:00:39]       sscanf plugin loaded.     
+
+[23:00:39]          Version:  2.8.3        
+
+[23:00:39]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:00:39]  ===============================
+
+[23:00:39]   Loaded.
+[23:00:39]  Loading plugin: mysql
+[23:00:39]  >> plugin.mysql: R41-4 successfully loaded.
+[23:00:39]   Loaded.
+[23:00:39]  Loaded 2 plugins.
+
+[23:00:39] 
+[23:00:39] Filterscripts
+[23:00:39] ---------------
+[23:00:39]   Loading filterscript 'mapping.amx'...
+[23:00:39] 
+--------------------------------------
+[23:00:39]                 MAPPINGS                
+[23:00:39] --------------------------------------
+
+[23:00:39]   Loading filterscript 'vehicles.amx'...
+[23:00:39] 
+--------------------------------------
+[23:00:39] Vehicle script initiated.
+[23:00:39] --------------------------------------
+
+[23:00:39]   Loaded 2 filterscripts.
+
+[23:00:39] ** [MySQL] Connected to the database successfully (1).
+[23:00:39] 
+----------------------------------
+[23:00:39]                 SONI
+[23:00:39] ----------------------------------
+
+[23:00:39] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:04:03] 
+[23:04:03] Server Plugins
+[23:04:03] --------------
+[23:04:03]  Loading plugin: sscanf
+[23:04:03] 
+
+[23:04:03]  ===============================
+
+[23:04:03]       sscanf plugin loaded.     
+
+[23:04:03]          Version:  2.8.3        
+
+[23:04:03]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:04:03]  ===============================
+
+[23:04:03]   Loaded.
+[23:04:03]  Loading plugin: mysql
+[23:04:03]  >> plugin.mysql: R41-4 successfully loaded.
+[23:04:03]   Loaded.
+[23:04:03]  Loaded 2 plugins.
+
+[23:04:03] 
+[23:04:03] Filterscripts
+[23:04:03] ---------------
+[23:04:03]   Loading filterscript 'mapping.amx'...
+[23:04:03] 
+--------------------------------------
+[23:04:03]                 MAPPINGS                
+[23:04:03] --------------------------------------
+
+[23:04:03]   Loading filterscript 'vehicles.amx'...
+[23:04:03] 
+--------------------------------------
+[23:04:03] Vehicle script initiated.
+[23:04:03] --------------------------------------
+
+[23:04:03]   Loaded 2 filterscripts.
+
+[23:04:03] ** [MySQL] Couldn't connect to the database (1045).
+[23:04:03] 
+----------------------------------
+[23:04:03]                 SONI
+[23:04:03] ----------------------------------
+
+[23:04:03] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:04:12] 
+[23:04:12] Server Plugins
+[23:04:12] --------------
+[23:04:12]  Loading plugin: sscanf
+[23:04:12] 
+
+[23:04:12]  ===============================
+
+[23:04:12]       sscanf plugin loaded.     
+
+[23:04:12]          Version:  2.8.3        
+
+[23:04:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:04:12]  ===============================
+
+[23:04:12]   Loaded.
+[23:04:12]  Loading plugin: mysql
+[23:04:12]  >> plugin.mysql: R41-4 successfully loaded.
+[23:04:12]   Loaded.
+[23:04:12]  Loaded 2 plugins.
+
+[23:04:12] 
+[23:04:12] Filterscripts
+[23:04:12] ---------------
+[23:04:12]   Loading filterscript 'mapping.amx'...
+[23:04:12] 
+--------------------------------------
+[23:04:12]                 MAPPINGS                
+[23:04:12] --------------------------------------
+
+[23:04:12]   Loading filterscript 'vehicles.amx'...
+[23:04:12] 
+--------------------------------------
+[23:04:12] Vehicle script initiated.
+[23:04:12] --------------------------------------
+
+[23:04:12]   Loaded 2 filterscripts.
+
+[23:04:12] ** [MySQL] Connected to the database successfully (1).
+[23:04:12] 
+----------------------------------
+[23:04:12]                 SONI
+[23:04:12] ----------------------------------
+
+[23:04:12] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:59:30] 
+[23:59:30] Server Plugins
+[23:59:30] --------------
+[23:59:30]  Loading plugin: sscanf
+[23:59:30] 
+
+[23:59:30]  ===============================
+
+[23:59:30]       sscanf plugin loaded.     
+
+[23:59:30]          Version:  2.8.3        
+
+[23:59:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:59:30]  ===============================
+
+[23:59:30]   Loaded.
+[23:59:30]  Loading plugin: mysql
+[23:59:30]  >> plugin.mysql: R41-4 successfully loaded.
+[23:59:30]   Loaded.
+[23:59:30]  Loaded 2 plugins.
+
+[23:59:30] 
+[23:59:30] Filterscripts
+[23:59:30] ---------------
+[23:59:30]   Loading filterscript 'mapping.amx'...
+[23:59:30] 
+--------------------------------------
+[23:59:30]                 MAPPINGS                
+[23:59:30] --------------------------------------
+
+[23:59:30]   Loading filterscript 'vehicles.amx'...
+[23:59:30] 
+--------------------------------------
+[23:59:30] Vehicle script initiated.
+[23:59:30] --------------------------------------
+
+[23:59:30]   Loaded 2 filterscripts.
+
+[23:59:30] ** [MySQL] Couldn't connect to the database (1049).
+[23:59:30] 
+----------------------------------
+[23:59:30]                 SONI
+[23:59:30] ----------------------------------
+
+[23:59:30] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:01:49] 
+[00:01:49] Server Plugins
+[00:01:49] --------------
+[00:01:49]  Loading plugin: sscanf
+[00:01:49] 
+
+[00:01:49]  ===============================
+
+[00:01:49]       sscanf plugin loaded.     
+
+[00:01:49]          Version:  2.8.3        
+
+[00:01:49]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:01:49]  ===============================
+
+[00:01:49]   Loaded.
+[00:01:49]  Loading plugin: mysql
+[00:01:49]  >> plugin.mysql: R41-4 successfully loaded.
+[00:01:49]   Loaded.
+[00:01:49]  Loaded 2 plugins.
+
+[00:01:49] 
+[00:01:49] Filterscripts
+[00:01:49] ---------------
+[00:01:49]   Loading filterscript 'mapping.amx'...
+[00:01:49] 
+--------------------------------------
+[00:01:49]                 MAPPINGS                
+[00:01:49] --------------------------------------
+
+[00:01:49]   Loading filterscript 'vehicles.amx'...
+[00:01:49] 
+--------------------------------------
+[00:01:49] Vehicle script initiated.
+[00:01:49] --------------------------------------
+
+[00:01:49]   Loaded 2 filterscripts.
+
+[00:01:49] ** [MySQL] Couldn't connect to the database (1049).
+[00:01:49] 
+----------------------------------
+[00:01:49]                 SONI
+[00:01:49] ----------------------------------
+
+[00:01:49] Number of vehicle models: 2
+[00:02:01] [connection] 127.0.0.1:58131 requests connection cookie.
+[00:02:02] [connection] incoming connection: 127.0.0.1:58131 id: 0
+[00:02:02] [join] Lunatikssdsdasa has joined the server (0:127.0.0.1)
+[00:02:02] NereÏistrÁts
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:03:40] 
+[00:03:40] Server Plugins
+[00:03:40] --------------
+[00:03:40]  Loading plugin: sscanf
+[00:03:40] 
+
+[00:03:40]  ===============================
+
+[00:03:40]       sscanf plugin loaded.     
+
+[00:03:40]          Version:  2.8.3        
+
+[00:03:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:03:40]  ===============================
+
+[00:03:40]   Loaded.
+[00:03:40]  Loading plugin: mysql
+[00:03:40]  >> plugin.mysql: R41-4 successfully loaded.
+[00:03:40]   Loaded.
+[00:03:40]  Loaded 2 plugins.
+
+[00:03:40] 
+[00:03:40] Filterscripts
+[00:03:40] ---------------
+[00:03:40]   Loading filterscript 'mapping.amx'...
+[00:03:40] 
+--------------------------------------
+[00:03:40]                 MAPPINGS                
+[00:03:40] --------------------------------------
+
+[00:03:40]   Loading filterscript 'vehicles.amx'...
+[00:03:40] 
+--------------------------------------
+[00:03:40] Vehicle script initiated.
+[00:03:40] --------------------------------------
+
+[00:03:40]   Loaded 2 filterscripts.
+
+[00:03:41] ** [MySQL] Couldn't connect to the database (1049).
+[00:03:41] 
+----------------------------------
+[00:03:41]                 SONI
+[00:03:41] ----------------------------------
+
+[00:03:41] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:04:55] 
+[00:04:55] Server Plugins
+[00:04:55] --------------
+[00:04:55]  Loading plugin: sscanf
+[00:04:55] 
+
+[00:04:55]  ===============================
+
+[00:04:55]       sscanf plugin loaded.     
+
+[00:04:55]          Version:  2.8.3        
+
+[00:04:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:04:55]  ===============================
+
+[00:04:55]   Loaded.
+[00:04:55]  Loading plugin: mysql
+[00:04:55]  >> plugin.mysql: R41-4 successfully loaded.
+[00:04:55]   Loaded.
+[00:04:55]  Loaded 2 plugins.
+
+[00:04:55] 
+[00:04:55] Filterscripts
+[00:04:55] ---------------
+[00:04:55]   Loading filterscript 'mapping.amx'...
+[00:04:55] 
+--------------------------------------
+[00:04:55]                 MAPPINGS                
+[00:04:55] --------------------------------------
+
+[00:04:55]   Loading filterscript 'vehicles.amx'...
+[00:04:55] 
+--------------------------------------
+[00:04:55] Vehicle script initiated.
+[00:04:55] --------------------------------------
+
+[00:04:55]   Loaded 2 filterscripts.
+
+[00:04:55] ** [MySQL] Connected to the database successfully (1).
+[00:04:55] 
+----------------------------------
+[00:04:55]                 SONI
+[00:04:55] ----------------------------------
+
+[00:04:55] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:57:19] 
+[12:57:19] Server Plugins
+[12:57:19] --------------
+[12:57:19]  Loading plugin: sscanf
+[12:57:19] 
+
+[12:57:19]  ===============================
+
+[12:57:19]       sscanf plugin loaded.     
+
+[12:57:19]          Version:  2.8.3        
+
+[12:57:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:57:19]  ===============================
+
+[12:57:19]   Loaded.
+[12:57:19]  Loading plugin: mysql
+[12:57:19]  >> plugin.mysql: R41-4 successfully loaded.
+[12:57:19]   Loaded.
+[12:57:19]  Loaded 2 plugins.
+
+[12:57:19] 
+[12:57:19] Filterscripts
+[12:57:19] ---------------
+[12:57:19]   Loading filterscript 'mapping.amx'...
+[12:57:19] 
+--------------------------------------
+[12:57:19]                 MAPPINGS                
+[12:57:19] --------------------------------------
+
+[12:57:19]   Loading filterscript 'vehicles.amx'...
+[12:57:19] 
+--------------------------------------
+[12:57:19] Vehicle script initiated.
+[12:57:19] --------------------------------------
+
+[12:57:19]   Loaded 2 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:57:39] 
+[12:57:39] Server Plugins
+[12:57:39] --------------
+[12:57:39]  Loading plugin: sscanf
+[12:57:39] 
+
+[12:57:39]  ===============================
+
+[12:57:39]       sscanf plugin loaded.     
+
+[12:57:39]          Version:  2.8.3        
+
+[12:57:39]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:57:39]  ===============================
+
+[12:57:39]   Loaded.
+[12:57:39]  Loading plugin: mysql
+[12:57:39]  >> plugin.mysql: R41-4 successfully loaded.
+[12:57:39]   Loaded.
+[12:57:39]  Loaded 2 plugins.
+
+[12:57:39] 
+[12:57:39] Filterscripts
+[12:57:39] ---------------
+[12:57:39]   Loading filterscript 'mapping.amx'...
+[12:57:39] 
+--------------------------------------
+[12:57:39]                 MAPPINGS                
+[12:57:39] --------------------------------------
+
+[12:57:39]   Loading filterscript 'vehicles.amx'...
+[12:57:39] 
+--------------------------------------
+[12:57:39] Vehicle script initiated.
+[12:57:39] --------------------------------------
+
+[12:57:39]   Loaded 2 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:57:49] 
+[12:57:49] Server Plugins
+[12:57:49] --------------
+[12:57:49]  Loading plugin: sscanf
+[12:57:49] 
+
+[12:57:49]  ===============================
+
+[12:57:49]       sscanf plugin loaded.     
+
+[12:57:49]          Version:  2.8.3        
+
+[12:57:49]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:57:49]  ===============================
+
+[12:57:49]   Loaded.
+[12:57:49]  Loading plugin: mysql
+[12:57:49]  >> plugin.mysql: R41-4 successfully loaded.
+[12:57:49]   Loaded.
+[12:57:49]  Loaded 2 plugins.
+
+[12:57:49] 
+[12:57:49] Filterscripts
+[12:57:49] ---------------
+[12:57:49]   Loading filterscript 'mapping.amx'...
+[12:57:49] 
+--------------------------------------
+[12:57:49]                 MAPPINGS                
+[12:57:49] --------------------------------------
+
+[12:57:49]   Loading filterscript 'vehicles.amx'...
+[12:57:49] 
+--------------------------------------
+[12:57:49] Vehicle script initiated.
+[12:57:49] --------------------------------------
+
+[12:57:49]   Loaded 2 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:58:00] 
+[12:58:00] Server Plugins
+[12:58:00] --------------
+[12:58:00]  Loading plugin: sscanf
+[12:58:00] 
+
+[12:58:00]  ===============================
+
+[12:58:00]       sscanf plugin loaded.     
+
+[12:58:00]          Version:  2.8.3        
+
+[12:58:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:58:00]  ===============================
+
+[12:58:00]   Loaded.
+[12:58:00]  Loading plugin: mysql
+[12:58:00]  >> plugin.mysql: R41-4 successfully loaded.
+[12:58:00]   Loaded.
+[12:58:00]  Loaded 2 plugins.
+
+[12:58:00] 
+[12:58:00] Filterscripts
+[12:58:00] ---------------
+[12:58:00]   Loading filterscript 'mapping.amx'...
+[12:58:00] 
+--------------------------------------
+[12:58:00]                 MAPPINGS                
+[12:58:00] --------------------------------------
+
+[12:58:00]   Loading filterscript 'vehicles.amx'...
+[12:58:00] 
+--------------------------------------
+[12:58:00] Vehicle script initiated.
+[12:58:00] --------------------------------------
+
+[12:58:00]   Loaded 2 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:58:10] 
+[12:58:10] Server Plugins
+[12:58:10] --------------
+[12:58:10]  Loading plugin: sscanf
+[12:58:10] 
+
+[12:58:10]  ===============================
+
+[12:58:10]       sscanf plugin loaded.     
+
+[12:58:10]          Version:  2.8.3        
+
+[12:58:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:58:10]  ===============================
+
+[12:58:10]   Loaded.
+[12:58:10]  Loading plugin: mysql
+[12:58:10]  >> plugin.mysql: R41-4 successfully loaded.
+[12:58:10]   Loaded.
+[12:58:10]  Loaded 2 plugins.
+
+[12:58:10] 
+[12:58:10] Filterscripts
+[12:58:10] ---------------
+[12:58:10]   Loading filterscript 'mapping.amx'...
+[12:58:10] 
+--------------------------------------
+[12:58:10]                 MAPPINGS                
+[12:58:10] --------------------------------------
+
+[12:58:10]   Loading filterscript 'vehicles.amx'...
+[12:58:10] 
+--------------------------------------
+[12:58:10] Vehicle script initiated.
+[12:58:10] --------------------------------------
+
+[12:58:10]   Loaded 2 filterscripts.
+
+[12:58:10] ** [MySQL] Couldn't connect to the database (2005).
+[12:58:10] 
+----------------------------------
+[12:58:10]                 SONI
+[12:58:10] ----------------------------------
+
+[12:58:10] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:58:18] 
+[12:58:18] Server Plugins
+[12:58:18] --------------
+[12:58:18]  Loading plugin: sscanf
+[12:58:18] 
+
+[12:58:18]  ===============================
+
+[12:58:18]       sscanf plugin loaded.     
+
+[12:58:18]          Version:  2.8.3        
+
+[12:58:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:58:18]  ===============================
+
+[12:58:18]   Loaded.
+[12:58:18]  Loading plugin: mysql
+[12:58:18]  >> plugin.mysql: R41-4 successfully loaded.
+[12:58:18]   Loaded.
+[12:58:18]  Loaded 2 plugins.
+
+[12:58:18] 
+[12:58:18] Filterscripts
+[12:58:18] ---------------
+[12:58:18]   Loading filterscript 'mapping.amx'...
+[12:58:18] 
+--------------------------------------
+[12:58:18]                 MAPPINGS                
+[12:58:18] --------------------------------------
+
+[12:58:18]   Loading filterscript 'vehicles.amx'...
+[12:58:18] 
+--------------------------------------
+[12:58:18] Vehicle script initiated.
+[12:58:18] --------------------------------------
+
+[12:58:18]   Loaded 2 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:58:59] 
+[12:58:59] Server Plugins
+[12:58:59] --------------
+[12:58:59]  Loading plugin: sscanf
+[12:58:59] 
+
+[12:58:59]  ===============================
+
+[12:58:59]       sscanf plugin loaded.     
+
+[12:58:59]          Version:  2.8.3        
+
+[12:58:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:58:59]  ===============================
+
+[12:58:59]   Loaded.
+[12:58:59]  Loading plugin: mysql
+[12:58:59]  >> plugin.mysql: R41-4 successfully loaded.
+[12:58:59]   Loaded.
+[12:58:59]  Loaded 2 plugins.
+
+[12:58:59] 
+[12:58:59] Filterscripts
+[12:58:59] ---------------
+[12:58:59]   Loading filterscript 'mapping.amx'...
+[12:58:59] 
+--------------------------------------
+[12:58:59]                 MAPPINGS                
+[12:58:59] --------------------------------------
+
+[12:58:59]   Loading filterscript 'vehicles.amx'...
+[12:58:59] 
+--------------------------------------
+[12:58:59] Vehicle script initiated.
+[12:58:59] --------------------------------------
+
+[12:58:59]   Loaded 2 filterscripts.
+
+[12:59:50] [connection] 127.0.0.1:58396 requests connection cookie.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:00:20] 
+[13:00:20] Server Plugins
+[13:00:20] --------------
+[13:00:20]  Loading plugin: sscanf
+[13:00:20] 
+
+[13:00:20]  ===============================
+
+[13:00:20]       sscanf plugin loaded.     
+
+[13:00:20]          Version:  2.8.3        
+
+[13:00:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:00:20]  ===============================
+
+[13:00:20]   Loaded.
+[13:00:20]  Loading plugin: mysql
+[13:00:20]  >> plugin.mysql: R41-4 successfully loaded.
+[13:00:20]   Loaded.
+[13:00:20]  Loaded 2 plugins.
+
+[13:00:20] 
+[13:00:20] Filterscripts
+[13:00:20] ---------------
+[13:00:20]   Loading filterscript 'mapping.amx'...
+[13:00:20] 
+--------------------------------------
+[13:00:20]                 MAPPINGS                
+[13:00:20] --------------------------------------
+
+[13:00:20]   Loading filterscript 'vehicles.amx'...
+[13:00:20] 
+--------------------------------------
+[13:00:20] Vehicle script initiated.
+[13:00:20] --------------------------------------
+
+[13:00:20]   Loaded 2 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:01:35] 
+[13:01:35] Server Plugins
+[13:01:35] --------------
+[13:01:35]  Loading plugin: sscanf
+[13:01:35] 
+
+[13:01:35]  ===============================
+
+[13:01:35]       sscanf plugin loaded.     
+
+[13:01:35]          Version:  2.8.3        
+
+[13:01:35]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:01:35]  ===============================
+
+[13:01:35]   Loaded.
+[13:01:35]  Loading plugin: mysql
+[13:01:35]  >> plugin.mysql: R41-4 successfully loaded.
+[13:01:35]   Loaded.
+[13:01:35]  Loaded 2 plugins.
+
+[13:01:35] 
+[13:01:35] Filterscripts
+[13:01:35] ---------------
+[13:01:35]   Loading filterscript 'mapping.amx'...
+[13:01:35] 
+--------------------------------------
+[13:01:35]                 MAPPINGS                
+[13:01:35] --------------------------------------
+
+[13:01:35]   Loading filterscript 'vehicles.amx'...
+[13:01:35] 
+--------------------------------------
+[13:01:35] Vehicle script initiated.
+[13:01:35] --------------------------------------
+
+[13:01:35]   Loaded 2 filterscripts.
+
+[13:01:35] ** [MySQL] Connected to the database successfully (1).
+[13:01:35] 
+----------------------------------
+[13:01:35]                 SONI
+[13:01:35] ----------------------------------
+
+[13:01:35] Number of vehicle models: 2
+[13:02:11] [connection] 127.0.0.1:52503 requests connection cookie.
+[13:02:12] [connection] incoming connection: 127.0.0.1:52503 id: 0
+[13:02:12] [join] James_Colosimo has joined the server (0:127.0.0.1)
+[13:02:13] NereÏistrÁts
+[13:02:18] ˇx Ù
+[13:04:28] [part] James_Colosimo has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:04:33] 
+[13:04:33] Server Plugins
+[13:04:33] --------------
+[13:04:33]  Loading plugin: sscanf
+[13:04:33] 
+
+[13:04:33]  ===============================
+
+[13:04:33]       sscanf plugin loaded.     
+
+[13:04:33]          Version:  2.8.3        
+
+[13:04:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:04:33]  ===============================
+
+[13:04:33]   Loaded.
+[13:04:33]  Loading plugin: mysql
+[13:04:33]  >> plugin.mysql: R41-4 successfully loaded.
+[13:04:33]   Loaded.
+[13:04:33]  Loaded 2 plugins.
+
+[13:04:33] 
+[13:04:33] Filterscripts
+[13:04:33] ---------------
+[13:04:33]   Loading filterscript 'mapping.amx'...
+[13:04:33] 
+--------------------------------------
+[13:04:33]                 MAPPINGS                
+[13:04:33] --------------------------------------
+
+[13:04:33]   Loading filterscript 'vehicles.amx'...
+[13:04:33] 
+--------------------------------------
+[13:04:33] Vehicle script initiated.
+[13:04:33] --------------------------------------
+
+[13:04:33]   Loaded 2 filterscripts.
+
+[13:04:34] ** [MySQL] Connected to the database successfully (1).
+[13:04:34] 
+----------------------------------
+[13:04:34]                 SONI
+[13:04:34] ----------------------------------
+
+[13:04:34] Number of vehicle models: 2
+[13:04:56] [connection] 127.0.0.1:59148 requests connection cookie.
+[13:04:57] [connection] incoming connection: 127.0.0.1:59148 id: 0
+[13:04:58] [join] James_Colosimo has joined the server (0:127.0.0.1)
+[13:04:58] ReÏistrÁts!
+[13:05:05]  Ù
+[13:05:08]  Ù
+[13:05:23] Ùˇx Ùerty
+[13:06:46] [part] James_Colosimo has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:30:37] 
+[13:30:37] Server Plugins
+[13:30:37] --------------
+[13:30:37]  Loading plugin: sscanf
+[13:30:37] 
+
+[13:30:37]  ===============================
+
+[13:30:37]       sscanf plugin loaded.     
+
+[13:30:37]          Version:  2.8.3        
+
+[13:30:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:30:37]  ===============================
+
+[13:30:37]   Loaded.
+[13:30:37]  Loading plugin: mysql
+[13:30:37]  >> plugin.mysql: R41-4 successfully loaded.
+[13:30:37]   Loaded.
+[13:30:37]  Loaded 2 plugins.
+
+[13:30:37] 
+[13:30:37] Filterscripts
+[13:30:37] ---------------
+[13:30:37]   Loading filterscript 'mapping.amx'...
+[13:30:37] 
+--------------------------------------
+[13:30:37]                 MAPPINGS                
+[13:30:37] --------------------------------------
+
+[13:30:37]   Loading filterscript 'vehicles.amx'...
+[13:30:37] 
+--------------------------------------
+[13:30:37] Vehicle script initiated.
+[13:30:37] --------------------------------------
+
+[13:30:37]   Loaded 2 filterscripts.
+
+[13:30:37] ** [MySQL] Connected to the database successfully (1).
+[13:30:37] 
+----------------------------------
+[13:30:37]                 SONI
+[13:30:37] ----------------------------------
+
+[13:30:37] Number of vehicle models: 2
+[13:31:12] [connection] 127.0.0.1:54393 requests connection cookie.
+[13:31:13] [connection] incoming connection: 127.0.0.1:54393 id: 0
+[13:31:13] [join] James_Colosimosad has joined the server (0:127.0.0.1)
+[13:31:19] ˇx Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:35:37] 
+[13:35:37] Server Plugins
+[13:35:37] --------------
+[13:35:37]  Loading plugin: sscanf
+[13:35:37] 
+
+[13:35:37]  ===============================
+
+[13:35:37]       sscanf plugin loaded.     
+
+[13:35:37]          Version:  2.8.3        
+
+[13:35:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:35:37]  ===============================
+
+[13:35:37]   Loaded.
+[13:35:37]  Loading plugin: mysql
+[13:35:37]  >> plugin.mysql: R41-4 successfully loaded.
+[13:35:37]   Loaded.
+[13:35:37]  Loaded 2 plugins.
+
+[13:35:37] 
+[13:35:37] Filterscripts
+[13:35:37] ---------------
+[13:35:37]   Loading filterscript 'mapping.amx'...
+[13:35:37] 
+--------------------------------------
+[13:35:37]                 MAPPINGS                
+[13:35:37] --------------------------------------
+
+[13:35:37]   Loading filterscript 'vehicles.amx'...
+[13:35:37] 
+--------------------------------------
+[13:35:37] Vehicle script initiated.
+[13:35:37] --------------------------------------
+
+[13:35:37]   Loaded 2 filterscripts.
+
+[13:35:38] ** [MySQL] Connected to the database successfully (1).
+[13:35:38] 
+----------------------------------
+[13:35:38]                 SONI
+[13:35:38] ----------------------------------
+
+[13:35:38] Number of vehicle models: 2
+[13:35:51] [connection] 127.0.0.1:56592 requests connection cookie.
+[13:35:52] [connection] incoming connection: 127.0.0.1:56592 id: 0
+[13:35:52] [join] James_Colosimosad has joined the server (0:127.0.0.1)
+[13:36:05]  Ù
+[13:36:05] [part] James_Colosimosad has left the server (0:2)
+[13:36:33] [connection] 127.0.0.1:57417 requests connection cookie.
+[13:36:34] [connection] incoming connection: 127.0.0.1:57417 id: 0
+[13:36:34] [join] James_Colosimosadsad has joined the server (0:127.0.0.1)
+[13:36:40]  Ù
+[13:36:40] [part] James_Colosimosadsad has left the server (0:2)
+[13:37:03] [connection] 127.0.0.1:59947 requests connection cookie.
+[13:37:04] [connection] incoming connection: 127.0.0.1:59947 id: 0
+[13:37:05] [join] James_Colosimosadsad has joined the server (0:127.0.0.1)
+[13:37:12] ˇx Ù
+[13:37:25] Ùˇx Ùsts
+[13:39:48] [part] James_Colosimosadsad has left the server (0:1)
+[13:40:16] [connection] 127.0.0.1:65515 requests connection cookie.
+[13:40:17] [connection] incoming connection: 127.0.0.1:65515 id: 0
+[13:40:28] [connection] incoming connection: 127.0.0.1:65518 id: 0
+[13:40:43] [connection] 127.0.0.1:62508 requests connection cookie.
+[13:40:44] [connection] incoming connection: 127.0.0.1:62508 id: 0
+[13:41:18] [connection] 127.0.0.1:62512 requests connection cookie.
+[13:41:19] [connection] incoming connection: 127.0.0.1:62512 id: 0
+[13:41:20] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+[13:41:35] ˇx Ùs
+[13:41:47] Ùˇx Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:03:03] 
+[14:03:03] Server Plugins
+[14:03:03] --------------
+[14:03:03]  Loading plugin: sscanf
+[14:03:03] 
+
+[14:03:03]  ===============================
+
+[14:03:03]       sscanf plugin loaded.     
+
+[14:03:03]          Version:  2.8.3        
+
+[14:03:03]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:03:03]  ===============================
+
+[14:03:03]   Loaded.
+[14:03:03]  Loading plugin: mysql
+[14:03:03]  >> plugin.mysql: R41-4 successfully loaded.
+[14:03:03]   Loaded.
+[14:03:03]  Loaded 2 plugins.
+
+[14:03:03] 
+[14:03:03] Filterscripts
+[14:03:03] ---------------
+[14:03:03]   Loading filterscript 'mapping.amx'...
+[14:03:03] 
+--------------------------------------
+[14:03:03]                 MAPPINGS                
+[14:03:03] --------------------------------------
+
+[14:03:03]   Loading filterscript 'vehicles.amx'...
+[14:03:03] 
+--------------------------------------
+[14:03:03] Vehicle script initiated.
+[14:03:03] --------------------------------------
+
+[14:03:03]   Loaded 2 filterscripts.
+
+[14:03:05] ** [MySQL] Connected to the database successfully (1).
+[14:03:05] 
+----------------------------------
+[14:03:05]                 SONI
+[14:03:05] ----------------------------------
+
+[14:03:05] Number of vehicle models: 2
+[14:03:28] [connection] 127.0.0.1:52632 requests connection cookie.
+[14:03:29] [connection] incoming connection: 127.0.0.1:52632 id: 0
+[14:03:29] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+[14:03:33]  Ù
+[14:03:36]  Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:06:14] 
+[14:06:14] Server Plugins
+[14:06:14] --------------
+[14:06:14]  Loading plugin: sscanf
+[14:06:14] 
+
+[14:06:14]  ===============================
+
+[14:06:14]       sscanf plugin loaded.     
+
+[14:06:14]          Version:  2.8.3        
+
+[14:06:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:06:14]  ===============================
+
+[14:06:14]   Loaded.
+[14:06:14]  Loading plugin: mysql
+[14:06:14]  >> plugin.mysql: R41-4 successfully loaded.
+[14:06:14]   Loaded.
+[14:06:14]  Loaded 2 plugins.
+
+[14:06:14] 
+[14:06:14] Filterscripts
+[14:06:14] ---------------
+[14:06:14]   Loading filterscript 'mapping.amx'...
+[14:06:14] 
+--------------------------------------
+[14:06:14]                 MAPPINGS                
+[14:06:14] --------------------------------------
+
+[14:06:14]   Loading filterscript 'vehicles.amx'...
+[14:06:14] 
+--------------------------------------
+[14:06:14] Vehicle script initiated.
+[14:06:14] --------------------------------------
+
+[14:06:14]   Loaded 2 filterscripts.
+
+[14:06:20] ** [MySQL] Connected to the database successfully (1).
+[14:06:20] 
+----------------------------------
+[14:06:20]                 SONI
+[14:06:20] ----------------------------------
+
+[14:06:20] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:06:24] 
+[14:06:24] Server Plugins
+[14:06:24] --------------
+[14:06:24]  Loading plugin: sscanf
+[14:06:24] 
+
+[14:06:24]  ===============================
+
+[14:06:24]       sscanf plugin loaded.     
+
+[14:06:24]          Version:  2.8.3        
+
+[14:06:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:06:24]  ===============================
+
+[14:06:24]   Loaded.
+[14:06:24]  Loading plugin: mysql
+[14:06:24]  >> plugin.mysql: R41-4 successfully loaded.
+[14:06:24]   Loaded.
+[14:06:24]  Loaded 2 plugins.
+
+[14:06:24] 
+[14:06:24] Filterscripts
+[14:06:24] ---------------
+[14:06:24]   Loading filterscript 'mapping.amx'...
+[14:06:24] 
+--------------------------------------
+[14:06:24]                 MAPPINGS                
+[14:06:24] --------------------------------------
+
+[14:06:24]   Loading filterscript 'vehicles.amx'...
+[14:06:24] 
+--------------------------------------
+[14:06:24] Vehicle script initiated.
+[14:06:24] --------------------------------------
+
+[14:06:24]   Loaded 2 filterscripts.
+
+[14:06:26] ** [MySQL] Connected to the database successfully (1).
+[14:06:26] 
+----------------------------------
+[14:06:26]                 SONI
+[14:06:26] ----------------------------------
+
+[14:06:26] Number of vehicle models: 2
+[14:06:29] [connection] 127.0.0.1:55095 requests connection cookie.
+[14:06:30] [connection] incoming connection: 127.0.0.1:55095 id: 0
+[14:06:30] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+[14:06:32]  Ù
+[14:06:35]  ÙÙ
+[14:06:38]  Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:09:51] 
+[14:09:51] Server Plugins
+[14:09:51] --------------
+[14:09:51]  Loading plugin: sscanf
+[14:09:51] 
+
+[14:09:51]  ===============================
+
+[14:09:51]       sscanf plugin loaded.     
+
+[14:09:51]          Version:  2.8.3        
+
+[14:09:51]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:09:51]  ===============================
+
+[14:09:51]   Loaded.
+[14:09:51]  Loading plugin: mysql
+[14:09:51]  >> plugin.mysql: R41-4 successfully loaded.
+[14:09:51]   Loaded.
+[14:09:51]  Loaded 2 plugins.
+
+[14:09:51] 
+[14:09:51] Filterscripts
+[14:09:51] ---------------
+[14:09:51]   Loading filterscript 'mapping.amx'...
+[14:09:51] 
+--------------------------------------
+[14:09:51]                 MAPPINGS                
+[14:09:51] --------------------------------------
+
+[14:09:51]   Loading filterscript 'vehicles.amx'...
+[14:09:51] 
+--------------------------------------
+[14:09:51] Vehicle script initiated.
+[14:09:51] --------------------------------------
+
+[14:09:51]   Loaded 2 filterscripts.
+
+[14:09:53] ** [MySQL] Connected to the database successfully (1).
+[14:09:53] 
+----------------------------------
+[14:09:53]                 SONI
+[14:09:53] ----------------------------------
+
+[14:09:53] Number of vehicle models: 2
+[14:09:54] [connection] 127.0.0.1:55892 requests connection cookie.
+[14:09:55] [connection] incoming connection: 127.0.0.1:55892 id: 0
+[14:09:56] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+[14:10:00]  Ù
+[14:10:03]  Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:11:57] 
+[14:11:57] Server Plugins
+[14:11:57] --------------
+[14:11:57]  Loading plugin: sscanf
+[14:11:57] 
+
+[14:11:57]  ===============================
+
+[14:11:57]       sscanf plugin loaded.     
+
+[14:11:57]          Version:  2.8.3        
+
+[14:11:57]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:11:57]  ===============================
+
+[14:11:57]   Loaded.
+[14:11:57]  Loading plugin: mysql
+[14:11:57]  >> plugin.mysql: R41-4 successfully loaded.
+[14:11:57]   Loaded.
+[14:11:57]  Loaded 2 plugins.
+
+[14:11:57] 
+[14:11:57] Filterscripts
+[14:11:57] ---------------
+[14:11:57]   Loading filterscript 'mapping.amx'...
+[14:11:57] 
+--------------------------------------
+[14:11:57]                 MAPPINGS                
+[14:11:57] --------------------------------------
+
+[14:11:57]   Loading filterscript 'vehicles.amx'...
+[14:11:57] 
+--------------------------------------
+[14:11:57] Vehicle script initiated.
+[14:11:57] --------------------------------------
+
+[14:11:57]   Loaded 2 filterscripts.
+
+[14:11:59] ** [MySQL] Connected to the database successfully (1).
+[14:11:59] 
+----------------------------------
+[14:11:59]                 SONI
+[14:11:59] ----------------------------------
+
+[14:11:59] Number of vehicle models: 2
+[14:12:01] [connection] 127.0.0.1:55189 requests connection cookie.
+[14:12:02] [connection] incoming connection: 127.0.0.1:55189 id: 0
+[14:12:02] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+[14:12:05]  Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:12:38] 
+[14:12:38] Server Plugins
+[14:12:38] --------------
+[14:12:38]  Loading plugin: sscanf
+[14:12:38] 
+
+[14:12:38]  ===============================
+
+[14:12:38]       sscanf plugin loaded.     
+
+[14:12:38]          Version:  2.8.3        
+
+[14:12:38]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:12:38]  ===============================
+
+[14:12:38]   Loaded.
+[14:12:38]  Loading plugin: mysql
+[14:12:38]  >> plugin.mysql: R41-4 successfully loaded.
+[14:12:38]   Loaded.
+[14:12:38]  Loaded 2 plugins.
+
+[14:12:38] 
+[14:12:38] Filterscripts
+[14:12:38] ---------------
+[14:12:38]   Loading filterscript 'mapping.amx'...
+[14:12:38] 
+--------------------------------------
+[14:12:38]                 MAPPINGS                
+[14:12:38] --------------------------------------
+
+[14:12:38]   Loading filterscript 'vehicles.amx'...
+[14:12:38] 
+--------------------------------------
+[14:12:38] Vehicle script initiated.
+[14:12:38] --------------------------------------
+
+[14:12:38]   Loaded 2 filterscripts.
+
+[14:12:40] ** [MySQL] Connected to the database successfully (1).
+[14:12:40] 
+----------------------------------
+[14:12:40]                 SONI
+[14:12:40] ----------------------------------
+
+[14:12:40] Number of vehicle models: 2
+[14:12:50] [connection] 127.0.0.1:58747 requests connection cookie.
+[14:12:51] [connection] incoming connection: 127.0.0.1:58747 id: 0
+[14:12:52] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+[14:12:56]  Ù
+[14:12:57]  Ù
+[14:12:58]  Ù
+[14:13:04]  Ù
+[14:13:06]  Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:13:39] 
+[14:13:39] Server Plugins
+[14:13:39] --------------
+[14:13:39]  Loading plugin: sscanf
+[14:13:39] 
+
+[14:13:39]  ===============================
+
+[14:13:39]       sscanf plugin loaded.     
+
+[14:13:39]          Version:  2.8.3        
+
+[14:13:39]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:13:39]  ===============================
+
+[14:13:39]   Loaded.
+[14:13:39]  Loading plugin: mysql
+[14:13:39]  >> plugin.mysql: R41-4 successfully loaded.
+[14:13:39]   Loaded.
+[14:13:39]  Loaded 2 plugins.
+
+[14:13:39] 
+[14:13:39] Filterscripts
+[14:13:39] ---------------
+[14:13:39]   Loading filterscript 'mapping.amx'...
+[14:13:39] 
+--------------------------------------
+[14:13:39]                 MAPPINGS                
+[14:13:39] --------------------------------------
+
+[14:13:39]   Loading filterscript 'vehicles.amx'...
+[14:13:39] 
+--------------------------------------
+[14:13:39] Vehicle script initiated.
+[14:13:39] --------------------------------------
+
+[14:13:39]   Loaded 2 filterscripts.
+
+[14:13:41] ** [MySQL] Connected to the database successfully (1).
+[14:13:41] 
+----------------------------------
+[14:13:41]                 SONI
+[14:13:41] ----------------------------------
+
+[14:13:41] Number of vehicle models: 2
+[14:13:44] [connection] 127.0.0.1:51008 requests connection cookie.
+[14:13:45] [connection] incoming connection: 127.0.0.1:51008 id: 0
+[14:13:45] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+[14:13:50]  Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:20:10] 
+[14:20:10] Server Plugins
+[14:20:10] --------------
+[14:20:10]  Loading plugin: sscanf
+[14:20:10] 
+
+[14:20:10]  ===============================
+
+[14:20:10]       sscanf plugin loaded.     
+
+[14:20:10]          Version:  2.8.3        
+
+[14:20:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:20:10]  ===============================
+
+[14:20:10]   Loaded.
+[14:20:10]  Loading plugin: mysql
+[14:20:10]  >> plugin.mysql: R41-4 successfully loaded.
+[14:20:10]   Loaded.
+[14:20:10]  Loaded 2 plugins.
+
+[14:20:10] 
+[14:20:10] Filterscripts
+[14:20:10] ---------------
+[14:20:10]   Loading filterscript 'mapping.amx'...
+[14:20:10] 
+--------------------------------------
+[14:20:10]                 MAPPINGS                
+[14:20:10] --------------------------------------
+
+[14:20:10]   Loading filterscript 'vehicles.amx'...
+[14:20:10] 
+--------------------------------------
+[14:20:10] Vehicle script initiated.
+[14:20:10] --------------------------------------
+
+[14:20:10]   Loaded 2 filterscripts.
+
+[14:20:10] ** [MySQL] Connected to the database successfully (1).
+[14:20:10] 
+----------------------------------
+[14:20:10]                 SONI
+[14:20:10] ----------------------------------
+
+[14:20:10] Number of vehicle models: 2
+[14:20:21] [connection] 127.0.0.1:52943 requests connection cookie.
+[14:20:22] [connection] incoming connection: 127.0.0.1:52943 id: 0
+[14:20:22] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+[14:20:25]  Ù
+[14:20:25]  Ù
+[14:20:26]  Ù
+[14:20:26]  Ù
+[14:20:29]  Ù
+[14:20:33]  Ù
+[14:20:45] [part] Jazeps_Liepins has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:20:51] 
+[14:20:51] Server Plugins
+[14:20:51] --------------
+[14:20:51]  Loading plugin: sscanf
+[14:20:51] 
+
+[14:20:51]  ===============================
+
+[14:20:51]       sscanf plugin loaded.     
+
+[14:20:51]          Version:  2.8.3        
+
+[14:20:51]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:20:51]  ===============================
+
+[14:20:51]   Loaded.
+[14:20:51]  Loading plugin: mysql
+[14:20:51]  >> plugin.mysql: R41-4 successfully loaded.
+[14:20:51]   Loaded.
+[14:20:51]  Loaded 2 plugins.
+
+[14:20:51] 
+[14:20:51] Filterscripts
+[14:20:51] ---------------
+[14:20:51]   Loading filterscript 'mapping.amx'...
+[14:20:51] 
+--------------------------------------
+[14:20:51]                 MAPPINGS                
+[14:20:51] --------------------------------------
+
+[14:20:51]   Loading filterscript 'vehicles.amx'...
+[14:20:51] 
+--------------------------------------
+[14:20:51] Vehicle script initiated.
+[14:20:51] --------------------------------------
+
+[14:20:51]   Loaded 2 filterscripts.
+
+[14:20:52] ** [MySQL] Connected to the database successfully (1).
+[14:20:52] 
+----------------------------------
+[14:20:52]                 SONI
+[14:20:52] ----------------------------------
+
+[14:20:52] Number of vehicle models: 2
+[14:21:15] [connection] 127.0.0.1:52800 requests connection cookie.
+[14:21:16] [connection] incoming connection: 127.0.0.1:52800 id: 0
+[14:21:16] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+[14:21:20]  Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:22:11] 
+[14:22:11] Server Plugins
+[14:22:11] --------------
+[14:22:11]  Loading plugin: sscanf
+[14:22:11] 
+
+[14:22:11]  ===============================
+
+[14:22:11]       sscanf plugin loaded.     
+
+[14:22:11]          Version:  2.8.3        
+
+[14:22:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:22:11]  ===============================
+
+[14:22:11]   Loaded.
+[14:22:11]  Loading plugin: mysql
+[14:22:11]  >> plugin.mysql: R41-4 successfully loaded.
+[14:22:11]   Loaded.
+[14:22:11]  Loaded 2 plugins.
+
+[14:22:11] 
+[14:22:11] Filterscripts
+[14:22:11] ---------------
+[14:22:11]   Loading filterscript 'mapping.amx'...
+[14:22:11] 
+--------------------------------------
+[14:22:11]                 MAPPINGS                
+[14:22:11] --------------------------------------
+
+[14:22:11]   Loading filterscript 'vehicles.amx'...
+[14:22:11] 
+--------------------------------------
+[14:22:11] Vehicle script initiated.
+[14:22:11] --------------------------------------
+
+[14:22:11]   Loaded 2 filterscripts.
+
+[14:22:12] ** [MySQL] Connected to the database successfully (1).
+[14:22:12] 
+----------------------------------
+[14:22:12]                 SONI
+[14:22:12] ----------------------------------
+
+[14:22:12] Number of vehicle models: 2
+[14:22:27] [connection] 127.0.0.1:61999 requests connection cookie.
+[14:22:28] [connection] incoming connection: 127.0.0.1:61999 id: 0
+[14:22:29] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+[14:22:32]  Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:33:00] 
+[14:33:00] Server Plugins
+[14:33:00] --------------
+[14:33:00]  Loading plugin: sscanf
+[14:33:00] 
+
+[14:33:00]  ===============================
+
+[14:33:00]       sscanf plugin loaded.     
+
+[14:33:00]          Version:  2.8.3        
+
+[14:33:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:33:00]  ===============================
+
+[14:33:00]   Loaded.
+[14:33:00]  Loading plugin: mysql
+[14:33:00]  >> plugin.mysql: R41-4 successfully loaded.
+[14:33:00]   Loaded.
+[14:33:00]  Loaded 2 plugins.
+
+[14:33:00] 
+[14:33:00] Filterscripts
+[14:33:00] ---------------
+[14:33:00]   Loading filterscript 'mapping.amx'...
+[14:33:00] 
+--------------------------------------
+[14:33:00]                 MAPPINGS                
+[14:33:00] --------------------------------------
+
+[14:33:00]   Loading filterscript 'vehicles.amx'...
+[14:33:00] 
+--------------------------------------
+[14:33:00] Vehicle script initiated.
+[14:33:00] --------------------------------------
+
+[14:33:00]   Loaded 2 filterscripts.
+
+[14:33:01] ** [MySQL] Connected to the database successfully (1).
+[14:33:01] 
+----------------------------------
+[14:33:01]                 SONI
+[14:33:01] ----------------------------------
+
+[14:33:01] Number of vehicle models: 2
+[14:33:13] [connection] 127.0.0.1:62732 requests connection cookie.
+[14:33:14] [connection] incoming connection: 127.0.0.1:62732 id: 0
+[14:33:14] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+[14:33:20]  Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:37:50] 
+[14:37:50] Server Plugins
+[14:37:50] --------------
+[14:37:50]  Loading plugin: sscanf
+[14:37:50] 
+
+[14:37:50]  ===============================
+
+[14:37:50]       sscanf plugin loaded.     
+
+[14:37:50]          Version:  2.8.3        
+
+[14:37:50]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:37:50]  ===============================
+
+[14:37:50]   Loaded.
+[14:37:50]  Loading plugin: mysql
+[14:37:50]  >> plugin.mysql: R41-4 successfully loaded.
+[14:37:50]   Loaded.
+[14:37:50]  Loaded 2 plugins.
+
+[14:37:50] 
+[14:37:50] Filterscripts
+[14:37:50] ---------------
+[14:37:50]   Loading filterscript 'mapping.amx'...
+[14:37:50] 
+--------------------------------------
+[14:37:50]                 MAPPINGS                
+[14:37:50] --------------------------------------
+
+[14:37:50]   Loading filterscript 'vehicles.amx'...
+[14:37:50] 
+--------------------------------------
+[14:37:50] Vehicle script initiated.
+[14:37:50] --------------------------------------
+
+[14:37:50]   Loaded 2 filterscripts.
+
+[14:37:51] ** [MySQL] Connected to the database successfully (1).
+[14:37:51] 
+----------------------------------
+[14:37:51]                 SONI
+[14:37:51] ----------------------------------
+
+[14:37:51] Number of vehicle models: 2
+[14:38:02] [connection] 127.0.0.1:62073 requests connection cookie.
+[14:38:04] [connection] incoming connection: 127.0.0.1:62073 id: 0
+[14:38:04] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+[14:38:06]  Ù
+[14:38:12]  Ù
+[14:38:13]  Ù
+[14:38:13]  Ù
+[14:38:13] [part] Jazeps_Liepins has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:38:59] 
+[14:38:59] Server Plugins
+[14:38:59] --------------
+[14:38:59]  Loading plugin: sscanf
+[14:38:59] 
+
+[14:38:59]  ===============================
+
+[14:38:59]       sscanf plugin loaded.     
+
+[14:38:59]          Version:  2.8.3        
+
+[14:38:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:38:59]  ===============================
+
+[14:38:59]   Loaded.
+[14:38:59]  Loading plugin: mysql
+[14:38:59]  >> plugin.mysql: R41-4 successfully loaded.
+[14:38:59]   Loaded.
+[14:38:59]  Loaded 2 plugins.
+
+[14:38:59] 
+[14:38:59] Filterscripts
+[14:38:59] ---------------
+[14:38:59]   Loading filterscript 'mapping.amx'...
+[14:38:59] 
+--------------------------------------
+[14:38:59]                 MAPPINGS                
+[14:38:59] --------------------------------------
+
+[14:38:59]   Loading filterscript 'vehicles.amx'...
+[14:38:59] 
+--------------------------------------
+[14:38:59] Vehicle script initiated.
+[14:38:59] --------------------------------------
+
+[14:38:59]   Loaded 2 filterscripts.
+
+[14:38:59] ** [MySQL] Connected to the database successfully (1).
+[14:38:59] 
+----------------------------------
+[14:38:59]                 SONI
+[14:38:59] ----------------------------------
+
+[14:38:59] Number of vehicle models: 2
+[14:39:43] [connection] 127.0.0.1:60240 requests connection cookie.
+[14:39:44] [connection] incoming connection: 127.0.0.1:60240 id: 0
+[14:39:44] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+[14:39:48]  Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:40:25] 
+[14:40:25] Server Plugins
+[14:40:25] --------------
+[14:40:25]  Loading plugin: sscanf
+[14:40:25] 
+
+[14:40:25]  ===============================
+
+[14:40:25]       sscanf plugin loaded.     
+
+[14:40:25]          Version:  2.8.3        
+
+[14:40:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:40:25]  ===============================
+
+[14:40:25]   Loaded.
+[14:40:25]  Loading plugin: mysql
+[14:40:25]  >> plugin.mysql: R41-4 successfully loaded.
+[14:40:25]   Loaded.
+[14:40:25]  Loaded 2 plugins.
+
+[14:40:25] 
+[14:40:25] Filterscripts
+[14:40:25] ---------------
+[14:40:25]   Loading filterscript 'mapping.amx'...
+[14:40:25] 
+--------------------------------------
+[14:40:25]                 MAPPINGS                
+[14:40:25] --------------------------------------
+
+[14:40:25]   Loading filterscript 'vehicles.amx'...
+[14:40:25] 
+--------------------------------------
+[14:40:25] Vehicle script initiated.
+[14:40:25] --------------------------------------
+
+[14:40:25]   Loaded 2 filterscripts.
+
+[14:40:25] ** [MySQL] Connected to the database successfully (1).
+[14:40:25] 
+----------------------------------
+[14:40:25]                 SONI
+[14:40:25] ----------------------------------
+
+[14:40:25] Number of vehicle models: 2
+[14:40:33] [connection] 127.0.0.1:63281 requests connection cookie.
+[14:40:34] [connection] incoming connection: 127.0.0.1:63281 id: 0
+[14:40:34] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+[14:40:35]  Ù
+[14:40:36]  Ù
+[14:40:37]  Ù
+[14:40:37]  Ù
+[14:40:38]  Ù
+[14:40:39]  Ù
+[14:40:40]  Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:41:05] 
+[14:41:05] Server Plugins
+[14:41:05] --------------
+[14:41:05]  Loading plugin: sscanf
+[14:41:05] 
+
+[14:41:05]  ===============================
+
+[14:41:05]       sscanf plugin loaded.     
+
+[14:41:05]          Version:  2.8.3        
+
+[14:41:05]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:41:05]  ===============================
+
+[14:41:05]   Loaded.
+[14:41:05]  Loading plugin: mysql
+[14:41:05]  >> plugin.mysql: R41-4 successfully loaded.
+[14:41:05]   Loaded.
+[14:41:05]  Loaded 2 plugins.
+
+[14:41:05] 
+[14:41:05] Filterscripts
+[14:41:05] ---------------
+[14:41:05]   Loading filterscript 'mapping.amx'...
+[14:41:05] 
+--------------------------------------
+[14:41:05]                 MAPPINGS                
+[14:41:05] --------------------------------------
+
+[14:41:05]   Loading filterscript 'vehicles.amx'...
+[14:41:05] 
+--------------------------------------
+[14:41:05] Vehicle script initiated.
+[14:41:05] --------------------------------------
+
+[14:41:05]   Loaded 2 filterscripts.
+
+[14:41:06] ** [MySQL] Connected to the database successfully (1).
+[14:41:06] 
+----------------------------------
+[14:41:06]                 SONI
+[14:41:06] ----------------------------------
+
+[14:41:06] Number of vehicle models: 2
+[14:41:14] [connection] 127.0.0.1:61018 requests connection cookie.
+[14:41:15] [connection] incoming connection: 127.0.0.1:61018 id: 0
+[14:41:16] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:41:36] 
+[14:41:36] Server Plugins
+[14:41:36] --------------
+[14:41:36]  Loading plugin: sscanf
+[14:41:36] 
+
+[14:41:36]  ===============================
+
+[14:41:36]       sscanf plugin loaded.     
+
+[14:41:36]          Version:  2.8.3        
+
+[14:41:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:41:36]  ===============================
+
+[14:41:36]   Loaded.
+[14:41:36]  Loading plugin: mysql
+[14:41:36]  >> plugin.mysql: R41-4 successfully loaded.
+[14:41:36]   Loaded.
+[14:41:36]  Loaded 2 plugins.
+
+[14:41:36] 
+[14:41:36] Filterscripts
+[14:41:36] ---------------
+[14:41:36]   Loading filterscript 'mapping.amx'...
+[14:41:36] 
+--------------------------------------
+[14:41:36]                 MAPPINGS                
+[14:41:36] --------------------------------------
+
+[14:41:36]   Loading filterscript 'vehicles.amx'...
+[14:41:36] 
+--------------------------------------
+[14:41:36] Vehicle script initiated.
+[14:41:36] --------------------------------------
+
+[14:41:36]   Loaded 2 filterscripts.
+
+[14:41:37] ** [MySQL] Connected to the database successfully (1).
+[14:41:37] 
+----------------------------------
+[14:41:37]                 SONI
+[14:41:37] ----------------------------------
+
+[14:41:37] Number of vehicle models: 2
+[14:41:47] [connection] 127.0.0.1:51967 requests connection cookie.
+[14:41:48] [connection] incoming connection: 127.0.0.1:51967 id: 0
+[14:41:49] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:42:09] 
+[14:42:09] Server Plugins
+[14:42:09] --------------
+[14:42:09]  Loading plugin: sscanf
+[14:42:09] 
+
+[14:42:09]  ===============================
+
+[14:42:09]       sscanf plugin loaded.     
+
+[14:42:09]          Version:  2.8.3        
+
+[14:42:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:42:09]  ===============================
+
+[14:42:09]   Loaded.
+[14:42:09]  Loading plugin: mysql
+[14:42:09]  >> plugin.mysql: R41-4 successfully loaded.
+[14:42:09]   Loaded.
+[14:42:09]  Loaded 2 plugins.
+
+[14:42:09] 
+[14:42:09] Filterscripts
+[14:42:09] ---------------
+[14:42:09]   Loading filterscript 'mapping.amx'...
+[14:42:09] 
+--------------------------------------
+[14:42:09]                 MAPPINGS                
+[14:42:09] --------------------------------------
+
+[14:42:09]   Loading filterscript 'vehicles.amx'...
+[14:42:09] 
+--------------------------------------
+[14:42:09] Vehicle script initiated.
+[14:42:09] --------------------------------------
+
+[14:42:09]   Loaded 2 filterscripts.
+
+[14:42:09] ** [MySQL] Connected to the database successfully (1).
+[14:42:10] 
+----------------------------------
+[14:42:10]                 SONI
+[14:42:10] ----------------------------------
+
+[14:42:10] Number of vehicle models: 2
+[14:42:19] [connection] 127.0.0.1:53808 requests connection cookie.
+[14:42:20] [connection] incoming connection: 127.0.0.1:53808 id: 0
+[14:42:21] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:42:39] 
+[14:42:39] Server Plugins
+[14:42:39] --------------
+[14:42:39]  Loading plugin: sscanf
+[14:42:39] 
+
+[14:42:39]  ===============================
+
+[14:42:39]       sscanf plugin loaded.     
+
+[14:42:39]          Version:  2.8.3        
+
+[14:42:39]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:42:39]  ===============================
+
+[14:42:39]   Loaded.
+[14:42:39]  Loading plugin: mysql
+[14:42:39]  >> plugin.mysql: R41-4 successfully loaded.
+[14:42:39]   Loaded.
+[14:42:39]  Loaded 2 plugins.
+
+[14:42:40] 
+[14:42:40] Filterscripts
+[14:42:40] ---------------
+[14:42:40]   Loading filterscript 'mapping.amx'...
+[14:42:40] 
+--------------------------------------
+[14:42:40]                 MAPPINGS                
+[14:42:40] --------------------------------------
+
+[14:42:40]   Loading filterscript 'vehicles.amx'...
+[14:42:40] 
+--------------------------------------
+[14:42:40] Vehicle script initiated.
+[14:42:40] --------------------------------------
+
+[14:42:40]   Loaded 2 filterscripts.
+
+[14:42:40] ** [MySQL] Connected to the database successfully (1).
+[14:42:40] 
+----------------------------------
+[14:42:40]                 SONI
+[14:42:40] ----------------------------------
+
+[14:42:40] Number of vehicle models: 2
+[14:42:55] [connection] 127.0.0.1:53810 requests connection cookie.
+[14:42:56] [connection] incoming connection: 127.0.0.1:53810 id: 0
+[14:42:56] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:43:19] 
+[14:43:19] Server Plugins
+[14:43:19] --------------
+[14:43:19]  Loading plugin: sscanf
+[14:43:19] 
+
+[14:43:19]  ===============================
+
+[14:43:19]       sscanf plugin loaded.     
+
+[14:43:19]          Version:  2.8.3        
+
+[14:43:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:43:19]  ===============================
+
+[14:43:19]   Loaded.
+[14:43:19]  Loading plugin: mysql
+[14:43:19]  >> plugin.mysql: R41-4 successfully loaded.
+[14:43:19]   Loaded.
+[14:43:19]  Loaded 2 plugins.
+
+[14:43:19] 
+[14:43:19] Filterscripts
+[14:43:19] ---------------
+[14:43:19]   Loading filterscript 'mapping.amx'...
+[14:43:19] 
+--------------------------------------
+[14:43:19]                 MAPPINGS                
+[14:43:19] --------------------------------------
+
+[14:43:19]   Loading filterscript 'vehicles.amx'...
+[14:43:19] 
+--------------------------------------
+[14:43:19] Vehicle script initiated.
+[14:43:19] --------------------------------------
+
+[14:43:19]   Loaded 2 filterscripts.
+
+[14:43:20] ** [MySQL] Connected to the database successfully (1).
+[14:43:20] 
+----------------------------------
+[14:43:20]                 SONI
+[14:43:20] ----------------------------------
+
+[14:43:20] Number of vehicle models: 2
+[14:43:28] [connection] 127.0.0.1:58168 requests connection cookie.
+[14:43:29] [connection] incoming connection: 127.0.0.1:58168 id: 0
+[14:43:29] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:44:09] 
+[14:44:09] Server Plugins
+[14:44:09] --------------
+[14:44:09]  Loading plugin: sscanf
+[14:44:09] 
+
+[14:44:09]  ===============================
+
+[14:44:09]       sscanf plugin loaded.     
+
+[14:44:09]          Version:  2.8.3        
+
+[14:44:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:44:09]  ===============================
+
+[14:44:09]   Loaded.
+[14:44:09]  Loading plugin: mysql
+[14:44:09]  >> plugin.mysql: R41-4 successfully loaded.
+[14:44:09]   Loaded.
+[14:44:09]  Loaded 2 plugins.
+
+[14:44:09] 
+[14:44:09] Filterscripts
+[14:44:09] ---------------
+[14:44:09]   Loading filterscript 'mapping.amx'...
+[14:44:09] 
+--------------------------------------
+[14:44:09]                 MAPPINGS                
+[14:44:09] --------------------------------------
+
+[14:44:09]   Loading filterscript 'vehicles.amx'...
+[14:44:09] 
+--------------------------------------
+[14:44:09] Vehicle script initiated.
+[14:44:09] --------------------------------------
+
+[14:44:09]   Loaded 2 filterscripts.
+
+[14:44:10] ** [MySQL] Connected to the database successfully (1).
+[14:44:10] 
+----------------------------------
+[14:44:10]                 SONI
+[14:44:10] ----------------------------------
+
+[14:44:10] Number of vehicle models: 2
+[14:44:21] [connection] 127.0.0.1:50776 requests connection cookie.
+[14:44:22] [connection] incoming connection: 127.0.0.1:50776 id: 0
+[14:44:23] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:44:44] 
+[14:44:44] Server Plugins
+[14:44:44] --------------
+[14:44:44]  Loading plugin: sscanf
+[14:44:44] 
+
+[14:44:44]  ===============================
+
+[14:44:44]       sscanf plugin loaded.     
+
+[14:44:44]          Version:  2.8.3        
+
+[14:44:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:44:44]  ===============================
+
+[14:44:44]   Loaded.
+[14:44:44]  Loading plugin: mysql
+[14:44:44]  >> plugin.mysql: R41-4 successfully loaded.
+[14:44:44]   Loaded.
+[14:44:44]  Loaded 2 plugins.
+
+[14:44:44] 
+[14:44:44] Filterscripts
+[14:44:44] ---------------
+[14:44:44]   Loading filterscript 'mapping.amx'...
+[14:44:44] 
+--------------------------------------
+[14:44:44]                 MAPPINGS                
+[14:44:44] --------------------------------------
+
+[14:44:44]   Loading filterscript 'vehicles.amx'...
+[14:44:44] 
+--------------------------------------
+[14:44:44] Vehicle script initiated.
+[14:44:44] --------------------------------------
+
+[14:44:44]   Loaded 2 filterscripts.
+
+[14:44:45] ** [MySQL] Connected to the database successfully (1).
+[14:44:45] 
+----------------------------------
+[14:44:45]                 SONI
+[14:44:45] ----------------------------------
+
+[14:44:45] Number of vehicle models: 2
+[14:44:54] [connection] 127.0.0.1:62576 requests connection cookie.
+[14:44:55] [connection] incoming connection: 127.0.0.1:62576 id: 0
+[14:44:55] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:46:00] 
+[14:46:00] Server Plugins
+[14:46:00] --------------
+[14:46:00]  Loading plugin: sscanf
+[14:46:00] 
+
+[14:46:00]  ===============================
+
+[14:46:00]       sscanf plugin loaded.     
+
+[14:46:00]          Version:  2.8.3        
+
+[14:46:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:46:00]  ===============================
+
+[14:46:00]   Loaded.
+[14:46:00]  Loading plugin: mysql
+[14:46:00]  >> plugin.mysql: R41-4 successfully loaded.
+[14:46:00]   Loaded.
+[14:46:00]  Loaded 2 plugins.
+
+[14:46:00] 
+[14:46:00] Filterscripts
+[14:46:00] ---------------
+[14:46:00]   Loading filterscript 'mapping.amx'...
+[14:46:00] 
+--------------------------------------
+[14:46:00]                 MAPPINGS                
+[14:46:00] --------------------------------------
+
+[14:46:00]   Loading filterscript 'vehicles.amx'...
+[14:46:00] 
+--------------------------------------
+[14:46:00] Vehicle script initiated.
+[14:46:00] --------------------------------------
+
+[14:46:00]   Loaded 2 filterscripts.
+
+[14:46:00] ** [MySQL] Connected to the database successfully (1).
+[14:46:00] 
+----------------------------------
+[14:46:00]                 SONI
+[14:46:00] ----------------------------------
+
+[14:46:00] Number of vehicle models: 2
+[14:46:03] [connection] 127.0.0.1:57482 requests connection cookie.
+[14:46:04] [connection] incoming connection: 127.0.0.1:57482 id: 0
+[14:46:04] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:48:52] 
+[14:48:52] Server Plugins
+[14:48:52] --------------
+[14:48:52]  Loading plugin: sscanf
+[14:48:52] 
+
+[14:48:52]  ===============================
+
+[14:48:52]       sscanf plugin loaded.     
+
+[14:48:52]          Version:  2.8.3        
+
+[14:48:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:48:52]  ===============================
+
+[14:48:52]   Loaded.
+[14:48:52]  Loading plugin: mysql
+[14:48:52]  >> plugin.mysql: R41-4 successfully loaded.
+[14:48:52]   Loaded.
+[14:48:52]  Loaded 2 plugins.
+
+[14:48:52] 
+[14:48:52] Filterscripts
+[14:48:52] ---------------
+[14:48:52]   Loading filterscript 'mapping.amx'...
+[14:48:52] 
+--------------------------------------
+[14:48:52]                 MAPPINGS                
+[14:48:52] --------------------------------------
+
+[14:48:52]   Loading filterscript 'vehicles.amx'...
+[14:48:52] 
+--------------------------------------
+[14:48:52] Vehicle script initiated.
+[14:48:52] --------------------------------------
+
+[14:48:52]   Loaded 2 filterscripts.
+
+[14:48:53] ** [MySQL] Connected to the database successfully (1).
+[14:48:53] 
+----------------------------------
+[14:48:53]                 SONI
+[14:48:53] ----------------------------------
+
+[14:48:53] Number of vehicle models: 2
+[14:49:05] [connection] 127.0.0.1:61935 requests connection cookie.
+[14:49:06] [connection] incoming connection: 127.0.0.1:61935 id: 0
+[14:49:07] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+[14:49:47]  Ù
+[14:55:03] [part] Jazeps_Liepins has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:11:58] 
+[15:11:58] Server Plugins
+[15:11:58] --------------
+[15:11:58]  Loading plugin: sscanf
+[15:11:58] 
+
+[15:11:58]  ===============================
+
+[15:11:58]       sscanf plugin loaded.     
+
+[15:11:58]          Version:  2.8.3        
+
+[15:11:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:11:58]  ===============================
+
+[15:11:58]   Loaded.
+[15:11:58]  Loading plugin: mysql
+[15:11:58]  >> plugin.mysql: R41-4 successfully loaded.
+[15:11:58]   Loaded.
+[15:11:58]  Loaded 2 plugins.
+
+[15:11:58] 
+[15:11:58] Filterscripts
+[15:11:58] ---------------
+[15:11:58]   Loading filterscript 'mapping.amx'...
+[15:11:58] 
+--------------------------------------
+[15:11:58]                 MAPPINGS                
+[15:11:58] --------------------------------------
+
+[15:11:58]   Loading filterscript 'vehicles.amx'...
+[15:11:58] 
+--------------------------------------
+[15:11:58] Vehicle script initiated.
+[15:11:58] --------------------------------------
+
+[15:11:58]   Loaded 2 filterscripts.
+
+[15:11:59] ** [MySQL] Connected to the database successfully (1).
+[15:11:59] 
+----------------------------------
+[15:11:59]                 SONI
+[15:11:59] ----------------------------------
+
+[15:11:59] Number of vehicle models: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:13:48] 
+[15:13:48] Server Plugins
+[15:13:48] --------------
+[15:13:48]  Loading plugin: sscanf
+[15:13:48] 
+
+[15:13:48]  ===============================
+
+[15:13:48]       sscanf plugin loaded.     
+
+[15:13:48]          Version:  2.8.3        
+
+[15:13:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:13:48]  ===============================
+
+[15:13:48]   Loaded.
+[15:13:48]  Loading plugin: mysql
+[15:13:48]  >> plugin.mysql: R41-4 successfully loaded.
+[15:13:48]   Loaded.
+[15:13:48]  Loaded 2 plugins.
+
+[15:13:48] 
+[15:13:48] Filterscripts
+[15:13:48] ---------------
+[15:13:48]   Loading filterscript 'mapping.amx'...
+[15:13:48] 
+--------------------------------------
+[15:13:48]                 MAPPINGS                
+[15:13:48] --------------------------------------
+
+[15:13:48]   Loading filterscript 'vehicles.amx'...
+[15:13:48] 
+--------------------------------------
+[15:13:48] Vehicle script initiated.
+[15:13:48] --------------------------------------
+
+[15:13:48]   Loaded 2 filterscripts.
+
+[15:13:49] ** [MySQL] Connected to the database successfully (1).
+[15:13:49] 
+----------------------------------
+[15:13:49]                 SONI
+[15:13:49] ----------------------------------
+
+[15:13:49] Number of vehicle models: 2
+[15:13:50] [connection] 127.0.0.1:54778 requests connection cookie.
+[15:13:51] [connection] incoming connection: 127.0.0.1:54778 id: 0
+[15:13:51] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+[15:14:02]  Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:30:31] 
+[15:30:31] Server Plugins
+[15:30:31] --------------
+[15:30:31]  Loading plugin: sscanf
+[15:30:31] 
+
+[15:30:31]  ===============================
+
+[15:30:31]       sscanf plugin loaded.     
+
+[15:30:31]          Version:  2.8.3        
+
+[15:30:31]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:30:31]  ===============================
+
+[15:30:31]   Loaded.
+[15:30:31]  Loading plugin: mysql
+[15:30:31]  >> plugin.mysql: R41-4 successfully loaded.
+[15:30:31]   Loaded.
+[15:30:31]  Loaded 2 plugins.
+
+[15:30:31] 
+[15:30:31] Filterscripts
+[15:30:31] ---------------
+[15:30:31]   Loading filterscript 'mapping.amx'...
+[15:30:31] 
+--------------------------------------
+[15:30:31]                 MAPPINGS                
+[15:30:31] --------------------------------------
+
+[15:30:31]   Loading filterscript 'vehicles.amx'...
+[15:30:31] 
+--------------------------------------
+[15:30:31] Vehicle script initiated.
+[15:30:31] --------------------------------------
+
+[15:30:31]   Loaded 2 filterscripts.
+
+[15:30:32] ** [MySQL] Connected to the database successfully (1).
+[15:30:32] 
+----------------------------------
+[15:30:32]                 SONI
+[15:30:32] ----------------------------------
+
+[15:30:32] Number of vehicle models: 2
+[15:31:07] [connection] 127.0.0.1:58865 requests connection cookie.
+[15:31:08] [connection] incoming connection: 127.0.0.1:58865 id: 0
+[15:31:08] [join] Jazeps_Liepins has joined the server (0:127.0.0.1)
+[15:31:43]  Ù
+[15:31:43] [part] Jazeps_Liepins has left the server (0:2)
+[15:32:08] [connection] 127.0.0.1:60930 requests connection cookie.
+[15:32:09] [connection] incoming connection: 127.0.0.1:60930 id: 0
+[15:32:09] [join] Jazeps_Liepinsss has joined the server (0:127.0.0.1)
+[15:32:22] ˇx Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:33:48] 
+[15:33:48] Server Plugins
+[15:33:48] --------------
+[15:33:48]  Loading plugin: sscanf
+[15:33:48] 
+
+[15:33:48]  ===============================
+
+[15:33:48]       sscanf plugin loaded.     
+
+[15:33:48]          Version:  2.8.3        
+
+[15:33:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:33:48]  ===============================
+
+[15:33:48]   Loaded.
+[15:33:48]  Loading plugin: mysql
+[15:33:48]  >> plugin.mysql: R41-4 successfully loaded.
+[15:33:48]   Loaded.
+[15:33:48]  Loaded 2 plugins.
+
+[15:33:48] 
+[15:33:48] Filterscripts
+[15:33:48] ---------------
+[15:33:48]   Loading filterscript 'mapping.amx'...
+[15:33:48] 
+--------------------------------------
+[15:33:48]                 MAPPINGS                
+[15:33:48] --------------------------------------
+
+[15:33:48]   Loading filterscript 'vehicles.amx'...
+[15:33:48] 
+--------------------------------------
+[15:33:48] Vehicle script initiated.
+[15:33:48] --------------------------------------
+
+[15:33:48]   Loaded 2 filterscripts.
+
+[15:33:49] ** [MySQL] Connected to the database successfully (1).
+[15:33:49] 
+----------------------------------
+[15:33:49]                 SONI
+[15:33:49] ----------------------------------
+
+[15:33:49] Number of vehicle models: 2
+[15:34:09] [connection] 127.0.0.1:50786 requests connection cookie.
+[15:34:10] [connection] incoming connection: 127.0.0.1:50786 id: 0
+[15:34:10] [join] Jazeps_Liepinsss has joined the server (0:127.0.0.1)
+[15:34:17] ˇx Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:35:25] 
+[15:35:25] Server Plugins
+[15:35:25] --------------
+[15:35:25]  Loading plugin: sscanf
+[15:35:25] 
+
+[15:35:25]  ===============================
+
+[15:35:25]       sscanf plugin loaded.     
+
+[15:35:25]          Version:  2.8.3        
+
+[15:35:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:35:25]  ===============================
+
+[15:35:25]   Loaded.
+[15:35:25]  Loading plugin: mysql
+[15:35:25]  >> plugin.mysql: R41-4 successfully loaded.
+[15:35:25]   Loaded.
+[15:35:25]  Loaded 2 plugins.
+
+[15:35:25] 
+[15:35:25] Filterscripts
+[15:35:25] ---------------
+[15:35:25]   Loading filterscript 'mapping.amx'...
+[15:35:25] 
+--------------------------------------
+[15:35:25]                 MAPPINGS                
+[15:35:25] --------------------------------------
+
+[15:35:25]   Loading filterscript 'vehicles.amx'...
+[15:35:25] 
+--------------------------------------
+[15:35:25] Vehicle script initiated.
+[15:35:25] --------------------------------------
+
+[15:35:25]   Loaded 2 filterscripts.
+
+[15:35:27] ** [MySQL] Connected to the database successfully (1).
+[15:35:27] 
+----------------------------------
+[15:35:27]                 SONI
+[15:35:27] ----------------------------------
+
+[15:35:27] Number of vehicle models: 2
+[15:35:49] [connection] 127.0.0.1:62081 requests connection cookie.
+[15:35:50] [connection] incoming connection: 127.0.0.1:62081 id: 0
+[15:35:50] [join] Jazeps_Liepinsss has joined the server (0:127.0.0.1)
+[15:35:54] ˇx Ù
+[15:38:10] [part] Jazeps_Liepinsss has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:38:17] 
+[15:38:17] Server Plugins
+[15:38:17] --------------
+[15:38:17]  Loading plugin: sscanf
+[15:38:17] 
+
+[15:38:17]  ===============================
+
+[15:38:17]       sscanf plugin loaded.     
+
+[15:38:17]          Version:  2.8.3        
+
+[15:38:17]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:38:17]  ===============================
+
+[15:38:17]   Loaded.
+[15:38:17]  Loading plugin: mysql
+[15:38:17]  >> plugin.mysql: R41-4 successfully loaded.
+[15:38:17]   Loaded.
+[15:38:17]  Loaded 2 plugins.
+
+[15:38:17] 
+[15:38:17] Filterscripts
+[15:38:17] ---------------
+[15:38:17]   Loading filterscript 'mapping.amx'...
+[15:38:17] 
+--------------------------------------
+[15:38:17]                 MAPPINGS                
+[15:38:17] --------------------------------------
+
+[15:38:17]   Loading filterscript 'vehicles.amx'...
+[15:38:17] 
+--------------------------------------
+[15:38:17] Vehicle script initiated.
+[15:38:17] --------------------------------------
+
+[15:38:17]   Loaded 2 filterscripts.
+
+[15:38:17] ** [MySQL] Connected to the database successfully (1).
+[15:38:17] 
+----------------------------------
+[15:38:17]                 SONI
+[15:38:17] ----------------------------------
+
+[15:38:17] Number of vehicle models: 2
+[15:38:38] [connection] 127.0.0.1:61329 requests connection cookie.
+[15:38:39] [connection] incoming connection: 127.0.0.1:61329 id: 0
+[15:38:39] [join] Jazeps_Liepinsss has joined the server (0:127.0.0.1)
+[15:38:44] ˇx Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:40:50] 
+[15:40:50] Server Plugins
+[15:40:50] --------------
+[15:40:50]  Loading plugin: sscanf
+[15:40:50] 
+
+[15:40:50]  ===============================
+
+[15:40:50]       sscanf plugin loaded.     
+
+[15:40:50]          Version:  2.8.3        
+
+[15:40:50]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:40:50]  ===============================
+
+[15:40:50]   Loaded.
+[15:40:50]  Loading plugin: mysql
+[15:40:50]  >> plugin.mysql: R41-4 successfully loaded.
+[15:40:50]   Loaded.
+[15:40:50]  Loaded 2 plugins.
+
+[15:40:50] 
+[15:40:50] Filterscripts
+[15:40:50] ---------------
+[15:40:50]   Loading filterscript 'mapping.amx'...
+[15:40:50] 
+--------------------------------------
+[15:40:50]                 MAPPINGS                
+[15:40:50] --------------------------------------
+
+[15:40:50]   Loading filterscript 'vehicles.amx'...
+[15:40:50] 
+--------------------------------------
+[15:40:50] Vehicle script initiated.
+[15:40:50] --------------------------------------
+
+[15:40:50]   Loaded 2 filterscripts.
+
+[15:40:51] ** [MySQL] Connected to the database successfully (1).
+[15:40:51] 
+----------------------------------
+[15:40:51]                 SONI
+[15:40:51] ----------------------------------
+
+[15:40:51] Number of vehicle models: 2
+[15:40:55] [connection] 127.0.0.1:57661 requests connection cookie.
+[15:40:56] [connection] incoming connection: 127.0.0.1:57661 id: 0
+[15:40:57] [join] Jazeps_Liepinsss has joined the server (0:127.0.0.1)
+[15:41:00] ˇx Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:42:45] 
+[15:42:45] Server Plugins
+[15:42:45] --------------
+[15:42:45]  Loading plugin: sscanf
+[15:42:45] 
+
+[15:42:45]  ===============================
+
+[15:42:45]       sscanf plugin loaded.     
+
+[15:42:45]          Version:  2.8.3        
+
+[15:42:45]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:42:45]  ===============================
+
+[15:42:45]   Loaded.
+[15:42:45]  Loading plugin: mysql
+[15:42:45]  >> plugin.mysql: R41-4 successfully loaded.
+[15:42:45]   Loaded.
+[15:42:45]  Loaded 2 plugins.
+
+[15:42:45] 
+[15:42:45] Filterscripts
+[15:42:45] ---------------
+[15:42:45]   Loading filterscript 'mapping.amx'...
+[15:42:45] 
+--------------------------------------
+[15:42:45]                 MAPPINGS                
+[15:42:45] --------------------------------------
+
+[15:42:45]   Loading filterscript 'vehicles.amx'...
+[15:42:45] 
+--------------------------------------
+[15:42:45] Vehicle script initiated.
+[15:42:45] --------------------------------------
+
+[15:42:45]   Loaded 2 filterscripts.
+
+[15:42:46] ** [MySQL] Connected to the database successfully (1).
+[15:42:46] 
+----------------------------------
+[15:42:46]                 SONI
+[15:42:46] ----------------------------------
+
+[15:42:46] Number of vehicle models: 2
+[15:42:55] [connection] 127.0.0.1:62704 requests connection cookie.
+[15:42:56] [connection] incoming connection: 127.0.0.1:62704 id: 0
+[15:42:56] [join] Jazeps_Liepinsss has joined the server (0:127.0.0.1)
+[15:42:56] 0
+[15:43:02]  Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:45:04] 
+[15:45:04] Server Plugins
+[15:45:04] --------------
+[15:45:04]  Loading plugin: sscanf
+[15:45:04] 
+
+[15:45:04]  ===============================
+
+[15:45:04]       sscanf plugin loaded.     
+
+[15:45:04]          Version:  2.8.3        
+
+[15:45:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:45:04]  ===============================
+
+[15:45:04]   Loaded.
+[15:45:04]  Loading plugin: mysql
+[15:45:04]  >> plugin.mysql: R41-4 successfully loaded.
+[15:45:04]   Loaded.
+[15:45:04]  Loaded 2 plugins.
+
+[15:45:04] 
+[15:45:04] Filterscripts
+[15:45:04] ---------------
+[15:45:04]   Loading filterscript 'mapping.amx'...
+[15:45:04] 
+--------------------------------------
+[15:45:04]                 MAPPINGS                
+[15:45:04] --------------------------------------
+
+[15:45:04]   Loading filterscript 'vehicles.amx'...
+[15:45:04] 
+--------------------------------------
+[15:45:04] Vehicle script initiated.
+[15:45:04] --------------------------------------
+
+[15:45:04]   Loaded 2 filterscripts.
+
+[15:45:04] ** [MySQL] Connected to the database successfully (1).
+[15:45:04] 
+----------------------------------
+[15:45:04]                 SONI
+[15:45:04] ----------------------------------
+
+[15:45:04] Number of vehicle models: 2
+[15:45:12] [connection] 127.0.0.1:62178 requests connection cookie.
+[15:45:13] [connection] incoming connection: 127.0.0.1:62178 id: 0
+[15:45:13] [join] Jazeps_Liepinsss has joined the server (0:127.0.0.1)
+[15:45:13] 0
+[15:45:17]  Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:46:40] 
+[15:46:40] Server Plugins
+[15:46:40] --------------
+[15:46:40]  Loading plugin: sscanf
+[15:46:40] 
+
+[15:46:40]  ===============================
+
+[15:46:40]       sscanf plugin loaded.     
+
+[15:46:40]          Version:  2.8.3        
+
+[15:46:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:46:40]  ===============================
+
+[15:46:40]   Loaded.
+[15:46:40]  Loading plugin: mysql
+[15:46:40]  >> plugin.mysql: R41-4 successfully loaded.
+[15:46:40]   Loaded.
+[15:46:40]  Loaded 2 plugins.
+
+[15:46:40] 
+[15:46:40] Filterscripts
+[15:46:40] ---------------
+[15:46:40]   Loading filterscript 'mapping.amx'...
+[15:46:40] 
+--------------------------------------
+[15:46:40]                 MAPPINGS                
+[15:46:40] --------------------------------------
+
+[15:46:40]   Loading filterscript 'vehicles.amx'...
+[15:46:40] 
+--------------------------------------
+[15:46:40] Vehicle script initiated.
+[15:46:40] --------------------------------------
+
+[15:46:40]   Loaded 2 filterscripts.
+
+[15:46:41] ** [MySQL] Connected to the database successfully (1).
+[15:46:41] 
+----------------------------------
+[15:46:41]                 SONI
+[15:46:41] ----------------------------------
+
+[15:46:41] Number of vehicle models: 2
+[15:46:48] [connection] 127.0.0.1:50021 requests connection cookie.
+[15:46:49] [connection] incoming connection: 127.0.0.1:50021 id: 0
+[15:46:50] [join] Jazeps_Liepinsss has joined the server (0:127.0.0.1)
+[15:46:50] 0
+[15:46:53]  Ù
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:47:56] 
+[15:47:56] Server Plugins
+[15:47:56] --------------
+[15:47:56]  Loading plugin: sscanf
+[15:47:56] 
+
+[15:47:56]  ===============================
+
+[15:47:56]       sscanf plugin loaded.     
+
+[15:47:56]          Version:  2.8.3        
+
+[15:47:56]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:47:56]  ===============================
+
+[15:47:56]   Loaded.
+[15:47:56]  Loading plugin: mysql
+[15:47:56]  >> plugin.mysql: R41-4 successfully loaded.
+[15:47:56]   Loaded.
+[15:47:56]  Loaded 2 plugins.
+
+[15:47:56] 
+[15:47:56] Filterscripts
+[15:47:56] ---------------
+[15:47:56]   Loading filterscript 'mapping.amx'...
+[15:47:56] 
+--------------------------------------
+[15:47:56]                 MAPPINGS                
+[15:47:56] --------------------------------------
+
+[15:47:56]   Loading filterscript 'vehicles.amx'...
+[15:47:56] 
+--------------------------------------
+[15:47:56] Vehicle script initiated.
+[15:47:56] --------------------------------------
+
+[15:47:56]   Loaded 2 filterscripts.
+
+[15:47:57] ** [MySQL] Connected to the database successfully (1).
+[15:47:57] 
+----------------------------------
+[15:47:57]                 SONI
+[15:47:57] ----------------------------------
+
+[15:47:57] Number of vehicle models: 2
+[15:48:12] [connection] 127.0.0.1:63559 requests connection cookie.
+[15:48:13] [connection] incoming connection: 127.0.0.1:63559 id: 0
+[15:48:13] [join] Jazeps_Liepinsss has joined the server (0:127.0.0.1)
+[15:48:16]  Ù
+[15:48:18] 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:50:28] 
+[15:50:28] Server Plugins
+[15:50:28] --------------
+[15:50:28]  Loading plugin: sscanf
+[15:50:28] 
+
+[15:50:28]  ===============================
+
+[15:50:28]       sscanf plugin loaded.     
+
+[15:50:28]          Version:  2.8.3        
+
+[15:50:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:50:28]  ===============================
+
+[15:50:28]   Loaded.
+[15:50:28]  Loading plugin: mysql
+[15:50:28]  >> plugin.mysql: R41-4 successfully loaded.
+[15:50:28]   Loaded.
+[15:50:28]  Loaded 2 plugins.
+
+[15:50:28] 
+[15:50:28] Filterscripts
+[15:50:28] ---------------
+[15:50:28]   Loading filterscript 'mapping.amx'...
+[15:50:28] 
+--------------------------------------
+[15:50:28]                 MAPPINGS                
+[15:50:28] --------------------------------------
+
+[15:50:28]   Loading filterscript 'vehicles.amx'...
+[15:50:28] 
+--------------------------------------
+[15:50:28] Vehicle script initiated.
+[15:50:28] --------------------------------------
+
+[15:50:28]   Loaded 2 filterscripts.
+
+[15:50:29] ** [MySQL] Connected to the database successfully (1).
+[15:50:29] 
+----------------------------------
+[15:50:29]                 SONI
+[15:50:29] ----------------------------------
+
+[15:50:29] Number of vehicle models: 2
+[15:50:46] [connection] 127.0.0.1:54045 requests connection cookie.
+[15:50:47] [connection] incoming connection: 127.0.0.1:54045 id: 0
+[15:50:47] [join] Jazeps_Liepinsss has joined the server (0:127.0.0.1)
+[15:50:50]  Ù
+[15:50:55]  ÙÙ
+[15:50:58] 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:51:45] 
+[15:51:45] Server Plugins
+[15:51:45] --------------
+[15:51:45]  Loading plugin: sscanf
+[15:51:45] 
+
+[15:51:45]  ===============================
+
+[15:51:45]       sscanf plugin loaded.     
+
+[15:51:45]          Version:  2.8.3        
+
+[15:51:45]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:51:45]  ===============================
+
+[15:51:45]   Loaded.
+[15:51:45]  Loading plugin: mysql
+[15:51:45]  >> plugin.mysql: R41-4 successfully loaded.
+[15:51:45]   Loaded.
+[15:51:45]  Loaded 2 plugins.
+
+[15:51:45] 
+[15:51:45] Filterscripts
+[15:51:45] ---------------
+[15:51:45]   Loading filterscript 'mapping.amx'...
+[15:51:45] 
+--------------------------------------
+[15:51:45]                 MAPPINGS                
+[15:51:45] --------------------------------------
+
+[15:51:45]   Loading filterscript 'vehicles.amx'...
+[15:51:45] 
+--------------------------------------
+[15:51:45] Vehicle script initiated.
+[15:51:45] --------------------------------------
+
+[15:51:45]   Loaded 2 filterscripts.
+
+[15:51:46] ** [MySQL] Connected to the database successfully (1).
+[15:51:46] 
+----------------------------------
+[15:51:46]                 SONI
+[15:51:46] ----------------------------------
+
+[15:51:46] Number of vehicle models: 2
+[15:51:52] [connection] 127.0.0.1:62095 requests connection cookie.
+[15:51:53] [connection] incoming connection: 127.0.0.1:62095 id: 0
+[15:51:53] [join] Jazeps_Liepinsss has joined the server (0:127.0.0.1)
+[15:51:56]  Ù
+[15:51:57] 1
+[15:52:33] [part] Jazeps_Liepinsss has left the server (0:1)

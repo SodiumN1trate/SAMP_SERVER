@@ -23,18 +23,23 @@
 
 
 
-new HelpPickup;
+new BenefitPickup;
 
 new MySQL:db_handle;
 
+// Player info
 enum pInfo {
 	pName[MAX_PLAYER_NAME + 1],
  	pPassword[65],
 	pMoney,
-	pSkinId
+	pSkinId,
+	pBenefitStatus
 }
 
 new playerInfo[MAX_PLAYERS][pInfo];
+
+
+
 
 #if defined FILTERSCRIPT
 
@@ -82,7 +87,7 @@ public OnGameModeInit()
         printf("** [MySQL] Connected to the database successfully (%d).", _:db_handle);
     }
 	
-    HelpPickup = CreatePickup(1274, 1, 1770.4867,-1889.2371,13.5607, -1);
+    BenefitPickup = CreatePickup(1274, 1, 1770.4867,-1889.2371,13.5607, -1);
 	return 1;
 }
 
@@ -93,8 +98,9 @@ public OnGameModeExit()
 
 public OnPlayerRequestClass(playerid, classid)
 {
-	SetPlayerCameraPos(playerid, 1958.3783, 1343.1572, 15.3746);
-	SetPlayerCameraLookAt(playerid, 1958.3783, 1343.1572, 15.3746);
+    SetPlayerPos(playerid, 1825.1129, -1312.3657, 122.2873);
+	SetPlayerCameraPos(playerid, 1825.2332, -1313.6414, 121.1312);
+	SetPlayerCameraLookAt(playerid, 1825.2385, -1314.6379, 120.8848);
 	return 1;
 }
 
@@ -107,13 +113,10 @@ public OnPlayerConnect(playerid)
     result = mysql_query(db_handle, msg);
 	if(cache_num_rows() == 0)
 	{
-	    printf("Nereìistrçts");
 	    UserRegister(playerid);
-    	mysql_query(db_handle, msg);
 	}
 	else
 	{
-	    printf("Reìistrçts!");
 	    UserLogin(playerid);
 	}
 	cache_delete(result);
@@ -142,7 +145,10 @@ public OnPlayerDisconnect(playerid, reason)
 public OnPlayerSpawn(playerid)
 {
 	SetPlayerColor(playerid, COLOR_WHITE);
+	GivePlayerMoney(playerid, playerInfo[playerid][pMoney]);
+	SetPlayerSkin(playerid, playerInfo[playerid][pSkinId]);
     SetPlayerPos(playerid, 1760.4478,-1899.2943,13.5631);
+    printf("%i", playerInfo[playerid][pBenefitStatus]);
 	return 1;
 }
 
@@ -227,15 +233,32 @@ public OnPlayerObjectMoved(playerid, objectid)
 	return 1;
 }
 
+
+forward benefitTimer(playerid);
 public OnPlayerPickUpPickup(playerid, pickupid)
 {
-	if(HelpPickup == pickupid)
+	if(BenefitPickup == pickupid)
 	{
-	     SendClientMessage(playerid, COLOR_BLUE, "Pabalsts 1000$!");
-	     GivePlayerMoney(playerid, 1000);
+	    if(playerInfo[playerid][pBenefitStatus] == 1)
+		{
+	    
+	     	SendClientMessage(playerid, COLOR_BLUE, "Pabalsts 1000$!");
+	     	GivePlayerMoney(playerid, 1000);
+	     	playerInfo[playerid][pBenefitStatus] = 0;
+	     	SetTimerEx("benefitTimer", 10000, false, "i", playerid);
+     	}
+     	else
+	 	{
+	 	    SendClientMessage(playerid, COLOR_RED, "Pabalstu var òemt katras 10 sekundes!");
+     	}
 	}
 	return 1;
 }
+
+public benefitTimer(playerid){
+    playerInfo[playerid][pBenefitStatus] = 1;
+}
+
 
 public OnVehicleMod(playerid, vehicleid, componentid)
 {
@@ -315,6 +338,10 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
  		 	if(userPassword[0] == inputtext[0])
  		 	{
  		 	    SendClientMessage(playerid, -1, "Laipni lûgti \"Snjus RP\"(JK)!");
+ 		 	    cache_get_value_index(0, 2, playerInfo[playerid][pPassword]);
+ 		 	    cache_get_value_index_int(0, 3, playerInfo[playerid][pMoney]);
+     			cache_get_value_index_int(0, 4, playerInfo[playerid][pSkinId]);
+     			cache_get_value_index_int(0, 5, playerInfo[playerid][pBenefitStatus]);
  		 	}
  		 	else
  		 	{
@@ -323,19 +350,33 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
  		 	}
  		 	cache_delete(result);
 		}
+		else
+		{
+	 		Kick(playerid);
+  		}
 		return 1;
 	}
 	if(dialogid == DIALOG_REGISTER)
 	{
 		if(response)
 		{
-		    new query[120], PlayerName[MAX_PLAYER_NAME + 1];
+		    new query[120], PlayerName[MAX_PLAYER_NAME + 1], Cache:result;
     		GetPlayerName(playerid, PlayerName, sizeof(PlayerName));
    			mysql_format(db_handle, query, sizeof(query), "INSERT INTO `users` (`username`, `password`, `skin_id`) VALUES ('%s', '%s', '%i')", PlayerName, inputtext, random(300));
    			mysql_query(db_handle, query);
    			SendClientMessage(playerid, -1, "Jûs veiksmîgi reìistrçjâties!");
    			SendClientMessage(playerid, -1, "Patîkamu spçlçðanu \"Snjus RP\"(JK)");
+			mysql_format(db_handle, query, sizeof(query), "SELECT * FROM `users` WHERE `username` = '%s';", playerInfo[playerid][pName]);
+	 		result = mysql_query(db_handle, query);
+ 	    	cache_get_value_index(0, 2, playerInfo[playerid][pPassword]);
+	 	    cache_get_value_index_int(0, 3, playerInfo[playerid][pMoney]);
+   			cache_get_value_index_int(0, 4, playerInfo[playerid][pSkinId]);
+   			cache_delete(result);
 		}
+		else
+		{
+  			Kick(playerid);
+  		}
 		return 1;
 	}
  	
@@ -516,5 +557,11 @@ CMD:comehere(playerid, params[])
 
 
 
+CMD:welcome(playerid, params[])
+{
 
+	SetPlayerPos(playerid, 1825.55859, -1314.19348, 120.33050);
+
+	return 1;
+}
 
