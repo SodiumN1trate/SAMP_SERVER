@@ -20,9 +20,12 @@
 // Dialog's
 #define DIALOG_LOGIN 0
 #define DIALOG_REGISTER 1
+#define DIALOG_EXIT 2
+#define DIALOG_ENTER 3
 
 
 
+//pickups
 new BenefitPickup;
 
 new MySQL:db_handle;
@@ -33,12 +36,29 @@ enum pInfo {
  	pPassword[65],
 	pMoney,
 	pSkinId,
-	pBenefitStatus
+	pBenefitStatus,
+	pInInteriorId,
 }
 
 new playerInfo[MAX_PLAYERS][pInfo];
 
 
+// Houses
+enum hInfo {
+	hId,
+	hPickup,
+	hExitPickup,
+	Float:hExitX,
+	Float:hExitY,
+	Float:hExitZ,
+	hClass,
+	hPrice,
+	hOwner[MAX_PLAYER_NAME + 1]
+}
+
+new houseInfo[100][hInfo];
+
+new HouseCount;
 
 
 #if defined FILTERSCRIPT
@@ -88,6 +108,32 @@ public OnGameModeInit()
     }
 	
     BenefitPickup = CreatePickup(1274, 1, 1770.4867,-1889.2371,13.5607, -1);
+    
+    
+    new Cache:result, Float:x, Float:y, Float:z, row, column, tests;
+    row = 0;
+    column = 0;
+    result = mysql_query(db_handle, "SELECT COUNT(*) FROM `houses`");
+    cache_get_value_index_int(0, 0, HouseCount);
+	result = mysql_query(db_handle, "SELECT * FROM `houses`");
+	for(new i = 0; i < HouseCount; i++)
+	{
+		printf("%i", row);
+	    cache_get_value_index_float(row, column + 1, x);
+	    cache_get_value_index_float(row, column + 2, y);
+	    cache_get_value_index_float(row, column + 3, z);
+	    houseInfo[i][hPickup] = CreatePickup(1273, 1, x, y, z, -1);
+    	houseInfo[i][hExitX] = x;
+    	houseInfo[i][hExitY] = y;
+    	houseInfo[i][hExitZ] = z;
+        cache_get_value_index_int(row, column + 4,  houseInfo[i][hClass]);
+        cache_get_value_index_int(row, column + 4,  tests);
+        cache_get_value_index_int(row, column + 5,  houseInfo[i][hPrice]);
+        cache_get_value_index(row, column + 6,  houseInfo[i][hOwner]);
+        houseInfo[i][hExitPickup] = CreatePickup(19197, 1, 266.4985,305.0623,999.1484, i);
+   	    row = row + 1;
+	}
+	cache_delete(result);
 	return 1;
 }
 
@@ -126,19 +172,23 @@ public OnPlayerConnect(playerid)
 // If user is regsitred
 UserLogin(playerid)
 {
-	ShowPlayerDialog(playerid, DIALOG_LOGIN, DIALOG_STYLE_INPUT, "Ieiet", "Lûdzu ievadiet paroli ar kuru reìistrçjâties!", "Ieiet", "Iziet");
+	ShowPlayerDialog(playerid, DIALOG_LOGIN, DIALOG_STYLE_PASSWORD, "Ieiet", "Lûdzu ievadiet paroli ar kuru reìistrçjâties!", "Ieiet", "Iziet");
 }
 
 // If user isn't regsitred
 UserRegister(playerid)
 {
-    ShowPlayerDialog(playerid, DIALOG_REGISTER, DIALOG_STYLE_INPUT, "Reìistrçties", "Lûdzu ievadiet reìistrâcijas paroli!", "Reìistrçties", "Iziet");
+    ShowPlayerDialog(playerid, DIALOG_REGISTER, DIALOG_STYLE_PASSWORD, "Reìistrçties", "Lûdzu ievadiet reìistrâcijas paroli!", "Reìistrçties", "Iziet");
 }
 
 
 
 public OnPlayerDisconnect(playerid, reason)
 {
+	new query[150];
+	playerInfo[playerid][pMoney] = GetPlayerMoney(playerid);
+    mysql_format(db_handle, query, sizeof(query), "UPDATE `users` SET `money` = '%i', `skin_id` = '%i', `benefit` = '%i' WHERE `username` = '%s'", playerInfo[playerid][pMoney], playerInfo[playerid][pSkinId], playerInfo[playerid][pBenefitStatus], playerInfo[playerid][pName]);
+	mysql_query(db_handle, query);
 	return 1;
 }
 
@@ -148,7 +198,11 @@ public OnPlayerSpawn(playerid)
 	GivePlayerMoney(playerid, playerInfo[playerid][pMoney]);
 	SetPlayerSkin(playerid, playerInfo[playerid][pSkinId]);
     SetPlayerPos(playerid, 1760.4478,-1899.2943,13.5631);
-    printf("%i", playerInfo[playerid][pBenefitStatus]);
+    
+    if(playerInfo[playerid][pBenefitStatus] == 0)
+	{
+        SetTimerEx("benefitTimer", 10000, false, "i", playerid);
+    }
 	return 1;
 }
 
@@ -252,6 +306,25 @@ public OnPlayerPickUpPickup(playerid, pickupid)
 	 	    SendClientMessage(playerid, COLOR_RED, "Pabalstu var òemt katras 10 sekundes!");
      	}
 	}
+	
+	else if(houseInfo[playerInfo[playerid][pInInteriorId]][hExitPickup] == pickupid)
+	{
+ 		ShowPlayerDialog(playerid, DIALOG_EXIT, DIALOG_STYLE_MSGBOX, "Iziet", "Vai vçlaties iziet no mâjokïa?", "Piekrist", "Atcelt");
+	}
+	for(new i; i < HouseCount; i++)
+	{
+ 		if(houseInfo[i][hPickup] == pickupid)
+		{
+		    if(houseInfo[i][hClass] == 3)
+		    {
+		        ShowPlayerDialog(playerid, DIALOG_ENTER, DIALOG_STYLE_MSGBOX, "Ieiet", "Vai vçlaties ieiet mâjoklî?", "Piekrist", "Atcelt");
+		        playerInfo[playerid][pInInteriorId] = i;
+			}
+		 	
+		}
+	}
+
+	
 	return 1;
 }
 
@@ -335,7 +408,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 	 		mysql_format(db_handle, query, sizeof(query), "SELECT * FROM `users` WHERE `username` = '%s';", playerInfo[playerid][pName]);
 	 		result = mysql_query(db_handle, query);
  		 	cache_get_value_index(0, 2, userPassword);
- 		 	if(userPassword[0] == inputtext[0])
+ 		 	if(!strcmp(userPassword[0], inputtext[0]))
  		 	{
  		 	    SendClientMessage(playerid, -1, "Laipni lûgti \"Snjus RP\"(JK)!");
  		 	    cache_get_value_index(0, 2, playerInfo[playerid][pPassword]);
@@ -377,6 +450,28 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 		{
   			Kick(playerid);
   		}
+		return 1;
+	}
+	if(dialogid == DIALOG_EXIT)
+	{
+	    if(response)
+	    {
+	        SetPlayerPos(playerid, houseInfo[playerInfo[playerid][pInInteriorId]][hExitX] + 2, houseInfo[playerInfo[playerid][pInInteriorId]][hExitY], houseInfo[playerInfo[playerid][pInInteriorId]][hExitZ] + 2);
+			SetPlayerInterior(playerid, 0);
+ 			SetPlayerVirtualWorld(playerid, 0);
+ 			playerInfo[playerid][pInInteriorId] = 0;
+		}
+	    return 1;
+	}
+	if(dialogid == DIALOG_ENTER)
+	{
+		if(response)
+		{
+	 		SetPlayerInterior(playerid, 2);
+	 		SetPlayerVirtualWorld(playerid, playerInfo[playerid][pInInteriorId]);
+	 		SetPlayerPos(playerid,268.5076,304.9388,999.1484);
+
+		}
 		return 1;
 	}
  	
@@ -522,11 +617,18 @@ CMD:goto(playerid, params[])
 	}
 	else
 	{
-	    GetPlayerName(playerid, TargetName, sizeof(TargetName));
-	    GetPlayerPos(TargetId, x, y, z);
-	    SetPlayerPos(playerid, x+1, y+1, z+1);
-	    format(msg, sizeof(msg), "Jûs teleportçjâties pie %s!", TargetName);
-	    SendClientMessage(playerid, COLOR_BLUE, msg);
+		if(TargetId != INVALID_PLAYER_ID)
+		{
+	    	GetPlayerName(playerid, TargetName, sizeof(TargetName));
+	    	GetPlayerPos(TargetId, x, y, z);
+	    	SetPlayerPos(playerid, x+1, y+1, z+1);
+	    	format(msg, sizeof(msg), "Jûs teleportçjâties pie %s!", TargetName);
+	    	SendClientMessage(playerid, COLOR_BLUE, msg);
+	    }
+	    else
+	    {
+	        return SendClientMessage(playerid, COLOR_RED, "Lietotâjs nav tieðsaistç!");
+	 	}
 	}
     return 1;
 }
@@ -543,25 +645,38 @@ CMD:comehere(playerid, params[])
 	}
 	else
 	{
-	    GetPlayerName(playerid, TargetName, sizeof(TargetName));
-	    GetPlayerName(playerid, PlayerName, sizeof(PlayerName));
-	    GetPlayerPos(playerid, x, y, z);
-	    SetPlayerPos(TargetId, x+1, y+1, z+1);
-	    format(msg, sizeof(msg), "Jûs %s administrators teleportçjâties pie!", PlayerName);
-	    SendClientMessage(playerid, COLOR_BLUE, msg);
-	    format(msg1, sizeof(msg1), "Jûs teleportçjât pie sevis %s!", TargetName);
-	    SendClientMessage(TargetId, COLOR_BLUE, msg1);
+		if(TargetId != INVALID_PLAYER_ID)
+		{
+	    	GetPlayerName(playerid, TargetName, sizeof(TargetName));
+	    	GetPlayerName(playerid, PlayerName, sizeof(PlayerName));
+	    	GetPlayerPos(playerid, x, y, z);
+	    	SetPlayerPos(TargetId, x+1, y+1, z+1);
+	    	format(msg, sizeof(msg), "Jûs %s administrators teleportçjâties pie sevis!", PlayerName);
+	    	SendClientMessage(playerid, COLOR_BLUE, msg);
+	    	format(msg1, sizeof(msg1), "Jûs teleportçjât pie sevis %s!", TargetName);
+	    	SendClientMessage(TargetId, COLOR_BLUE, msg1);
+		}
+		else
+	    {
+	        return SendClientMessage(playerid, COLOR_RED, "Lietotâjs nav tieðsaistç!");
+	 	}
 	}
     return 1;
 }
 
 
 
-CMD:welcome(playerid, params[])
+CMD:sethouse(playerid, params[])
 {
 
-	SetPlayerPos(playerid, 1825.55859, -1314.19348, 120.33050);
-
+	new query[250], Float:x, Float:y, Float:z, Class, Price;
+	if(!sscanf(params,"dd", Class, Price))
+	{
+		GetPlayerPos(playerid, x, y, z);
+		printf("('%f', '%f', '%f', '%i', '%i')", x, y, z, Class, Price);
+		mysql_format(db_handle, query, sizeof(query), "INSERT INTO `houses` (`x`, `y`, `z`, `class`, `price`) VALUES ('%f', '%f', '%f', '%i', '%i')", x, y, z, Class, Price);
+		mysql_query(db_handle, query);
+	}
 	return 1;
 }
 
