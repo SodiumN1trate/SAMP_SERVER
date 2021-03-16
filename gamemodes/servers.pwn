@@ -8,6 +8,7 @@
 #include <sscanf2>
 #include <zcmd>
 #include <a_mysql>
+#include <foreach>
 
 // Colors
 #define COLOR_GREY 0xAFAFAFAA
@@ -59,6 +60,21 @@ enum hInfo {
 new houseInfo[100][hInfo];
 
 new HouseCount;
+
+// Message
+stock message(playerid, color, pmessage[100], Float:range)
+{
+	new Float:x, Float:y, Flaot:z;
+	GetPlayerPos(playerid, x, y, z);
+	foreach(Player, i)
+	{
+	 	if(IsPlayerInRangeOfPoint(playerid, range, x, y, z))
+ 		{
+ 	    	SendClientMessage(playerid, color, pmessage);
+ 		}
+	}
+}
+
 
 
 #if defined FILTERSCRIPT
@@ -223,7 +239,10 @@ public OnVehicleDeath(vehicleid, killerid)
 
 public OnPlayerText(playerid, text[])
 {
-	return 1;
+  	new pmessage[100];
+ 	format(pmessage, sizeof(pmessage), "%s: %s", playerInfo[playerid][pName], text);
+ 	message(playerid, -1, pmessage, 20.0);
+ 	return 0;
 }
 
 public OnPlayerCommandText(playerid, cmdtext[])
@@ -672,7 +691,23 @@ CMD:sethouse(playerid, params[])
 		printf("('%f', '%f', '%f', '%i', '%i')", x, y, z, Class, Price);
 		mysql_format(db_handle, query, sizeof(query), "INSERT INTO `houses` (`x`, `y`, `z`, `class`, `price`) VALUES ('%f', '%f', '%f', '%i', '%i')", x, y, z, Class, Price);
 		mysql_query(db_handle, query);
+		SendClientMessage(playerid, COLOR_BLUE, "Jûs uzstâdijât mâju");
 	}
 	return 1;
+}
+
+CMD:do(playerid, params[])
+{
+    new pmessage[100];
+ 	format(pmessage, sizeof(pmessage), "%s ((%s))", params, playerInfo[playerid][pName]);
+ 	message(playerid, 0xC2A2DAAA, pmessage, 20.0);
+ 	return 1;
+}
+CMD:me(playerid, params[])
+{
+    new pmessage[100];
+ 	format(pmessage, sizeof(pmessage), "%s %s", playerInfo[playerid][pName], params);
+ 	message(playerid, 0xC2A2DAAA, pmessage, 20.0);
+ 	return 1;
 }
 
