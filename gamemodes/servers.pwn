@@ -487,10 +487,6 @@ CMD:pay(playerid, params[])
 {
     new TargetId, Money;
 	new TargetMessage[128];
-	new SenderName[MAX_PLAYER_NAME + 1];
-	new ReceivereName[MAX_PLAYER_NAME + 1];
-	GetPlayerName(playerid, SenderName, sizeof(SenderName));
-	GetPlayerName(TargetId, ReceivereName, sizeof(ReceivereName));
 	if(sscanf(params,"rd", TargetId, Money))
 	{
      	return SendClientMessage(playerid, COLOR_RED, "/pay [id] [summa]");
@@ -500,17 +496,17 @@ CMD:pay(playerid, params[])
 
     	if(TargetId != INVALID_PLAYER_ID)
  		{
- 	    	if(GetPlayerMoney(playerid) < Money)
+ 	    	if(GetPlayerMoney(playerid) < Money || Money <= 0)
 	 		{
- 	        	SendClientMessage(playerid, COLOR_RED, "Jums nepietiek naudas!");
+ 	        	SendClientMessage(playerid, COLOR_RED, "Jûs to nevarat izdarît!");
  	    	}
  	    	else
 		 	{
   				GivePlayerMoney(TargetId, Money);
-  				format(TargetMessage, sizeof(TargetMessage), "Jums %s iedeva %i$", SenderName, Money);
+  				format(TargetMessage, sizeof(TargetMessage), "Jums %s iedeva %i$", playerInfo[playerid][pName], Money);
   				SendClientMessage(TargetId, COLOR_BLUE, TargetMessage);
   				GivePlayerMoney(playerid, - Money);
-  				format(TargetMessage, sizeof(TargetMessage), "Jûs %s iedevat %i$", ReceivereName, Money);
+  				format(TargetMessage, sizeof(TargetMessage), "Jûs %s iedevât %i$", playerInfo[TargetId][pName], Money);
   				SendClientMessage(playerid, COLOR_BLUE, TargetMessage);
   			}
 		}
