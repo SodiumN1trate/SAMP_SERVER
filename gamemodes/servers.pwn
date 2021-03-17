@@ -39,6 +39,7 @@ enum pInfo {
 	pSkinId,
 	pBenefitStatus,
 	pInInteriorId,
+	pHouse
 }
 
 new playerInfo[MAX_PLAYERS][pInfo];
@@ -46,20 +47,59 @@ new playerInfo[MAX_PLAYERS][pInfo];
 
 // Houses
 enum hInfo {
+	hOwner[MAX_PLAYER_NAME + 1],
 	hId,
 	hPickup,
 	hExitPickup,
-	Float:hExitX,
-	Float:hExitY,
-	Float:hExitZ,
+	Float:hEnterX,
+	Float:hEnterY,
+	Float:hEnterZ,
 	hClass,
-	hPrice,
-	hOwner[MAX_PLAYER_NAME + 1]
+	hPrice
+}
+
+// Radar markers
+enum rMarkerInfo{
+	rMId,
+	rMStyleId,
+	Float:rMLocX,
+	Float:rMLocY,
+	Float:rMLocZ
+
 }
 
 new houseInfo[100][hInfo];
 
 new HouseCount;
+
+// Mapicon loading
+forward mapIconLoading(playerid);
+public mapIconLoading(playerid)
+{
+    for(new i; i < 100; i++)
+	{
+	    if(IsPlayerInRangeOfPoint(playerid, 200.0, houseInfo[i][hEnterX], houseInfo[i][hEnterY], houseInfo[i][hEnterZ]))
+ 		{
+		 	if(houseInfo[i][hOwner])
+ 			{
+       			SetPlayerMapIcon(playerid, i, houseInfo[i][hEnterX], houseInfo[i][hEnterY], houseInfo[i][hEnterZ], 32, 0, MAPICON_GLOBAL);
+ 			}
+ 			else
+ 			{
+            	SetPlayerMapIcon(playerid, i, houseInfo[i][hEnterX], houseInfo[i][hEnterY], houseInfo[i][hEnterZ], 31, 0, MAPICON_GLOBAL);
+ 			}
+ 		}
+ 		else
+ 		{
+ 		
+ 			RemovePlayerMapIcon(playerid, i);
+ 		
+ 		}
+	}
+
+}
+
+
 
 // Message
 stock message(playerid, color, pmessage[100], Float:range)
@@ -68,13 +108,12 @@ stock message(playerid, color, pmessage[100], Float:range)
 	GetPlayerPos(playerid, x, y, z);
 	foreach(Player, i)
 	{
-	 	if(IsPlayerInRangeOfPoint(playerid, range, x, y, z))
+	 	if(IsPlayerInRangeOfPoint(i, range, x, y, z))
  		{
- 	    	SendClientMessage(playerid, color, pmessage);
+ 	    	SendClientMessage(i, color, pmessage);
  		}
 	}
 }
-
 
 
 #if defined FILTERSCRIPT
@@ -126,7 +165,7 @@ public OnGameModeInit()
     BenefitPickup = CreatePickup(1274, 1, 1770.4867,-1889.2371,13.5607, -1);
     
     
-    new Cache:result, Float:x, Float:y, Float:z, row, column, tests;
+    new Cache:result, Float:x, Float:y, Float:z, row, column;
     row = 0;
     column = 0;
     result = mysql_query(db_handle, "SELECT COUNT(*) FROM `houses`");
@@ -134,19 +173,41 @@ public OnGameModeInit()
 	result = mysql_query(db_handle, "SELECT * FROM `houses`");
 	for(new i = 0; i < HouseCount; i++)
 	{
-		printf("%i", row);
+		cache_get_value_index_int(row, 0, houseInfo[i][hId]);
 	    cache_get_value_index_float(row, column + 1, x);
 	    cache_get_value_index_float(row, column + 2, y);
 	    cache_get_value_index_float(row, column + 3, z);
-	    houseInfo[i][hPickup] = CreatePickup(1273, 1, x, y, z, -1);
-    	houseInfo[i][hExitX] = x;
-    	houseInfo[i][hExitY] = y;
-    	houseInfo[i][hExitZ] = z;
+    	houseInfo[i][hEnterX] = x;
+    	houseInfo[i][hEnterY] = y;
+    	houseInfo[i][hEnterZ] = z;
         cache_get_value_index_int(row, column + 4,  houseInfo[i][hClass]);
-        cache_get_value_index_int(row, column + 4,  tests);
         cache_get_value_index_int(row, column + 5,  houseInfo[i][hPrice]);
-        cache_get_value_index(row, column + 6,  houseInfo[i][hOwner]);
-        houseInfo[i][hExitPickup] = CreatePickup(19197, 1, 266.4985,305.0623,999.1484, i);
+        cache_get_value_index(row, column + 6,  houseInfo[i][hOwner], 26);
+        if(houseInfo[i][hClass] == 4)
+		{
+	 		houseInfo[i][hExitPickup] = CreatePickup(19197, 1, 221.92, 1140.20, 1082.61, i);
+		}
+		else if(houseInfo[i][hClass] == 3)
+		{
+  			houseInfo[i][hExitPickup] = CreatePickup(19197, 1, 295.04, 1472.26, 1080.26, i);
+		}
+		else if(houseInfo[i][hClass] == 2)
+		{
+  			houseInfo[i][hExitPickup] = CreatePickup(19197, 1, 2270.38, -1210.35, 1047.56, i);
+		}
+  		else if(houseInfo[i][hClass] == 1)
+		{
+  			houseInfo[i][hExitPickup] = CreatePickup(19197, 1,2317.89, -1026.76, 1050.22, i);
+		}
+		
+		if(houseInfo[i][hOwner])
+		{
+			houseInfo[i][hPickup] = CreatePickup(1272, 1, x, y, z, -1);
+  		}
+  		else
+  		{
+   			houseInfo[i][hPickup] = CreatePickup(1273, 1, x, y, z, -1);
+		}
    	    row = row + 1;
 	}
 	cache_delete(result);
@@ -182,6 +243,7 @@ public OnPlayerConnect(playerid)
 	    UserLogin(playerid);
 	}
 	cache_delete(result);
+	SetTimerEx("mapIconLoading", 1000, true, "r", playerid);
     return 1;
 }
 
@@ -203,7 +265,9 @@ public OnPlayerDisconnect(playerid, reason)
 {
 	new query[150];
 	playerInfo[playerid][pMoney] = GetPlayerMoney(playerid);
-    mysql_format(db_handle, query, sizeof(query), "UPDATE `users` SET `money` = '%i', `skin_id` = '%i', `benefit` = '%i' WHERE `username` = '%s'", playerInfo[playerid][pMoney], playerInfo[playerid][pSkinId], playerInfo[playerid][pBenefitStatus], playerInfo[playerid][pName]);
+    mysql_format(db_handle, query, sizeof(query), "UPDATE `users` SET `money` = '%i', `skin_id` = '%i', `benefit` = '%i', `owns_house` = '%i' WHERE `username` = '%s'", playerInfo[playerid][pMoney], playerInfo[playerid][pSkinId], playerInfo[playerid][pBenefitStatus], playerInfo[playerid][pHouse], playerInfo[playerid][pName]);
+	mysql_query(db_handle, query);
+	mysql_format(db_handle, query, sizeof(query), "UPDATE `houses` SET `owner` = '%s' WHERE `id` = '%i'",playerInfo[playerid][pName], houseInfo[playerInfo[playerid][pHouse]][hId]);
 	mysql_query(db_handle, query);
 	return 1;
 }
@@ -240,8 +304,8 @@ public OnVehicleDeath(vehicleid, killerid)
 public OnPlayerText(playerid, text[])
 {
   	new pmessage[100];
- 	format(pmessage, sizeof(pmessage), "%s: %s", playerInfo[playerid][pName], text);
- 	message(playerid, -1, pmessage, 20.0);
+ 	format(pmessage, sizeof(pmessage), "- %s: %s", playerInfo[playerid][pName], text);
+ 	message(playerid, -1, pmessage, 30.0);
  	return 0;
 }
 
@@ -334,12 +398,35 @@ public OnPlayerPickUpPickup(playerid, pickupid)
 	{
  		if(houseInfo[i][hPickup] == pickupid)
 		{
-		    if(houseInfo[i][hClass] == 3)
-		    {
-		        ShowPlayerDialog(playerid, DIALOG_ENTER, DIALOG_STYLE_MSGBOX, "Ieiet", "Vai vçlaties ieiet mâjoklî?", "Piekrist", "Atcelt");
-		        playerInfo[playerid][pInInteriorId] = i;
+		    printf("%s", playerInfo[playerid][pName]);
+		    new msg[100], Class[3];
+		    if(houseInfo[i][hClass] == 4)
+			{
+  				Class = "C";
 			}
-		 	
+	  		else if(houseInfo[i][hClass] == 3)
+	  		{
+    			Class = "B";
+  			}
+  			else if(houseInfo[i][hClass] == 2)
+  			{
+	    		Class = "A";
+  			}
+  			else if(houseInfo[i][hClass] == 1)
+  			{
+ 				Class = "A+";
+			}
+			
+ 			if(houseInfo[i][hOwner])
+ 			{
+ 			    format(msg, sizeof(msg), "Vai vçlaties ieiet mâjoklî?\nKlase: %s\nCena: %i$\nîpaðnieks: %s", Class, houseInfo[i][hPrice], houseInfo[i][hOwner]);
+ 			}
+ 			else
+ 			{
+      			format(msg, sizeof(msg), "Vai vçlaties iegâdâties mâjokli?\nKlase: %s\nCena: %i$", Class, houseInfo[i][hPrice]);
+  			}
+  			ShowPlayerDialog(playerid, DIALOG_ENTER, DIALOG_STYLE_MSGBOX, "Ieiet", msg, "Piekrist", "Atcelt");
+  			playerInfo[playerid][pInInteriorId] = i;
 		}
 	}
 
@@ -419,6 +506,7 @@ public OnVehicleStreamOut(vehicleid, forplayerid)
 
 public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 {
+	// Login
  	if(dialogid == DIALOG_LOGIN)
 	{
 		if(response)
@@ -427,7 +515,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 	 		mysql_format(db_handle, query, sizeof(query), "SELECT * FROM `users` WHERE `username` = '%s';", playerInfo[playerid][pName]);
 	 		result = mysql_query(db_handle, query);
  		 	cache_get_value_index(0, 2, userPassword);
- 		 	if(!strcmp(userPassword[0], inputtext[0]))
+ 		 	if(strcmp(userPassword[0], inputtext[0])==0)
  		 	{
  		 	    SendClientMessage(playerid, -1, "Laipni lûgti \"Snjus RP\"(JK)!");
  		 	    cache_get_value_index(0, 2, playerInfo[playerid][pPassword]);
@@ -448,6 +536,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
   		}
 		return 1;
 	}
+	// Reìistrâcija
 	if(dialogid == DIALOG_REGISTER)
 	{
 		if(response)
@@ -475,7 +564,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 	{
 	    if(response)
 	    {
-	        SetPlayerPos(playerid, houseInfo[playerInfo[playerid][pInInteriorId]][hExitX] + 2, houseInfo[playerInfo[playerid][pInInteriorId]][hExitY], houseInfo[playerInfo[playerid][pInInteriorId]][hExitZ] + 2);
+	        SetPlayerPos(playerid, houseInfo[playerInfo[playerid][pInInteriorId]][hEnterX] + 2, houseInfo[playerInfo[playerid][pInInteriorId]][hEnterY], houseInfo[playerInfo[playerid][pInInteriorId]][hEnterZ] + 2);
 			SetPlayerInterior(playerid, 0);
  			SetPlayerVirtualWorld(playerid, 0);
  			playerInfo[playerid][pInInteriorId] = 0;
@@ -486,10 +575,49 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 	{
 		if(response)
 		{
-	 		SetPlayerInterior(playerid, 2);
-	 		SetPlayerVirtualWorld(playerid, playerInfo[playerid][pInInteriorId]);
-	 		SetPlayerPos(playerid,268.5076,304.9388,999.1484);
-
+		    if(!houseInfo[playerInfo[playerid][pInInteriorId]][hOwner])
+		    {
+		        if(houseInfo[playerInfo[playerid][pInInteriorId]][hPrice] > GetPlayerMoney(playerid))
+		        {
+					SendClientMessage(playerid, COLOR_RED, "Jums nepietiek naudas!");
+				}
+				else
+				{
+				    new PlayerName[MAX_PLAYER_NAME + 1];
+				    GivePlayerMoney(playerid, - houseInfo[playerInfo[playerid][pInInteriorId]][hPrice]);
+				    GetPlayerName(playerid, PlayerName, sizeof(PlayerName));
+				    houseInfo[playerInfo[playerid][pInInteriorId]][hOwner] = PlayerName;
+			     	playerInfo[playerid][pHouse] = playerInfo[playerid][pInInteriorId];
+			     	printf("Nopirkts! %s",  houseInfo[playerInfo[playerid][pInInteriorId]][hOwner]);
+				}
+		    }
+		    else
+		    {
+		    if(houseInfo[playerInfo[playerid][pInInteriorId]][hClass] == 4)
+	  		{
+	 			SetPlayerInterior(playerid, 4);
+	 			SetPlayerVirtualWorld(playerid, playerInfo[playerid][pInInteriorId]);
+	 			SetPlayerPos(playerid,221.92, 1140.20, 1082.61);
+	 		}
+			else if(houseInfo[playerInfo[playerid][pInInteriorId]][hClass] == 3)
+			{
+			    SetPlayerInterior(playerid, 15);
+	 			SetPlayerVirtualWorld(playerid, playerInfo[playerid][pInInteriorId]);
+	 			SetPlayerPos(playerid,295.04, 1472.26, 1080.26);
+			}
+			else if(houseInfo[playerInfo[playerid][pInInteriorId]][hClass] == 2)
+			{
+			    SetPlayerInterior(playerid, 10);
+	 			SetPlayerVirtualWorld(playerid, playerInfo[playerid][pInInteriorId]);
+	 			SetPlayerPos(playerid,2270.38, -1210.35, 1047.56);
+			}
+            else if(houseInfo[playerInfo[playerid][pInInteriorId]][hClass] == 1)
+			{
+			    SetPlayerInterior(playerid, 9);
+	 			SetPlayerVirtualWorld(playerid, playerInfo[playerid][pInInteriorId]);
+	 			SetPlayerPos(playerid, 2317.89, -1026.76, 1050.22);
+			}
+			}
 		}
 		return 1;
 	}
@@ -608,16 +736,8 @@ CMD:vehicle(playerid, params[])
 
 CMD:repair(playerid, params[])
 {
-    new vehId;
-	if(sscanf(params,"", vehId))
-	{
-     	return SendClientMessage(playerid, COLOR_RED, "/repair");
-	}
-	else
-	{
-	    SendClientMessage(playerid, COLOR_BLUE, "Jûs salabojât savu auto!");
-  		RepairVehicle(GetPlayerVehicleID(playerid));
-	}
+    SendClientMessage(playerid, COLOR_BLUE, "Jûs salabojât savu auto!");
+	RepairVehicle(GetPlayerVehicleID(playerid));
     return 1;
 }
 
@@ -651,7 +771,6 @@ CMD:goto(playerid, params[])
 CMD:comehere(playerid, params[])
 {
     new TargetId, Float:x, Float:y, Float:z;
-    new TargetName[MAX_PLAYER_NAME + 1], PlayerName[MAX_PLAYER_NAME + 1];
     new msg[80];
     new msg1[80];
 	if(sscanf(params,"r", TargetId))
@@ -662,13 +781,11 @@ CMD:comehere(playerid, params[])
 	{
 		if(TargetId != INVALID_PLAYER_ID)
 		{
-	    	GetPlayerName(playerid, TargetName, sizeof(TargetName));
-	    	GetPlayerName(playerid, PlayerName, sizeof(PlayerName));
 	    	GetPlayerPos(playerid, x, y, z);
 	    	SetPlayerPos(TargetId, x+1, y+1, z+1);
-	    	format(msg, sizeof(msg), "Jûs %s administrators teleportçjâties pie sevis!", PlayerName);
+	    	format(msg, sizeof(msg), "Jûs %s administrators teleportçja pie sevis!", playerInfo[playerid][pName]);
 	    	SendClientMessage(playerid, COLOR_BLUE, msg);
-	    	format(msg1, sizeof(msg1), "Jûs teleportçjât pie sevis %s!", TargetName);
+	    	format(msg1, sizeof(msg1), "Jûs teleportçjât pie sevis %s!",  playerInfo[TargetId][pName]);
 	    	SendClientMessage(TargetId, COLOR_BLUE, msg1);
 		}
 		else
@@ -700,14 +817,60 @@ CMD:do(playerid, params[])
 {
     new pmessage[100];
  	format(pmessage, sizeof(pmessage), "%s ((%s))", params, playerInfo[playerid][pName]);
- 	message(playerid, 0xC2A2DAAA, pmessage, 20.0);
+ 	message(playerid, 0xC2A2DAAA, pmessage, 30.0);
  	return 1;
 }
 CMD:me(playerid, params[])
 {
     new pmessage[100];
  	format(pmessage, sizeof(pmessage), "%s %s", playerInfo[playerid][pName], params);
- 	message(playerid, 0xC2A2DAAA, pmessage, 20.0);
+ 	message(playerid, 0xC2A2DAAA, pmessage, 30.0);
  	return 1;
 }
+CMD:s(playerid, params[])
+{
+    new pmessage[100];
+ 	format(pmessage, sizeof(pmessage), "- %s kliedz: %s", playerInfo[playerid][pName], params);
+ 	message(playerid, -1, pmessage, 50.0);
+ 	// ApplyAnimation(playerid, "RIOT", "RIOT_CHANT", 4.1, 1, 1, 1, 1, 1, 1);
+ 	ApplyAnimation(playerid, "ON_LOOKERS", "SHOUT_01", 4.1, 0, 1, 1, 0, 3000, 1);
+ 	return 1;
+}
+
+CMD:spawn(playerid, params[])
+{
+
+	SetPlayerPos(playerid, 1760.4478,-1899.2943,13.5631);
+
+}
+
+CMD:kickall(playerid, params[])
+{
+
+	if(!IsPlayerAdmin(playerid))
+	{
+
+		return 1;
+
+	}
+	else
+	{
+		SendClientMessageToAll(-1, "Servera restarts!");
+		foreach(Player, i)
+		{
+    		new query[150];
+			playerInfo[i][pMoney] = GetPlayerMoney(i);
+    		mysql_format(db_handle, query, sizeof(query), "UPDATE `users` SET `money` = '%i', `skin_id` = '%i', `benefit` = '%i', `owns_house` = '%i' WHERE `username` = '%s'", playerInfo[i][pMoney], playerInfo[i][pSkinId], playerInfo[i][pBenefitStatus], playerInfo[i][pHouse], playerInfo[i][pName]);
+			mysql_query(db_handle, query);
+			mysql_format(db_handle, query, sizeof(query), "UPDATE `houses` SET `owner` = '%s' WHERE `id` = '%i'",playerInfo[i][pName], houseInfo[playerInfo[i][pHouse]][hId]);
+			mysql_query(db_handle, query);
+			Kick(i);
+		}
+
+	}
+
+	return 1;
+
+}
+
 
